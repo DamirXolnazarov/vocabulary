@@ -1,32 +1,122 @@
 <template>
   <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
+    <div class="footer">
+      <router-link class="s" to="/"><span class="a" @click="add()">Learn</span></router-link>
+      <router-link class="d" to="/check"><span class="a" @click="add1()">Check</span></router-link>
+    </div>
     <router-view/>
   </div>
 </template>
+<script>
+// learn.onclick = () =>{
+  // learn.style.opacity= '40%'
+// }
+// check.onclick = () =>{
+  // check.style.opacity= '40%'
+// }
+  // let check = document.querySelector('.d')
+
+export default{
+  name: 'App',
+   methods: {
+add(){
+let learn = document.querySelector('.s')
+let check = document.querySelector('.d')
+learn.style.opacity = '100%'
+  check.style.opacity = '60%'
+},
+add1(){
+  let learn = document.querySelector('.s')
+let check = document.querySelector('.d')
+  learn.style.opacity = '60%'
+  check.style.opacity = '100%';
+  let a = prompt('Enter a password')
+if(a == '12345'){
+  alert('Welcome MS.Gulnoza')
+}else{
+  window.location.pathname = '/'
+}
+  
+}
+} 
+    // },
+  //   add1(){
+  //     check.style.opacity = '100%';
+  //     learn.style.opacity = '60%'
+  //   }
+  //  }
+}
+    
+</script>
 
 <style>
+@font-face {
+  font-family: 'font1';
+  src: url('./assets/font1.ttf');
+}
+@font-face {
+  font-family: 'font2';
+  src: url('./assets/font2.ttf');
+}
+@font-face {
+  font-family: 'font3';
+  src: url('./assets/font3.ttf');
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
   text-align: center;
   color: #2c3e50;
 }
-
-nav {
-  padding: 30px;
+.footer{
+  width: 100%;
+  height: 70px;
+  background: white;
+  z-index: 999 !important;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
 }
-
-nav a {
-  font-weight: bold;
+.a{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+a{
+  text-decoration: none;
+  font-family: 'font2';
+  font-weight: 700;
   color: #2c3e50;
 }
-
-nav a.router-link-exact-active {
-  color: #42b983;
+.s{
+  display: flex;
+  flex-direction: row;
+  font-size: 26px;
+  align-items: center;
+  justify-content: center;
+  background: #ffbd03;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+}
+.d{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background: #ffbd03;
+  opacity: 60%;
+  font-size: 26px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
 }
 </style>
