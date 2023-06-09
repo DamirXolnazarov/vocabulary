@@ -18,7 +18,7 @@
 </template>
 
 <script>
-// alert("This site is created by Damir_uzb for your bright future!!!");
+alert("This site is created by Damir_uzb for your bright future!!!");
 export default {
   name: "HomeView",
   components: {},

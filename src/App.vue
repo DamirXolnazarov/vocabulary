@@ -2,7 +2,7 @@
   <div id="app">
     <div class="footer">
       <router-link class="s" to="/"><span class="a" @click="add()">Learn</span></router-link>
-      <router-link class="d" to="/check"><span class="a" @click="add1()">Check</span></router-link>
+      <router-link class="d" to="/"><span class="a" @click="add1()">Check</span></router-link>
     </div>
     <router-view/>
   </div>
