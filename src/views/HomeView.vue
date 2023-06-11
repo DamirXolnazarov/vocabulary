@@ -8,21 +8,28 @@
     <div class="days">
       <div class="na"><span>Days:</span></div>
       <router-link to="/day">
-      <div class="day" @click='dae(day)' v-for="day of this.days" :key="day.id">
-        <span class="name">Day <span>{{ day.day }}</span></span>
-        <span class="word_count">Words: {{ day.words.length }}</span>
-      </div>
+        <div
+          class="day"
+          @click="dae(day)"
+          v-for="day of this.days"
+          :key="day.id"
+        >
+          <span class="name"
+            >Day <span>{{ day.day }}</span></span
+          >
+          <span class="word_count">Words: {{ day.words.length }}</span>
+        </div>
       </router-link>
     </div>
   </div>
 </template>
 
 <script>
-alert("This site is created by Damir_uzb for your bright future!!!");
+// alert("This site is created by Damir_uzb for your bright future!!!");
 export default {
   name: "HomeView",
   components: {},
- 
+
   data() {
     return {
       days: [
@@ -572,173 +579,395 @@ export default {
             },
             {
               word: "vocation",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "a type of work that you feel you are suited to doing and to which you should give all your time and energy, or the feeling that a type of work suits you in this way",
+              ],
+              examples: [
+                "I feel I've found/missed my true vocation.",
+                "To work in medicine, you should have a vocation for it.",
+              ],
             },
             {
               word: "inscription",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "words that are written or cut in something",
+                ],
+              examples: [
+                'The inscription read "To darling Molly, Christmas 1904"."',
+                "The inscriptions on the gravestones were worn away.",
+                ],
             },
             {
               word: "mule",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "an animal whose mother is a horse and whose father is a donkey, used especially for transporting goods ",
+                "a person who agrees to carry illegal drugs into another country in return for payment by the person selling the drugs",
+                "a woman's shoe or slipper that has no back"
+                ],
+              examples: [
+                "These very poor women who are used as mules by drug barons often get long prison sentences.",
+                "I have loaded my all stuffs on mule",
+                ],
             },
             {
               word: "cooperate",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "to act or work together for a particular purpose, or to be helpful by doing what someone asks you to do",
+                ],
+              examples: [
+                "A two-year old is likely to refuse to cooperate when you tell her to get dressed.",
+                "The two companies have cooperated in joint ventures for the past several years.",
+                "The Spanish authorities cooperated with the British police in finding the terrorists."
+                ],
             },
             {
               word: "proceed",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "to continue as planned",
+                "proceed to do something-to do something after you have done something else",
+                "to move forward or travel in a particular direction"
+                ],
+              examples: [
+                "His lawyers have decided not to proceed with the case.",
+                "Preparations for the festival are now proceeding smoothly.",
+                "She sat down and proceeded to tell me about her skiing holiday.",
+                "Passengers for Madrid should proceed to gate 26 for boarding."
+                ],
             },
             {
               word: "drench",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "to make someone or something extremely wet",
+                "to make something have a very large amount of a quality",
+                ],
+              examples: [
+                "A sudden thunderstorm had drenched us to the skin.",
+                "She likes to eat her popcorn drenched in chilli sauce.",
+                "The opera was light on plot and positively drenched in comedy."
+                ],
             },
             {
               word: "lashing",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "the punishment of being hit with a whip",
+                "a rope, cable, etc. for tying one thing to another",
+                "lashings - a lot of food or drink  "
+                ],
+              examples: [
+                "He was sentenced to receive a lashing.",
+                "Each fitting had been sealed and each lashing tied.",
+                "scones with lashings of cream",
+                "A life-size effigy was tied to a stake with tight lashings of twine."
+                ],
             },
             {
               word: "splash",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "If a liquid splashes or if you splash a liquid, it falls on or hits something or someone",
+                "to move in water so that drops of it go in all directions",
+                "to print or show something, or be printed or shown, in a very noticeable way"
+                ],
+              examples: [
+                "Water was splashing from a hole in the roof.",
+                "She splashed her face with cold water.",
+                "The kids were splashing (about/around) in the shallow end of the swimming pool.",
+                "The story has splashed all over Canadian newspapers."
+                ],
             },
             {
               word: "swamp",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "(an area of) very wet, soft land",
+                "to cover a place or thing with a large amount of water",
+                "If something swamps a person, system, or place, more of it arrives than can be easily dealt with"
+                ],
+              examples: [
+                "The Everglades are an area of swamp in southern Florida.",
+                "High tides have swamped the coast.",
+                "Foreign cars have swamped the UK market."
+                ],
             },
             {
               word: "soaked",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "extremely wet",
+                ],
+              examples: [
+                "My shoes are soaked (through).",
+                "His T-shirt was soaked in sweat.",
+                ],
             },
             {
-              word: "matress",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              word: "mattress",
+              definition: [
+                "the part of a bed, made of a strong cloth cover filled with firm material, that makes the bed comfortable to lie on",
+                ],
+              examples: [
+                "My bed's mattress is very hard."
+                ],
             },
             {
               word: "remarkably",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "used for emphasizing how surprising or unusual something is",
+                ],
+              examples: [
+                "Remarkably, she wasn't hurt in the crash.",
+                "It is a remarkably noisy and crowded city.",
+                ],
             },
             {
               word: "setback",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "something that happens that delays or prevents a process from developing",
+                ],
+              examples: [
+                "Sally had been recovering well from her operation, but yesterday she experienced/suffered a setback.",
+                "There has been a slight/temporary setback in our plans.",
+                ],
             },
             {
               word: "splendid",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "excellent, or beautiful and impressive",
+                ],
+              examples: [
+                "We had splendid food/a splendid holiday/splendid weather.",
+                "You look splendid in that outfit.",
+                "The splendid old opera house was torn down."
+                ],
             },
             {
               word: "prime",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "main or most important",
+                "of the best quality",
+                "the period in your life when you are most active or successful"
+                ],
+              examples: [
+                "This is a prime example of 1930s architecture.",
+                "The hotel is in a prime location in the city centre.",
+                "Middle age can be the prime of life if you have the right attitude."
+                ],
             },
             {
               word: "devastated",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "completely destroyed",
+                "very shocked and upset",
+                ],
+              examples: [
+                "Thousands of people have left their devastated villages and fled to the mountains.",
+                "She was utterly devastated when her husband died.",
+                ],
             },
             {
               word: "sadden",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "to make someone sad or unhappy",
+                ],
+              examples: [
+                "It saddens me to think that we'll never see her again.",
+                "It saddened me to learn of your father’s death",
+                "We are deeply saddened by this devastating tragedy."
+                ],
             },
             {
               word: "awe-inspiring",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "causing you to feel great respect or admiration:",
+                "awesome"
+              ],
+              examples: [
+                "Niagara Falls really is an awe-inspiring sight.",
+                "Her knowledge of computers is quite awe-inspiring.",
+              ],
             },
             {
               word: "sketch",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "a simple, quickly-made drawing that does not have many details ",
+                "a short written or spoken story that does not have many details",
+                "a short, humorous part of a longer show on stage, television, or radio"
+              ],
+              examples: [
+                "My mother made a (pencil) sketch of my brother reading a book.",
+                "I thought the sketch about celebrity chefs was really funny.",
+                "The art students were told to sketch the landscape."
+              ],
             },
             {
               word: "adorn",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "to add something decorative to a person or thing",
+              ],
+              examples: [
+                "The bride's hair was adorned with white flowers.",
+                "The great doorway was adorned with curved foliage."
+              ],
             },
             {
               word: "foliage",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "the leaves of a plant or tree, or leaves on the stems or branches on which they are growing",
+                "the leaves of a plant or tree",
+              ],
+              examples: [
+                "The dense foliage overhead almost blocked out the sun.",
+                "Dense foliage blocked the path.",
+              ],
             },
             {
               word: "strip",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "to remove, pull, or tear the covering or outer layer from something",
+                "to remove something from somewhere",
+                "to take something important, such as a title, away from someone, usually as a punishment",
+                "to take out everything that is not part of the structure of a room or building",
+                "to sell the assets (= valuable parts) of a company",
+              ],
+              examples: [
+                "Huge areas of land have been stripped of all trees and vegetation.",
+                "When you strip the word from its context, it loses its meaning.",
+                "He was stripped of his knighthood after he was convicted of stealing from the company.",
+                "The house had been stripped, except for one wall fitting.",
+                "He made his fortune as a young man by buying up large companies and stripping the assets."
+              ],
             },
             {
               word: "sanctuary",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "protection or a safe place, especially for someone or something being chased or hunted",
+                "a place where birds or animals can live and be protected, especially from being hunted or dangerous conditions",
+              ],
+              examples: [
+                "The chapel became a sanctuary for the refugees.",
+                "a wildlife/bird sanctuary",
+                "Illegal immigrants found/sought/took sanctuary in a local church."
+              ],
             },
             {
               word: "avalanche",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "a large amount of ice, snow, and rock falling quickly down the side of a mountain",
+                "too many things that arrive or happen at the same time",
+              ],
+              examples: [
+                "We were swamped by an avalanche of letters/phone calls/complaints.",
+                "We received an avalanche of complaints.",
+              ],
             },
             {
               word: "obliterate",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "to remove all signs of something, either by destroying it or by covering it so that it cannot be seen",
+                "to make an idea or feeling disappear completely",
+              ],
+              examples: [
+                "The missile strike was devastating - the target was totally obliterated.",
+                "All of a sudden the view was obliterated by the fog.",
+                "Maybe she gets drunk to obliterate painful memories."
+              ],
             },
             {
               word: "peer",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "to look carefully or with difficulty",
+                "a person who is the same age or has the same social position or the same abilities as other people in a group",
+              ],
+              examples: [
+                "The driver was peering into the distance trying to read the road sign.",
+                "Do you think it's true that teenage girls are less self-confident than their male peers?",
+              ],
             },
             {
               word: "stick out",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "to go past the surface or edge of something",
+                "to be very easy to notice",
+                "to come forward from the rest of your body, or to make part of your body do this"
+              ],
+              examples: [
+                "Paul's ears stick out a little.",
+                "There was a handkerchief sticking out of his jacket pocket.",
+                "She certainly sticks out in a crowd.",
+                "Mum, Lewis stuck out his tongue at me!"
+              ],
             },
             {
               word: "puzzle out",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "to discover or understand something by thinking hard about it",
+              ],
+              examples: [
+                "I still can't puzzle out how I managed to spend so much money last month.",
+              ],
             },
             {
               word: "uphill",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "leading to a higher place on a slope",
+                "needing a large amount of effort",
+              ],
+              examples: [
+                "an uphill climb",
+                "It'll be an uphill struggle/battle/fight to get the new proposals accepted.",
+              ],
             },
             {
               word: "tower over",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "to be very tall in comparison with someone or something else",
+                "to be much bigger and more successful than another thing of the same type",
+              ],
+              examples: [
+                "The new hotel towers over the Shanghai skyline.",
+                "Although he's only twelve, David towers over his mother.",
+                "One computer manufacturer towers above all the rest."
+              ],
             },
             {
               word: "come upon",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "to find something or meet someone unexpectedly",
+              ],
+              examples: [
+                "I came upon this book in the attic - would you like it?",
+              ],
             },
             {
               word: "slope",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "a surface that lies at an angle to the horizontal so that some points on it are higher than others",
+                "(part of) the side of a hill or mountain",
+              ],
+              examples: [
+                "The roof is at a slope (= at an angle to a horizontal surface) of 30°.",
+                "Snow had settled on some of the higher slopes.",
+                "a ski/mountain slope"
+              ],
             },
             {
               word: "pave",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "to cover an area of ground with a hard, flat surface of pieces of stone, concrete, or bricks",
+                "pave the wway (for/to sth) - to make it possible for someone to do something or for something to happen",
+              ],
+              examples: [
+                "The area near the beach is paved with bricks set in patterns.",
+                "This merger will revolutionize the industry and pave the way for more international alliances.",
+              ],
             },
             {
               word: "misery",
-              definition: ["", "", ""],
-              examples: ["", "", ""],
+              definition: [
+                "great unhappiness",
+                "azob-uqubat",
+              ],
+              examples: [
+                "We have witnessed the most appalling scenes of human misery.",
+                "Ten years of marriage to him have made her life a misery.",
+              ],
             },
           ],
         },
@@ -746,7 +975,329 @@ export default {
           day: 3,
           words: [
             {
-              word: "ascension",
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[        
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "",
+              definition:[
+                "",
+                "",
+                ""
+              ],
+              examples:[
+                "",
+                "",
+                ""
+              ]
             },
           ],
         },
@@ -980,16 +1531,16 @@ export default {
         },
       ],
     };
-       },
-     methods: {
-     dae(ds){
-      for(let i of this.days){
-        if(ds.day == i.day){
-          window.localStorage.dey = JSON.stringify(i)
+  },
+  methods: {
+    dae(ds) {
+      for (let i of this.days) {
+        if (ds.day == i.day) {
+          window.localStorage.dey = JSON.stringify(i);
         }
       }
-     }
-     }
+    },
+  },
 };
 </script>
 <style scoped>
