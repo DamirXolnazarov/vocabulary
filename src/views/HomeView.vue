@@ -8,15 +8,8 @@
     <div class="days">
       <div class="na"><span>Days:</span></div>
       <router-link to="/day">
-        <div
-          class="day"
-          @click="dae(day)"
-          v-for="day of this.days"
-          :key="day.id"
-        >
-          <span class="name"
-            >Day <span>{{ day.day }}</span></span
-          >
+        <div class="day" @click="dae(day)" v-for="day of this.days" :key="day.id">
+          <span class="name">Day <span>{{ day.day }}</span></span>
           <span class="word_count">Words: {{ day.words.length }}</span>
         </div>
       </router-link>
@@ -591,11 +584,11 @@ export default {
               word: "inscription",
               definition: [
                 "words that are written or cut in something",
-                ],
+              ],
               examples: [
                 'The inscription read "To darling Molly, Christmas 1904"."',
                 "The inscriptions on the gravestones were worn away.",
-                ],
+              ],
             },
             {
               word: "mule",
@@ -603,22 +596,22 @@ export default {
                 "an animal whose mother is a horse and whose father is a donkey, used especially for transporting goods ",
                 "a person who agrees to carry illegal drugs into another country in return for payment by the person selling the drugs",
                 "a woman's shoe or slipper that has no back"
-                ],
+              ],
               examples: [
                 "These very poor women who are used as mules by drug barons often get long prison sentences.",
                 "I have loaded my all stuffs on mule",
-                ],
+              ],
             },
             {
               word: "cooperate",
               definition: [
                 "to act or work together for a particular purpose, or to be helpful by doing what someone asks you to do",
-                ],
+              ],
               examples: [
                 "A two-year old is likely to refuse to cooperate when you tell her to get dressed.",
                 "The two companies have cooperated in joint ventures for the past several years.",
                 "The Spanish authorities cooperated with the British police in finding the terrorists."
-                ],
+              ],
             },
             {
               word: "proceed",
@@ -626,25 +619,25 @@ export default {
                 "to continue as planned",
                 "proceed to do something-to do something after you have done something else",
                 "to move forward or travel in a particular direction"
-                ],
+              ],
               examples: [
                 "His lawyers have decided not to proceed with the case.",
                 "Preparations for the festival are now proceeding smoothly.",
                 "She sat down and proceeded to tell me about her skiing holiday.",
                 "Passengers for Madrid should proceed to gate 26 for boarding."
-                ],
+              ],
             },
             {
               word: "drench",
               definition: [
                 "to make someone or something extremely wet",
                 "to make something have a very large amount of a quality",
-                ],
+              ],
               examples: [
                 "A sudden thunderstorm had drenched us to the skin.",
                 "She likes to eat her popcorn drenched in chilli sauce.",
                 "The opera was light on plot and positively drenched in comedy."
-                ],
+              ],
             },
             {
               word: "lashing",
@@ -652,13 +645,13 @@ export default {
                 "the punishment of being hit with a whip",
                 "a rope, cable, etc. for tying one thing to another",
                 "lashings - a lot of food or drink  "
-                ],
+              ],
               examples: [
                 "He was sentenced to receive a lashing.",
                 "Each fitting had been sealed and each lashing tied.",
                 "scones with lashings of cream",
                 "A life-size effigy was tied to a stake with tight lashings of twine."
-                ],
+              ],
             },
             {
               word: "splash",
@@ -666,13 +659,13 @@ export default {
                 "If a liquid splashes or if you splash a liquid, it falls on or hits something or someone",
                 "to move in water so that drops of it go in all directions",
                 "to print or show something, or be printed or shown, in a very noticeable way"
-                ],
+              ],
               examples: [
                 "Water was splashing from a hole in the roof.",
                 "She splashed her face with cold water.",
                 "The kids were splashing (about/around) in the shallow end of the swimming pool.",
                 "The story has splashed all over Canadian newspapers."
-                ],
+              ],
             },
             {
               word: "swamp",
@@ -680,62 +673,62 @@ export default {
                 "(an area of) very wet, soft land",
                 "to cover a place or thing with a large amount of water",
                 "If something swamps a person, system, or place, more of it arrives than can be easily dealt with"
-                ],
+              ],
               examples: [
                 "The Everglades are an area of swamp in southern Florida.",
                 "High tides have swamped the coast.",
                 "Foreign cars have swamped the UK market."
-                ],
+              ],
             },
             {
               word: "soaked",
               definition: [
                 "extremely wet",
-                ],
+              ],
               examples: [
                 "My shoes are soaked (through).",
                 "His T-shirt was soaked in sweat.",
-                ],
+              ],
             },
             {
               word: "mattress",
               definition: [
                 "the part of a bed, made of a strong cloth cover filled with firm material, that makes the bed comfortable to lie on",
-                ],
+              ],
               examples: [
                 "My bed's mattress is very hard."
-                ],
+              ],
             },
             {
               word: "remarkably",
               definition: [
                 "used for emphasizing how surprising or unusual something is",
-                ],
+              ],
               examples: [
                 "Remarkably, she wasn't hurt in the crash.",
                 "It is a remarkably noisy and crowded city.",
-                ],
+              ],
             },
             {
               word: "setback",
               definition: [
                 "something that happens that delays or prevents a process from developing",
-                ],
+              ],
               examples: [
                 "Sally had been recovering well from her operation, but yesterday she experienced/suffered a setback.",
                 "There has been a slight/temporary setback in our plans.",
-                ],
+              ],
             },
             {
               word: "splendid",
               definition: [
                 "excellent, or beautiful and impressive",
-                ],
+              ],
               examples: [
                 "We had splendid food/a splendid holiday/splendid weather.",
                 "You look splendid in that outfit.",
                 "The splendid old opera house was torn down."
-                ],
+              ],
             },
             {
               word: "prime",
@@ -743,34 +736,34 @@ export default {
                 "main or most important",
                 "of the best quality",
                 "the period in your life when you are most active or successful"
-                ],
+              ],
               examples: [
                 "This is a prime example of 1930s architecture.",
                 "The hotel is in a prime location in the city centre.",
                 "Middle age can be the prime of life if you have the right attitude."
-                ],
+              ],
             },
             {
               word: "devastated",
               definition: [
                 "completely destroyed",
                 "very shocked and upset",
-                ],
+              ],
               examples: [
                 "Thousands of people have left their devastated villages and fled to the mountains.",
                 "She was utterly devastated when her husband died.",
-                ],
+              ],
             },
             {
               word: "sadden",
               definition: [
                 "to make someone sad or unhappy",
-                ],
+              ],
               examples: [
                 "It saddens me to think that we'll never see her again.",
                 "It saddened me to learn of your father’s death",
                 "We are deeply saddened by this devastating tragedy."
-                ],
+              ],
             },
             {
               word: "awe-inspiring",
@@ -976,12 +969,12 @@ export default {
           words: [
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -989,12 +982,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1002,12 +995,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1015,12 +1008,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1028,12 +1021,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1041,12 +1034,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1054,12 +1047,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1067,12 +1060,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1080,12 +1073,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1093,12 +1086,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1106,12 +1099,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1119,12 +1112,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1132,12 +1125,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1145,12 +1138,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1158,12 +1151,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1171,12 +1164,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1184,12 +1177,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1197,12 +1190,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1210,12 +1203,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1223,12 +1216,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1236,12 +1229,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1249,12 +1242,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1262,12 +1255,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[        
+              examples: [
                 "",
                 "",
                 ""
@@ -1275,12 +1268,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1288,12 +1281,12 @@ export default {
             },
             {
               word: "",
-              definition:[
+              definition: [
                 "",
                 "",
                 ""
               ],
-              examples:[
+              examples: [
                 "",
                 "",
                 ""
@@ -1303,7 +1296,305 @@ export default {
         },
         {
           day: 4,
-          words: [],
+          words: [
+            {
+              word: "iconoclastic",
+              definition: [
+                "strongly opposing generally accepted beliefs and traditions",
+              ],
+              examples: [
+                "iconoclastic views",
+                "His plays were fairly iconoclastic in their day.",
+              ]
+            },
+            {
+              word: "iconoclast",
+              definition: [
+                "a person who strongly opposes generally accepted beliefs and traditions",
+              ],
+              examples: [
+                "Rogers, an iconoclast in architecture, is sometimes described as putting the insides of buildings on the outside.",
+              ]
+            },
+            {
+              word: "precisely",
+              definition: [
+                "exactly",
+                "used to emphasize what you are saying",
+                "used to express complete agreement with someone or suggest that what they have said is obvious"
+              ],
+              examples: [
+                "The fireworks begin at eight o'clock precisely.",
+                "What do you think the problem is, precisely?",
+                "But it's precisely because of the noise that they're thinking of moving.",
+                '"It would be stupid to attempt the journey in the dark." "Precisely!" he answered.'
+              ]
+            },
+            {
+              word: "utilize",
+              definition: [
+                "to use something in an effective way",
+              ],
+              examples: [
+                "The vitamins come in a form that is easily utilized by the body.",
+              ]
+            },
+            {
+              word: "circuit",
+              definition: [
+                "a regular pattern of visits or the places visited",
+                "a particular area containing different courts that a judge visits",
+                "something shaped approximately like a circle, especially a route, path, or sports track that starts and ends in the same place",
+                "a closed system of wires or pipes through which electricity or liquid can flow"
+              ],
+              examples: [
+                "He was a familiar figure on the lecture circuit.",
+                "They first met each other on the tennis circuit",
+                "The judge had served for many years on the northeastern Circuit.",
+                "We made a leisurely circuit of the city walls.",
+                "A defect was found in the water-cooling/electrical circuit."
+              ]
+            },
+            {
+              word: "naysayer",
+              definition: [
+                "someone who says something is not possible, is not good, or will fail",
+              ],
+              examples: [
+                "He ignored the naysayers and persevered.",
+              ]
+            },
+            {
+              word: "irrelevant",
+              definition: [
+                "not related to what is being discussed or considered and therefore not important",
+              ],
+              examples: [
+                "These documents are largely irrelevant to the present investigation.",
+                "Making a large profit is irrelevant to us - the important thing is to make the book available to the largest possible audience.",
+              ]
+            },
+            {
+              word: "constraint",
+              definition: [
+                "something that controls what you do by keeping you within particular limits",
+                "under constraint-If you do something under constraint, you do it only because you have been forced to",
+                "unnatural behaviour that is sometimes the result of forcing yourself to act in a particular way"
+              ],
+              examples: [
+                "The constraints of politeness wouldn't allow her to say what she really thought about his cooking.",
+                "Financial constraints on the company are preventing them from employing new staff.",
+                "They confessed, but only under severe constraint.",
+                "She tried to appear friendly, but her constraint was obvious."
+              ]
+            },
+            {
+              word: "drumbeat",
+              definition: [
+                "(the sound of) a single hit on a drum",
+              ],
+              examples: [
+                "Now, the drumbeats of war can be heard.",
+              ]
+            },
+            {
+              word: "rumbling",
+              definition: [
+                "a sign of anger or disagreement",
+                "a continuous low sound",
+              ],
+              examples: [
+                "There are rumblings of annoyance throughout the workforce.",
+                "the rumbling of distant guns/thunder",
+                "Is it a rumbling for my work"
+              ]
+            },
+            {
+              word: "transmit",
+              definition: [
+                "to broadcast something, or to send out or carry signals or messages using radio, television, etc.",
+                "to pass a disease from one person or animal to another",
+                "to pass a particular feeling from one person to another or others, or to an animal"
+              ],
+              examples: [
+                "The information is transmitted electronically to the central computer.",
+                "Some diseases are transmitted from one generation to the next.",
+                "I'm transmitting my feelings through music."
+              ]
+            },
+            {
+              word: "pitfall",
+              definition: [
+                "a likely mistake or problem in a situation",
+                "an unexpected danger or difficulty",
+                "a problem that may happen in the future"
+              ],
+              examples: [
+                "There's a video that tells new students about pitfalls to avoid.",
+                "Who knows what kind of pitfalls they’re going to run into.",
+                "You should study hard to avoid financial pitfalls."
+              ]
+            },
+            {
+              word: "shortcut",
+              definition: [
+                "a route that leads from one place to another and is quicker and more direct than the usual route",
+                "a quicker way of doing something in order to save time or effort",
+                "a quick way to start or use a computer program"
+              ],
+              examples: [
+                "I know a shortcut to town.",
+                "a shortcut key",
+                "The kids take a shortcut through the parking lot to get to school."
+              ]
+            },
+            {
+              word: "plague",
+              definition: [
+                "to cause worry, pain, or difficulty to someone or something over a period of time",
+                "to annoy someone, especially by asking repeated questions",
+              ],
+              examples: [
+                "My shoulder's been plaguing me all week.",
+                "The children plagued him with questions all through lunch.",
+                "My feet are plauging me because I have broken them"
+              ]
+            },
+            {
+              word: "conjecture",
+              definition: [
+                "a guess about something based on how it seems and not on proof",
+              ],
+              examples: [
+                "There's been a lot of conjecture in the media recently about the marriage.",
+                "I have a conjecture about how people are created."
+              ]
+            },
+            {
+              word: "basis",
+              definition: [
+                "the most important facts, ideas, etc. from which something is developed",
+                "form the basis for",
+                "on the basis of"
+              ],
+              examples: [
+                "Their proposals have no proven scientific basis.",
+                "Decisions were often made on the basis of (= using) incorrect information.",
+                "This document will form the basis for our discussion."
+              ]
+            },
+            {
+              word: "bombard",
+              definition: [
+                "to attack a place with continuous shooting or bombs",
+              ],
+              examples: [
+                "The troops bombarded the city, killing and injuring hundreds.",
+                "The Russia is bombarding the Ukraine"
+              ]
+            },
+            {
+              word: "novelty",
+              definition: [
+                "the quality of being new and unusual",
+                "the quality of being new and unusual",
+                "a cheap unusual object such as a small toy, often given as a present"
+              ],
+              examples: [
+                "In Britain in the 1950s, television still had novelty value.",
+                "Tourists are still a novelty on this remote island.",
+                "The shop sells gifts and other novelties.",
+                "novelty item",
+                "I have an old phone that has novelty value"
+              ]
+            },
+            {
+              word: "embrace",
+              definition: [
+                "to accept something enthusiastically",
+                "to hold someone tightly with both arms to express love, liking, or sympathy, or when greeting or leaving someone",
+                "to include something, often as one of a number of things"
+              ],
+              examples: [
+                "This was an opportunity that he would embrace.",
+                "She saw them embrace on the station platform.",
+                "Linguistics embraces a diverse range of subjects such as phonetics and stylistics."
+              ]
+            },
+            {
+              word: "inhibit",
+              definition: [
+                "to prevent someone from doing something by making them feel nervous or embarrassed ",
+                "to slow down a process or the growth of something",
+              ],
+              examples: [
+                "Some workers were inhibited (from speaking) by the presence of their managers.",
+                "This drug inhibits the growth of tumours.",
+              ]
+            },
+            {
+              word: "afflict",
+              definition: [
+                "If a problem or illness afflicts a person or thing, they suffer from it",
+                "to make someone or something suffer physically or mentally",
+              ],
+              examples: [
+                "It is an illness that afflicts women more than men.",
+                "a country afflicted by civil war",
+                "He was afflicted with severe asthma."
+              ]
+            },
+            {
+              word: "empathy",
+              definition: [
+                "the ability to share someone else's feelings or experiences by imagining what it would be like to be in that person's situation",
+              ],
+              examples: [
+                "He loves children and has a certain empathy with them.",
+                "I love reading fantastic books and I have empathy with that books",
+              ]
+            },
+            {
+              word: "social identity",
+              definition: [
+                "Social identities are labels that people use to categorize or identify themselves and/or others as members of specific groups",
+              ],
+              examples: [
+                "It expanded on the potential of Rodney's archive as a resource for challenging our conceptions of cultural, physical and social identity",
+              ]
+            },
+            {
+              word: "social cognition",
+              definition: [
+                "Social cognition is the way we think about others.",
+              ],
+              examples: [
+                "I have no social cognition , because I am selfish",
+              ]
+            },
+            {
+              word: "intertwined",
+              definition: [
+                "twisted together or closely connected so as to be difficult to separate",
+              ],
+              examples: [
+                "Our fates seemed to be intertwined.",
+                "We are interwined friends , becuase I have known him sine my childhood"
+              ]
+            },
+            {
+              word: "asset",
+              definition: [
+                "a useful or valuable quality, skill, or person",
+                "something valuable belonging to a person or organization that can be used for the payment of debts",
+              ],
+              examples: [
+                "He'll be a great asset to the team.",
+                "Knowledge of languages is a real asset in this sort of work.",
+                "A company's assets can consist of cash, investments, specialist knowledge, or copyright material."
+              ]
+            },
+          ],
         },
         {
           day: 5,
@@ -1549,6 +1840,7 @@ export default {
   height: 630vh;
   padding: 0;
 }
+
 .title {
   text-transform: capitalize;
   margin-bottom: 25px;
@@ -1556,6 +1848,7 @@ export default {
   padding: 10px 0px;
   box-shadow: 0px 0px 4px #00000025;
 }
+
 .day {
   height: 70px;
   padding: 0px 35px;
@@ -1571,15 +1864,19 @@ export default {
   background: rgb(255, 255, 255);
   box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
 }
+
 .na span {
   font-size: 30px;
 }
+
 .day:active {
   background: rgb(214, 214, 214);
 }
+
 .na {
   padding-bottom: 15px;
 }
+
 .title span {
   color: #ffbd03;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
