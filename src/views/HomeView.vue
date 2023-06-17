@@ -1579,7 +1579,7 @@ export default {
               ],
               examples: [
                 "Our fates seemed to be intertwined.",
-                "We are interwined friends , becuase I have known him sine my childhood"
+                "We are interwined friends , becuase I have known him since my childhood"
               ]
             },
             {
