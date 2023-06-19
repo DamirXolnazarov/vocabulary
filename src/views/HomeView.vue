@@ -1598,7 +1598,235 @@ export default {
         },
         {
           day: 5,
-          words: [],
+          words: [
+          {
+              word: "olfaction",
+              definition: [
+                "the action of smelling, or the ability to smell",
+              ],
+              examples: [
+                "Dogs have a great olfaction.",
+              ]
+            },
+          {
+              word: "evoke",
+              definition: [
+                "to make someone remember something or feel an emotion",
+              ],
+              examples: [
+                "That smell always evokes memories of my old school.",
+                "It has evoked me",
+              ]
+            },
+          {
+              word: "scent",
+              definition: [
+                "a pleasant natural smell",
+                "scent of roses"
+              ],
+              examples: [
+                "Apples have a great scent",
+              ]
+            },
+          {
+              word: "rush",
+              definition: [
+                "to (cause to) go or do something very quickly",
+              ],
+              examples: [
+                "Slow down! What's the rush?",
+                "I try to do my shopping before the Christmas rush.",
+                "They made a rush at him to get his gun.",
+              ]
+            },
+          {
+              word: "foul",
+              definition: [
+                "extremely unpleasant",
+                "Foul speech or other language is offensive, rude, or shocking",
+                "against the rules of a sport",
+                "morally wrong"
+              ],
+              examples: [
+                "Those toilets smell foul!",
+                "Why are you in such a foul mood this morning?",
+                "a foul throw",
+                "All murders are foul and futile."
+              ]
+            },
+          {
+              word: "grimace",
+              definition: [
+                "to make an expression of pain, strong dislike, etc. in which the face twists in an ugly way",
+                "an expression of pain, strong dislike, etc. in which the face twists in an ugly way",
+              ],
+              examples: [
+                "He tried to stand and grimaced with pain.",
+                "Helen made a grimace of disgust when she saw the raw meat.",
+                "I usually make a grimace when I smell a bad scent of something.",
+              ]
+            },
+          {
+              word: "disgust",
+              definition: [
+                "a strong feeling of disapproval and dislike at a situation, person's behaviour, etc",
+                "to make you feel extreme dislike or disapproval",
+              ],
+              examples: [
+                "She walked out in disgust.",
+                "Sometimes some teachers disgust from students",
+              ]
+            },
+          {
+              word: "fragrant",
+              definition: [
+                "with a pleasant smell",
+              ],
+              examples: [
+                "fragrant flowers",
+                "I have couple of fragrat flowers",
+              ]
+            },
+          {
+              word: "bonding",
+              definition: [
+                "the process by which a close emotional relationship is developed",
+              ],
+              examples: [
+                "Much of the bonding between mother and child takes place in those early weeks",
+                "Our bonding between teachers and students is crucial for good lesson.",
+                "",
+              ]
+            },
+          {
+              word: "distinguish",
+              definition: [
+                "to notice or understand the difference between two things, or to make one person or thing seem different from another",
+                "distinguish yourself - to do something so well that you are admired and praised for it",
+              ],
+              examples: [
+                "I sometimes have difficulty distinguishing Spanish from Portuguese.",
+                "It's important to distinguish between business and pleasure.",
+                "He distinguished himself as a writer at a very early age.",
+                "I distinguished myself as a football player at my 7 years old."
+              ]
+            },
+          {
+              word: "feeble",
+              definition: [
+                "weak and without energy, strength, or power",
+                "not effective or good",
+              ],
+              examples: [
+                "He was a feeble, helpless old man.",
+                "Your brain is feeble and you should broaden your horizon.",
+                "a feeble joke/excuse",
+              ]
+            },
+          {
+              word: "elusive",
+              definition: [
+                "difficult to describe, find, achieve, or remember",
+              ],
+              examples: [
+                "The answers to these questions remain as elusive as ever.",
+                "I think this reading is very elusive , I can't retell it.",
+              ]
+            },
+          {
+              word: "realm",
+              definition: [
+                "an area of interest or activity",
+                "a country ruled by a king or queen",
+              ],
+              examples: [
+                "Her interests are in the realm of practical politics.",
+                "The matter was hotly debated in all the towns of the realm.",
+                "UK is realm ",
+                "I am keen on realm of being programmer"
+              ]
+            },
+          {
+              word: "implication",
+              definition: [
+                "an occasion when you seem to suggest something without saying it directly",
+                'the effect that an action or decision will have on something else in the future'
+              ],
+              examples: [
+                "She accused the party and, by implication, its leader too.",
+                "What are the implications of the new law?",
+                "He blamed her without any implications.",
+              ]
+            },
+          {
+              word: "hence",
+              definition: [
+                "that is the reason or explanation for",
+              ],
+              examples: [
+                "His mother was Italian, hence his name - Luca.",
+                "My name is Damir , hence I am Uzbek",
+              ]
+            },
+          {
+              word: "invest",
+              definition: [
+                "to put money, effort, time, etc. into something to make a profit or get an advantage",
+              ],
+              examples: [
+                "The institute will invest five million in the project.",
+                "The best father in the world is who invest to his children's education.",
+              ]
+            },
+          {
+              word: "intimate",
+              definition: [
+                "being a close, personal friend, or having a close, personal relationship",
+                "(of knowledge or understanding) detailed, and obtained from a lot of studying or experience",
+              ],
+              examples: [
+                "He became very intimate with an actor who is widely regarded as a Tomas Gates",
+                "The restaurant has a very intimate atmosphere.",
+                "She has an intimate knowledge of Tuscany, where she has lived for 20 years.",
+              ]
+            },
+          {
+              word: "attach",
+              definition: [
+                "to fasten, join, or connect something",
+                "attach to sb/sth - To attach a particular quality to something is to consider it to have that quality",
+              ],
+              examples: [
+                "I attached a photo to my application form.",
+                "I don't attach any importance/significance to these rumours.",
+              ]
+            },
+          {
+              word: "interiorized",
+              definition: [
+                "(of an idea, opinion, belief, etc.) accepted or absorbed so that it becomes part of your character",
+                "not allowing your feelings or emotions to show, although you think about them",
+              ],
+              examples: [
+                'Many people had this interiorised belief that "North is better".',
+                "I interiorized that reading e-books is better than reading paper based ones.",
+                "He was a typical example of a misunderstood, neglected, interiorized, troubled young man with violent tendencies.",
+              ]
+            },
+          {
+              word: "essence",
+              definition: [
+                "the basic or most important idea or quality of something",
+                "in essence - relating to the most important characteristics or ideas of something",
+                "be of the essence - to be the most important thing"
+              ],
+              examples: [
+                "I am of the essence , because I am a president",
+                "The essence of his argument was that education should continue throughout life.",
+                "Water consumption is in essence , because of its lackage.",
+              ]
+            },
+          ],
         },
         {
           day: 6,
