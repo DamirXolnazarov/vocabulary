@@ -1599,7 +1599,7 @@ export default {
         {
           day: 5,
           words: [
-          {
+            {
               word: "olfaction",
               definition: [
                 "the action of smelling, or the ability to smell",
@@ -1608,7 +1608,7 @@ export default {
                 "Dogs have a great olfaction.",
               ]
             },
-          {
+            {
               word: "evoke",
               definition: [
                 "to make someone remember something or feel an emotion",
@@ -1618,7 +1618,7 @@ export default {
                 "It has evoked me",
               ]
             },
-          {
+            {
               word: "scent",
               definition: [
                 "a pleasant natural smell",
@@ -1628,7 +1628,7 @@ export default {
                 "Apples have a great scent",
               ]
             },
-          {
+            {
               word: "rush",
               definition: [
                 "to (cause to) go or do something very quickly",
@@ -1639,7 +1639,7 @@ export default {
                 "They made a rush at him to get his gun.",
               ]
             },
-          {
+            {
               word: "foul",
               definition: [
                 "extremely unpleasant",
@@ -1654,7 +1654,7 @@ export default {
                 "All murders are foul and futile."
               ]
             },
-          {
+            {
               word: "grimace",
               definition: [
                 "to make an expression of pain, strong dislike, etc. in which the face twists in an ugly way",
@@ -1666,7 +1666,7 @@ export default {
                 "I usually make a grimace when I smell a bad scent of something.",
               ]
             },
-          {
+            {
               word: "disgust",
               definition: [
                 "a strong feeling of disapproval and dislike at a situation, person's behaviour, etc",
@@ -1677,7 +1677,7 @@ export default {
                 "Sometimes some teachers disgust from students",
               ]
             },
-          {
+            {
               word: "fragrant",
               definition: [
                 "with a pleasant smell",
@@ -1687,7 +1687,7 @@ export default {
                 "I have couple of fragrat flowers",
               ]
             },
-          {
+            {
               word: "bonding",
               definition: [
                 "the process by which a close emotional relationship is developed",
@@ -1698,7 +1698,7 @@ export default {
                 "",
               ]
             },
-          {
+            {
               word: "distinguish",
               definition: [
                 "to notice or understand the difference between two things, or to make one person or thing seem different from another",
@@ -1711,7 +1711,7 @@ export default {
                 "I distinguished myself as a football player at my 7 years old."
               ]
             },
-          {
+            {
               word: "feeble",
               definition: [
                 "weak and without energy, strength, or power",
@@ -1723,7 +1723,7 @@ export default {
                 "a feeble joke/excuse",
               ]
             },
-          {
+            {
               word: "elusive",
               definition: [
                 "difficult to describe, find, achieve, or remember",
@@ -1733,7 +1733,7 @@ export default {
                 "I think this reading is very elusive , I can't retell it.",
               ]
             },
-          {
+            {
               word: "realm",
               definition: [
                 "an area of interest or activity",
@@ -1746,7 +1746,7 @@ export default {
                 "I am keen on realm of being programmer"
               ]
             },
-          {
+            {
               word: "implication",
               definition: [
                 "an occasion when you seem to suggest something without saying it directly",
@@ -1758,7 +1758,7 @@ export default {
                 "He blamed her without any implications.",
               ]
             },
-          {
+            {
               word: "hence",
               definition: [
                 "that is the reason or explanation for",
@@ -1768,7 +1768,7 @@ export default {
                 "My name is Damir , hence I am Uzbek",
               ]
             },
-          {
+            {
               word: "invest",
               definition: [
                 "to put money, effort, time, etc. into something to make a profit or get an advantage",
@@ -1778,7 +1778,7 @@ export default {
                 "The best father in the world is who invest to his children's education.",
               ]
             },
-          {
+            {
               word: "intimate",
               definition: [
                 "being a close, personal friend, or having a close, personal relationship",
@@ -1790,7 +1790,7 @@ export default {
                 "She has an intimate knowledge of Tuscany, where she has lived for 20 years.",
               ]
             },
-          {
+            {
               word: "attach",
               definition: [
                 "to fasten, join, or connect something",
@@ -1801,7 +1801,7 @@ export default {
                 "I don't attach any importance/significance to these rumours.",
               ]
             },
-          {
+            {
               word: "interiorized",
               definition: [
                 "(of an idea, opinion, belief, etc.) accepted or absorbed so that it becomes part of your character",
@@ -1813,7 +1813,7 @@ export default {
                 "He was a typical example of a misunderstood, neglected, interiorized, troubled young man with violent tendencies.",
               ]
             },
-          {
+            {
               word: "essence",
               definition: [
                 "the basic or most important idea or quality of something",
@@ -1826,11 +1826,227 @@ export default {
                 "Water consumption is in essence , because of its lackage.",
               ]
             },
+            {
+              word: "sniff sb/sth out",
+              definition: [
+                "to discover where something or someone is by smelling",
+              ],
+              examples: [
+                "At customs, dogs are used to sniff out drugs in passengers' luggage",
+                "His father sniffed him out to check whether or not he smoked.",
+              ]
+            },
+            {
+              word: "plum",
+              definition: [
+                "fruit calles olxo'ri",
+                "plummer/plummest - very good and worth having",
+                "plum-coloured - having a dark reddish-purple colour"
+              ],
+              examples: [
+                "I like eating plum jam",
+                "Can I buy this plum teddy bear",
+                "This teddy bear is plum-coloured."
+              ]
+            },
+            {
+              word: "leak",
+              definition: [
+                "(of a liquid or gas) to escape from a hole or crack in a pipe or container; (of a container) to allow liquid or gas to escape",
+                "to allow secret information to become generally known",
+              ],
+              examples: [
+                "Having our tubes broken , water leaked and flooded.",
+                "Oil leaked out of the car.",
+                "News of the pay cuts had somehow leaked out."
+              ]
+            },
+            {
+              word: "postage",
+              definition: [
+                "the money that you pay for sending letters and parcels through the post",
+              ],
+              examples: [
+                "The postage costs $123.With dicount it will be $100.",
+              ]
+            },
+            {
+              word: "suck up into smth",
+              definition: [
+                "Biror narsaga singib ketish",
+              ],
+              examples: [
+                "The bad scent of his skin have sucked up into his body.",
+              ]
+            },
+            {
+              word: "dwell",
+              definition: [
+                "to live in a place or in a particular way",
+                "dwell on sth- to keep thinking or talking about something, especially something bad or unpleasant",
+                "dwell time - how long people are likely to spend looking at an advertisement, buying goods, etc., especially while they are waiting somewhere such as an airport or train station"
+              ],
+              examples: [
+                "She dwelt in remote parts of Asia for many years.",
+                "I dwell in Uzbekistan.",
+                "My dwell time on these aggressive games was 5 hours per week."
+              ]
+            },
+            {
+              word: "nuance",
+              definition: [
+                "a very slight difference in appearance, meaning, sound, etc.",
+                "a quality of something that is not easy to notice but may be important",
+              ],
+              examples: [
+                "Linguists explore the nuances of language.",
+                "Actors have to study the nuances of facial expression to show the whole range of emotions.",
+                "He gives a beautifully nuanced performance in a tricky role."
+              ]
+            },
+            {
+              word: "spectacular",
+              definition: [
+                "very exciting to look at",
+                "especially great",
+                ""
+              ],
+              examples: [
+                "a spectacular view",
+                "He scored a spectacular goal in the second half.",
+                "We've had spectacular success with the product.",
+                "He is very imaginative boy , so he has spectacular vies about how the brain works."
+              ]
+            },
           ],
         },
         {
           day: 6,
-          words: [],
+          words: [
+            {
+              word: 'five-a-day',
+              definition: [
+                'the five portions of fruit and vegetables that people are recommended to eat every day as part of a healthy diet.',
+              ],
+              examples: [
+                'If you eat your five-a-day you will be healthy till you die.',
+              ]
+            },
+            {
+              word: 'substantiate',
+              definition: [
+                'to show something to be true, or to support a claim with facts',
+              ],
+              examples: [
+                'I can substantiate if you don"t beleive in me.',
+                'He substantiated the murder'
+              ]
+            },
+            {
+              word: 'disrupt',
+              definition: [
+                'to prevent something, especially a system, process, or event, from continuing as usual or as expected',
+                'to change the traditional way that an industry operates, especially in a new and effective way',
+              ],
+              examples: [
+                'Heavy snow disrupted our plan.',
+                'Having broken trains , disrupted travel in the morning',
+              ]
+            },
+            {
+              word: 'catch up',
+              definition: [
+                'to reach someone in front of you by going faster than them',
+                'to reach the same quality or standard as someone or something else',
+                'to do something you did not have time to do earlier',
+                'learn and discuss news'
+              ],
+              examples: [
+                'I catched my brother up after 5 metres',
+                'I am catching up my homeworks',
+                'Let"s go for a coffee - I need to catch up on all the gossip.'
+              ]
+            },
+            {
+              word: 'deteriorate',
+              definition: [
+                'to become worse',
+              ],
+              examples: [
+                'The political situation in the region has deteriorated rapidly.',
+                'The value of money deteriorated suddenly in 21th century',
+              ]
+            },
+            {
+              word: 'saturated',
+              definition: [
+                'a type of fat found in meat, eggs, milk, cheese, etc. that is thought to be bad for your health',
+              ],
+              examples: [
+                'Butter and cream contain a lot of saturated fats.',
+                'In order to be healthy , you should stop eating foods containing saturated fat.',
+              ]
+            },
+            {
+              word: 'prescriptive',
+              definition: [
+                'saying exactly what must happen, especially by giving an instruction or making a rule',
+              ],
+              examples: [
+                'Most teachers think the government"s guidelines on homework are too prescriptive.',
+                'His basic attitude toward language is highly prescriptive.',
+              ]
+            },
+            {
+              word: 'stringency',
+              definition: [
+                'the quality of being very strict, severe, or limiting',
+                'a situation in which not enough money is available for borrowing as a result of firm controls on the amount of money in an economy',
+              ],
+              examples: [
+                'My math teacher has a great stringency',
+                'Greater financial stringency is needed to eradicate inflation from the economy.'
+              ]
+            },
+            {
+              word: 'assert ',
+              definition: [
+                'assert yourself - to behave in a way that expresses your confidence, importance, or power and earns you respect from others',
+                'to say that something is certainly true',
+                'to do something to show that you have power',
+                'assert sb"s authority , assert your right'  
+              ],
+              examples: [
+                'I really must assert myself more in meetings.',
+                'Don"t be afraid to assert yourself and make your views clear.',
+                'He asserts that she stole money from him.',
+                'She very rarely asserts her authority over the children.'
+              ]
+            },
+            {
+              word: 'moderate',
+              definition: [
+                'neither small nor large in size, amount, degree, or strength',
+              ],
+              examples: [
+                'The cabin is of moderate size - just right for a small family.',
+                'He"s a moderate drinker.',
+                'We have had moderate success in changing people"s attitudes.'
+              ]
+            },
+            {
+              word: 'lofty',
+              definition: [
+                'high',
+                'Lofty ideas, etc. are of a high moral standard',
+              ],
+              examples: [
+                'a lofty ceiling/mountain/wall',
+                'lofty sentiments/ideals',
+                'a lofty attitude/air/tone'
+              ]
+            },
+          ],
         },
         {
           day: 7,
