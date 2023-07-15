@@ -2014,7 +2014,7 @@ export default {
                 'assert yourself - to behave in a way that expresses your confidence, importance, or power and earns you respect from others',
                 'to say that something is certainly true',
                 'to do something to show that you have power',
-                'assert sb"s authority , assert your right'  
+                'assert sb"s authority , assert your right'
               ],
               examples: [
                 'I really must assert myself more in meetings.',
@@ -2049,8 +2049,448 @@ export default {
           ],
         },
         {
-          day: 7,
-          words: [],
+          day: 'Special Reading',
+          words: [
+            {
+              word: 'flourish',
+              definition: [
+                "to grow or develop successfully",
+                "to move something in your hand in order to make people look at it",
+                " with a flourish - If you do something with a flourish, you do it with one big, noticeable movement"
+              ],
+              examples: [
+                "If you do something with a flourish, you do it with one big, noticeable movement",
+                "Watercolour painting began to flourish in Britain around 1750.",
+                "Watercolour painting began to flourish in Britain around 1750.",
+                "Watercolour painting began to flourish in Britain around 1750."
+              ]
+            },
+            {
+              word: 'seizure',
+              definition: [
+                "the action of taking something by force or with legal authority",
+                "a very sudden attack of an illness in which someone becomes unconscious or develops violent movements",
+                "a sudden failure of the heart",
+                "the act of taking hold or possession of something"
+              ],
+              examples: [
+                "seizure of power/property/control",
+                "seizure of power/property/control",
+                "an epileptic seizure",
+                "the act of taking hold or possession of something",
+                "His aunt died of a seizure.",
+                "the act of taking hold or possession of something",
+              ]
+            },
+            {
+              word: 'drainage',
+              definition: [
+                "the system of water or waste liquids flowing away from somewhere into the ground or down pipes",
+                "the ability of soil to allow water to flow away"
+              ],
+              examples: [
+                "drainage channels/ditches/systems",
+                "These plants need a sunny spot with good drainage.",
+              ]
+            },
+            {
+              word: 'ditch',
+              definition: [
+                "a long, narrow open hole that is dug into the ground, usually at the side of a road or field, used especially for supplying or removing water or for dividing land",
+                "to get rid of something or someone that is no longer wanted",
+                "to land an aircraft in water in an emergency"
+              ],
+              examples: [
+                "The getaway car had been ditched a couple of miles away from the scene of the robbery.",
+                "Did you know that Sarah ditched (= ended her relationship with) her boyfriend last week?",
+                "It’s time to ditch this old, torn sweater."
+              ]
+            },
+            {
+              word: 'against the odds',
+              definition: [
+                "against all odds",
+                "If you do or achieve something against (all) the odds/against all odds, you do or achieve it although there were a lot of problems and you were not likely to succeed",
+              ],
+              examples: [
+                "Against all the odds, he recovered.",
+                "Against all the odds , I won the game single-handedly"
+              ]
+            },
+            {
+              word: 'fete',
+              definition: [
+                "a public event, often held outside, where you can take part in competitions and buy small things and food, often organized to collect money for a particular purpose",
+                "to praise or welcome someone publicly because of their achievements",
+                "a special celebration, often for a particular purpose, or to honor someone"
+              ],
+              examples: [
+                "a summer fete",
+                "They're holding the village fete on the green.",
+                "She was feted by audiences both in her own country and abroad.",
+                "The magazine’s founding editor was feted with a dinner on her 80th birthday."
+              ]
+            },
+            {
+              word: 'selflessness',
+              definition: [
+                "the quality of caring more about what other people need and want than about what you yourself need and want",
+              ],
+              examples: [
+                "I am touched by the bravery and selflessness of our emergency services personnel.",
+                "In addition to her remarkable selflessness, she has also inspired others to get involved.",
+              ]
+            },
+            {
+              word: 'proclaim',
+              definition: [
+                "to announce something publicly or officially, especially something positive",
+                "to show something or make it clear",
+              ],
+              examples: [
+                "All the countries have proclaimed their loyalty to the alliance.",
+                "It was the famous speech in which he proclaimed that socialism was dead.",
+                "She was proclaimed Queen at the age of 13 after the sudden death of her father.",
+                "Wearing scarves and hats which proclaimed their allegiance, the football fans flooded into the bar."
+              ]
+            },
+            {
+              word: 'exceptional',
+              definition: [
+                "much greater than usual, especially in skill, intelligence, quality, etc",
+                "an exceptional student",
+                "exceptional powers of concentration"
+              ],
+              examples: [
+                "The company has shown exceptional growth over the past two years.",
+                "This is an exceptional contract, guaranteeing no layoffs.",
+                "Davis has done an exceptional job of reporting."
+              ]
+            },
+            {
+              word: 'amid',
+              definition: [
+                "in the middle of or surrounded by",
+                "among",
+              ],
+              examples: [
+                "On the floor, amid mounds of books, were two small envelopes.",
+                "The new perfume was launched amidst a fanfare of publicity.",
+                "We camped that night in a shallow valley amid low hills."
+              ]
+            },
+            {
+              word: 'grim',
+              definition: [
+                "worrying, without hope",
+                "worried and serious or sad",
+                "very unpleasant or ugly"
+              ],
+              examples: [
+                "The future looks grim.",
+                "Her face was grim as she told them the bad news.",
+                "a grim-looking block of flats"
+              ]
+            },
+            {
+              word: 'indifference',
+              definition: [
+                "lack of interest in someone or something",
+              ],
+              examples: [
+                "Many native speakers of a language show indifference to/towards grammatical points.",
+                "His attitude was one of bored indifference.",
+              ]
+            },
+            {
+              word: 'self-sacrifice',
+              definition: [
+                "giving up what you want so that other people can have what they want",
+              ],
+              examples: [
+                "People say this is a selfish society, but frankly I've seen too much kindness, self-sacrifice and generosity to believe that.",
+                "The job requires a lot of enthusiasm, dedication and self-sacrifice.",
+              ]
+            },
+            {
+              word: 'renounce',
+              definition: [
+                "to say formally or publicly that you no longer own, support, believe in, or have a connection with something",
+              ],
+              examples: [
+                "Her ex-husband renounced his claim to the family house.",
+                "Gandhi renounced the use of violence.",
+              ]
+            },
+            {
+              word: 'ruthless',
+              definition: [
+                "not thinking or worrying about any pain caused to others; cruel",
+                "ruthless ambition",
+                "a ruthless dictator"
+              ],
+              examples: [
+                "Some people believe that to succeed in this world you have to be ruthless.",
+              ]
+            },
+            {
+              word: 'outperform',
+              definition: [
+                "to do well in a particular job or activity compared to others of a similar type",
+                "outdo"
+              ],
+              examples: [
+                "to do well in a particular job or activity compared to others of a similar type",
+              ]
+            },
+            {
+              word: 'coward',
+              definition: [
+                "a person who is not brave and is too eager to avoid danger, difficulty, or pain",
+              ],
+              examples: [
+                "They branded her a coward for informing on her colleagues during the interrogation.",
+                "I am not coward person , I am adventurous one."
+              ]
+            },
+            {
+              word: 'assert',
+              definition: [
+                "to behave in a way that expresses your confidence, importance, or power and earns you respect from others",
+                "to say that something is certainly true",
+                "to do something to show that you have power"
+              ],
+              examples: [
+                "I really must assert myself more in meetings.",
+                "Don't be afraid to assert yourself and make your views clear.",
+                "He asserts that she stole money from him.",
+                "assert your authority - She very rarely asserts her authority over the children.",
+                "assert your right - Throughout the Cold War, the Allies asserted their right to move freely between the two Berlins."
+              ]
+            },
+            {
+              word: 'sceptic',
+              definition: [
+                "a person who doubts the truth or value of an idea or belief",
+              ],
+              examples: [
+                "a person who doubts the truth or value of an idea or belief",
+                "to convince the sceptics",
+              ]
+            },
+            {
+              word: 'assumption',
+              definition: [
+                "something that you accept as true without question or proof",
+                "assumption of power - the act of taking a position of power, responsibility, ",
+              ],
+              examples: [
+                "People tend to make assumptions about you when you have a disability.",
+                "These calculations are based on the assumption that prices will continue to rise.",
+                "The revolutionaries' assumption of power took the army by surprise."
+              ]
+            },
+            {
+              word: 'nonetheless',
+              definition: [
+                "despite what has just been said or done",
+              ],
+              examples: [
+                "There are serious problems in our country. Nonetheless, we feel this is a good time to return.",
+                "My brother plays football very well , nonetheless I train on football club"
+              ]
+            },
+            {
+              word: 'dismissive',
+              definition: [
+                "showing that you do not think something is worth considering",
+              ],
+              examples: [
+                "showing that you do not think something is worth considering",
+                "a dismissive attitude",
+              ]
+            },
+            {
+              word: 'speculation',
+              definition: [
+                "the activity of guessing possible answers to a question without having enough information to be certain",
+                "the act of speculating in order to make a profit",
+                ""
+              ],
+              examples: [
+                "Speculation about his future plans is rife.",
+                "Rumours that they are about to marry have been dismissed as pure speculation.",
+                "News of the president's illness fuelled/prompted speculation that an election will be held later in the year."
+              ]
+            },
+            {
+              word: 'immaterial',
+              definition: [
+                "not important, or not relating to the subject you are thinking about",
+              ],
+              examples: [
+                "Whether the book is well or badly written is immaterial (to me) - it has an important message.",
+                "Mother tongue is immaterial to programming.",
+              ]
+            },
+            {
+              word: 'cost-benefit',
+              definition: [
+                "showing the advantages of an action in relation to its cost",
+              ],
+              examples: [
+                "He will apply cost-benefit tests to Defense department programs that fund commercial research.",
+              ]
+            },
+            {
+              word: 'couch',
+              definition: [
+                "a sofa",
+                "a type of high bed, especially one in a doctor's office",
+                "couch something in/as something - to express something in a particular way"
+              ],
+              examples: [
+                "I don't understand this form - it's all couched in legal terminology.",
+                "They want to couch their response in diplomatic, not threatening, terms.",
+                "I laid on couch."
+              ]
+            },
+            {
+              word: 'spontaneous',
+              definition: [
+                "happening or done in a natural, often sudden way, without any planning or without being forced",
+                "happening, especially in a living thing, without being caused by something outside, or without the organism's control",
+              ],
+              examples: [
+                "His jokes seemed spontaneous, but were in fact carefully prepared beforehand.",
+                "She's such a spontaneous, lively woman.",
+                "Spontaneous maturation is when meiosis continues without hormonal stimulation."
+              ]
+            },
+            {
+              word: 'split-second',
+              definition: [
+                "a very short moment of time",
+                "done in a quick way or in a short time",
+                ""
+              ],
+              examples: [
+                "They brought out guns and for a split second nobody moved.",
+                "We had to make a split-second (= very quick) decision.",
+                ""
+              ]
+            },
+            {
+              word: 'evolutionary',
+              definition: [
+                "relating to the way in which living things develop over millions of years",
+                "involving a gradual process of change and development",
+                ""
+              ],
+              examples: [
+                "The change has been evolutionary rather than revolutionary.",
+                "evolutionary change/progress/development - Sustainable business development involves systematically creating a better future through evolutionary changes.",
+                "evolutionary innovations"
+              ]
+            },
+            {
+              word: 'evident',
+              definition: [
+                "easily seen or understood",
+                "obvious",
+              ],
+              examples: [
+                "The full extent of the damage only became evident the following morning.",
+                "From the smell it was evident that the drains had been blocked for several days.",
+                "It quickly became evident that someone had broken in."
+              ]
+            },
+            {
+              word: 'incline',
+              definition: [
+                "to (make someone) feel something or want to do something",
+                "to (cause to) slope at a particular angle",
+                "incline your head - to bend your head slightly forward and down:"
+              ],
+              examples: [
+                "The prime minister is believed to be inclining towards an April election.",
+                "The ground inclined steeply towards the ridge in the distance.",
+                "He inclined his head and said nothing."
+              ]
+            },
+            {
+              word: 'empathy',
+              definition: [
+                "the ability to share someone else's feelings or experiences by imagining what it would be like to be in that person's situation",
+              ],
+              examples: [
+                "He loves children and has a certain empathy with them.",
+              ]
+            },
+            {
+              word: 'foster',
+              definition: [
+                "to take care of a child, usually for a limited time, without being the child's legal parent , take care of , look after",
+                "to encourage the development or growth of ideas or feelings",
+                "used to refer to someone or something connected with the care of children, usually for a limited time, by someone who is not the child's legal parent"
+              ],
+              examples: [
+                "Would you consider fostering (a child)?",
+                "I fostered my neighbours child for 2 days",
+                "I'm trying to foster an interest in classical music in my children.",
+                "The neglected child was removed from her home and placed with a foster family.",
+                "a foster care/home/child/mother , a foster care/home/child/mother"
+              ]
+            },
+            {
+              word: 'oblivious',
+              definition: [
+                "not conscious of something, especially what is happening around you",
+              ],
+              examples: [
+                "Absorbed in her work, she was totally oblivious of her surroundings.",
+                "The mayor seems oblivious to the likely effects of the new legislation.",
+              ]
+            },
+            {
+              word: 'disintegrate',
+              definition: [
+                "to become weaker or be destroyed by breaking into small pieces",
+                "to become much worse",
+              ],
+              examples: [
+                "The spacecraft disintegrated as it entered the earth's atmosphere.",
+                "The Ottoman Empire disintegrated into lots of small states.",
+                "The situation disintegrated into chaos."
+              ]
+            },
+            {
+              word: 'overlay',
+              definition: [
+                "to cover something with a layer of something",
+                "be overlaid with something - Something that is overlaid with something has a particular quality added to it that influences its character",
+                "a thin covering of something"
+              ],
+              examples: [
+                "The tiny carvings were overlaid with silver.",
+                "Her new novel is overlaid with political concerns.",
+                "The wood frame has a gold overlay."
+              ]
+            },
+            {
+              word: 'goodwill',
+              definition: [
+                "friendly and helpful feelings",
+                "part of a company's value that includes things that cannot be directly measured, for example, its good reputation or its customers' loyalty",
+                "Goodwill Industries: a US-based organization that collects old clothes and other unwanted things and sells them at low prices in special shops. The money is used to provide jobs, training, and services for people who are poor and cannot find work:"
+              ],
+              examples: [
+                "The school has to rely on the goodwill of the parents to help it raise money.",
+                "Releasing the hostages has been seen as a gesture of goodwill/a goodwill gesture.",
+                "The company's assets are worth £200 million, plus goodwill."
+              ]
+            },
+          ],
         },
         {
           day: 8,
