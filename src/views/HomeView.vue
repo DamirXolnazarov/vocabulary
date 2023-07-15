@@ -2061,8 +2061,8 @@ export default {
               examples: [
                 "If you do something with a flourish, you do it with one big, noticeable movement",
                 "Watercolour painting began to flourish in Britain around 1750.",
-                "Watercolour painting began to flourish in Britain around 1750.",
-                "Watercolour painting began to flourish in Britain around 1750."
+                "She came in smiling, flourishing her exam results.",
+                "The waiter handed me the menu with a flourish."
               ]
             },
             {
@@ -2075,11 +2075,9 @@ export default {
               ],
               examples: [
                 "seizure of power/property/control",
-                "seizure of power/property/control",
                 "an epileptic seizure",
                 "the act of taking hold or possession of something",
                 "His aunt died of a seizure.",
-                "the act of taking hold or possession of something",
               ]
             },
             {
