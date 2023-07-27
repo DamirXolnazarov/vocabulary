@@ -964,338 +964,9 @@ export default {
             },
           ],
         },
+       
         {
           day: 3,
-          words: [
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              word: "",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
-          ],
-        },
-        {
-          day: 4,
           words: [
             {
               word: "iconoclastic",
@@ -1597,7 +1268,7 @@ export default {
           ],
         },
         {
-          day: 5,
+          day: 4,
           words: [
             {
               word: "olfaction",
@@ -1921,7 +1592,7 @@ export default {
           ],
         },
         {
-          day: 6,
+          day: 5,
           words: [
             {
               word: 'five-a-day',
@@ -2486,6 +2157,425 @@ export default {
                 "The school has to rely on the goodwill of the parents to help it raise money.",
                 "Releasing the hostages has been seen as a gesture of goodwill/a goodwill gesture.",
                 "The company's assets are worth £200 million, plus goodwill."
+              ]
+            },
+          ],
+        },
+        {
+          day: 'sharing',
+          words: [
+            {
+              word: "put into",
+              definition: [
+                "to spend a lot of time or effort doing something",
+                "to invest money in something",
+              ],
+              examples: [
+                "If I put in some extra hours today, I can have some time off tomorrow.",
+                "We've put a lot of time into redesigning the packaging.",
+                "Unless you do'nt put into practising , you can't get high score"
+              ]
+            },
+            {
+              word: "financial crash",
+              definition: [
+                "bankrupt",
+              ],
+              examples: [
+                "Nowadays many countries are confronting with financial crashs because of their social unrest",
+              ]
+            },
+            {
+              word: "fragility of capitalism",
+              definition: [
+                "weakening of capitalism is equal to fragility of capitalism",
+              ],
+              examples: [
+                "There is a fragility of capitalism in many countries.",
+              ]
+            },
+            {
+              word: "traction",
+              definition: [
+                "the ability of a wheel or tyre to hold the ground without sliding",
+                "the pulling of a heavy load over a surface, or the power used in this",
+                "the fact of an idea, product, etc. becoming popular or being accepted"
+              ],
+              examples: [
+                "In deep snow, people should use snow tyres on their vehicles to give them better traction.",
+                "After her back operation poor Mira was in traction for six weeks.",
+                "In our digital age, it takes less time for new words and phrases to gain traction than it did in the past."
+              ]
+            },
+            {
+              word: "stranded",
+              definition: [
+                "unable to leave somewhere because of a problem such as not having any transport or money",
+                "left in a place from which you cannot escape",
+              ],
+              examples: [
+                "He left me stranded in town with no car and no money for a bus.",
+                "If the tide comes in, we'll be stranded on these rocks.",
+                "What would you miss most if you found yourself marooned on a desert island?",
+              ]
+            },
+            {
+              word: "executive",
+              definition: [
+                "someone in a high position, especially in business, who makes decisions and puts them into action",
+                "the executive - the part of a government that is responsible for making certain that laws and decisions are put into action",
+                "a group of people who run a business or an organization"
+              ],
+              examples: [
+                "She is now a senior executive, having worked her way up through the company.",
+                "The executive of the health workers' union accepted the proposed pay increase on behalf of their members.",
+                "The sales executive from Unilever is here to see you."
+              ]
+            },
+            {
+              word: "cited",
+              definition: [
+                "to mention something as proof for a theory or as a reason why something has happened",
+                "to speak or write words taken from a particular writer or written work",
+                "to praise someone in the armed forces publicly because of their brave actions"
+              ],
+              examples: [
+                "She cited three reasons why people get into debt.",
+                "The company cited a 13 percent decline in new orders as evidence that overall demand for its products was falling.",
+                "She cites both T.S. Eliot and Virginia Woolf in her article.",
+                "He was cited for bravery."
+              ]
+            },
+            {
+              word: "untold",
+              definition: [
+                "so great in amount or level that it can not be measured or expressed in words",
+              ],
+              examples: [
+                "untold riches",
+                "Words alone cannot convey the untold misery endured by people in these refugee camps.",
+              ]
+            },
+            {
+              word: "rolling stock",
+              definition: [
+                "the engines and carriages that are used on a railway",
+              ],
+              examples: [
+                "Rail firms have insurance cover for rolling stock.",
+              ]
+            },
+            {
+              word: "renew",
+              definition: [
+                "to increase the life of or replace something old",
+                "to begin doing something again",
+              ],
+              examples: [
+                "Every year I renew my membership of the sports club.",
+                "I forgot to renew my season ticket.",
+                "The kidnappers renewed their threats."
+              ]
+            },
+            {
+              word: "free of charge",
+              definition: [
+                "without having to pay",
+              ],
+              examples: [
+                "You can download the materials free of charge from our website.",
+                "he classes are offered free of charge.",
+              ]
+            },
+            {
+              word: "cab",
+              definition: [
+                "the separate front part of a large vehicle, such as a truck, bus, or train, in which the driver sits",
+                "a taxi",
+                "in the past, a vehicle pulled by a horse, used as a taxi"
+              ],
+              examples: [
+                "It'll save time if we go by cab.",
+                "the cab of a truck",
+              ]
+            },
+            {
+              word: "knickknack",
+              definition: [
+                "a small, decorative object, esp. in a house",
+              ],
+              examples: [
+                "The room was filled with knickknacks.",
+              ]
+            },
+            {
+              word: "enticing",
+              definition: [
+                "Something that is enticing attracts you to it by offering you advantages or pleasure",
+                "an enticing smile",
+                "an enticing job offer"
+              ],
+              examples: [
+                "It was enticing advertisement that I have ever seen",
+              ]
+            },
+            {
+              word: "panacea",
+              definition: [
+                "something that will solve all problems",
+                "something that will cure all illnesses",
+              ],
+              examples: [
+                "Technology is not a panacea for all our problems.",
+                "Single paancea is faith and belief.",
+              ]
+            },
+            {
+              word: "stagnate",
+              definition: [
+                "to stay the same and not grow or develop",
+                "(of a liquid or air) to not move or flow, often resulting in it becoming dirty",
+              ],
+              examples: [
+                "The electronics industry is showing signs of stagnating after 15 years of growth.",
+                "My music career had stagnated.",
+                "For now, the strong currents mean water is relatively clean but when the levels subside the water will stagnate.",
+                "Valleys where air tends to stagnate often have high levels of pollutants."
+              ]
+            },
+            {
+              word: "hype",
+              definition: [
+                "a situation in which something is advertised and discussed in newspapers, on television, etc. a lot in order to attract everyone's interest",
+                "to advertise or praise something a lot in newspapers, on television, online, etc. in order to make people excited about it and want to buy or try it",
+              ],
+              examples: [
+                "There's been a lot of hype around/surrounding his latest film.",
+                "I've been put off reading the book by all the hype.",
+                "It's being hyped as the musical event of the year."
+              ]
+            },
+            {
+              word: "zero-marginal-cost idea",
+              definition: [
+                "",
+                "",
+                ""
+              ],
+              examples: [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              word: "exponentially",
+              definition: [
+                "in a way that becomes quicker and quicker as something that increases becomes larger",
+              ],
+              examples: [
+                "Malthus wrote about the risks involved in the world's population increasing exponentially.",
+                "We are growing exponentially in resources, people, and financing.",
+              ]
+            },
+            {
+              word: "patchwork",
+              definition: [
+                "cloth made by sewing together a lot of smaller pieces of cloth with different patterns and colours, or the activity of doing this",
+                "a mixture of different things",
+              ],
+              examples: [
+                "a patchwork quilt/jacket",
+                "The old lady sat in the corner doing patchwork.",
+                "We looked out of the aircraft window down onto the patchwork of fields below."
+              ]
+            },
+            {
+              word: "reservation",
+              definition: [
+                "an arrangement in which something such as a seat on an aircraft or a table at a restaurant is kept for you",
+                "an area of land made available for a particular group of people to live in",
+                "an area of land in which wild animals are protected",
+                "a doubt or feeling of not being able to agree with or accept something completely"
+              ],
+              examples: [
+                "I'd like to make a table reservation for two people for nine o'clock.",
+                "Please confirm your reservation in writing by Friday.",
+                "The family lives on a Native American reservation.",
+                "He accepted my advice without reservation."
+              ]
+            },
+            {
+              word: "go back a long way",
+              definition: [
+                "If people go back a long way, they have known each other for a long time.",
+              ],
+              examples: [
+                "We go back a long way, we are friends",
+              ]
+            },
+            {
+              word: "prophesy",
+              definition: [
+                "to say that you believe something will happen in the future",
+                ""
+              ],
+              examples: [
+                "Few could have prophesied this war.",
+                "I prophesy that there will be lack of food in Uzbekistan ",
+              ]
+            },
+            {
+              word: "undertake",
+              definition: [
+                "to do or begin to do something, especially something that will take a long time or be difficult",
+                "to promise that you will do something",
+                "to pass another vehicle that is going in the same direction as you by driving past it on the left side"
+              ],
+              examples: [
+                "Students are required to undertake simple experiments.",
+                "She undertook not to publish the names of the people involved.",
+                "The government undertook that the buildings would not be redeveloped."
+              ]
+            },
+            {
+              word: "compile",
+              definition: [
+                "to collect information from different places and arrange it in a book, report, or list",
+                "to change a computer program into a machine language",
+              ],
+              examples: [
+                "We're compiling some facts and figures for a documentary on the subject. ",
+              ]
+            },
+            {
+              word: "mitigate",
+              definition: [
+                "to make something less harmful, unpleasant, or bad",
+                "to make something less severe or less unpleasant",
+                "mitigating circumstances - situations that are not an excuse for a crime, but that a court of law may consider to be important enough to reduce the blame or punishment of the accused person  "
+              ],
+              examples: [
+                "It is unclear how to mitigate the effects of tourism on the island.",
+                "Getting a lot of sleep and drinking plenty of fluids can mitigate the effects of the flu.",
+                "mitigate damage/risk The company was criticized for failing to mitigate risks at the plant.",
+                "The judge said that there were no mitigating circumstances that would result in a lesser punishment."
+              ]
+            },
+            {
+              word: "attached",
+              definition: [
+                "be attached to someone/something - to like someone or something very much",
+              ],
+              examples: [
+                "The children are very attached to their grandparents.",
+                "I'm very attached to my old guitar.",
+              ]
+            },
+            {
+              word: "payroll",
+              definition: [
+                "a list of the people employed by a company showing how much each one earns",
+                "the total amount of money paid to the people employed by a particular company",
+              ],
+              examples: [
+                "a payroll tax",
+                "The company is growing fast, adding another 100 employees to its payroll over the last year.",
+                "With debts of $4 million and a monthly payroll of $1.2 million, the venture is clearly heading for trouble."
+              ]
+            },
+            {
+              word: "disrupt",
+              definition: [
+                "to prevent something, especially a system, process, or event, from continuing as usual or as expected",
+                "to change the traditional way that an industry operates, especially in a new and effective way",
+              ],
+              examples: [
+                "Heavy snow disrupted travel into the city this morning.",
+                "The meeting was disrupted by a group of protesters who shouted and threw fruit at the speaker.",
+                "Dell Inc. disrupted the traditional way of selling computers by switching to the internet."
+              ]
+            },
+            {
+              word: "labour",
+              definition: [
+                "the supply of people in a particular country or area who are able and willing to work",
+                "practical work, especially when it involves hard physical effort",
+                "workers, especially people who do practical work with their hands",
+                "labours - all the effort and hard work that have been involved in doing a particular piece of work"
+              ],
+              examples: [
+                "The car parts themselves are not expensive, it's the labour that costs the money.",
+                "manual labour (= hard work using the hands)",
+                "Retirement is the time to enjoy the fruits of your labours.",
+                "More women are being encouraged into the labour market these days."
+              ]
+            },
+            {
+              word: "shift",
+              definition: [
+                "to (cause something or someone to) move or change from one position or direction to another, especially slightly",
+                "(of an idea, opinion, etc.) to change",
+                "to move the gears of a vehicle into different positions in order to make it go faster or slower",
+                "to get rid of something unwanted, or to sell something"
+              ],
+              examples: [
+                "She shifted (her weight) uneasily from one foot to the other.",
+                "The wind is expected to shift (to the east) tomorrow.",
+                "Society's attitudes towards women have shifted enormously over the last century.",
+                "Media attention has shifted recently onto environmental issues.",
+                "In cars that are automatics, you don't have to bother with shifting gears."
+              ]
+            },
+            {
+              word: "fallout",
+              definition: [
+                "the radioactive dust in the air after a nuclear explosion",
+                "the unpleasant results or effects of an action or event",
+              ],
+              examples: [
+                "cancer deaths caused by fallout from weapons testing",
+                "The political fallout of the revelations has been immense.",
+                "He blamed the political fallout from the scandal on the Republicans."
+              ]
+            },
+            {
+              word: "merge",
+              definition: [
+                "to combine or join together, or to cause things to do this",
+                "to join a line of moving traffic without causing other vehicles to slow down",
+              ],
+              examples: [
+                "They decided to merge the two companies into one.",
+                "The country's two biggest banks are planning to merge.",
+                "After a while the narrow trail merges with a wider path."
+              ]
+            },
+            {
+              word: "exclusivity",
+              definition: [
+                "the right to have or do something that is limited to only one person or organization",
+                "the quality of being available only to a small number of people who are rich enough or considered good enough",
+                " mutual exclusivity - the quality in two things of both not being possible at the same time"
+              ],
+              examples: [
+                "Newspapers buying a story will pay more for exclusivity.",
+                "Sponsors selling their wares at the Olympic Games demanded exclusivity.",
+                "The exclusivity of the hotel is what attracts some people.",
+                "Unfortunately, there is some mutual exclusivity between the desire for quick profit and our long-term strategy."
+              ]
+            },
+            {
+              word: "freer",
+              definition: [
+                "",
+                "",
+                ""
+              ],
+              examples: [
+                "",
+                "",
+                ""
               ]
             },
           ],
