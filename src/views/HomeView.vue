@@ -2565,24 +2565,962 @@ export default {
                 "Unfortunately, there is some mutual exclusivity between the desire for quick profit and our long-term strategy."
               ]
             },
-            {
-              word: "freer",
-              definition: [
-                "",
-                "",
-                ""
-              ],
-              examples: [
-                "",
-                "",
-                ""
-              ]
-            },
+          
           ],
         },
         {
-          day: 8,
-          words: [],
+          day: 'Reading',
+          words: [
+          {
+    "word": "bark",
+    "definition": [
+      "The tough protective outer covering of the trunk, branches, and roots of a tree or woody shrub.",
+      "The sound made by a dog.",
+      "The abrupt, sharp sound made by certain animals or objects."
+    ],
+    "examples": [
+      "The tree's bark had a rough texture.",
+      "The dog's bark alerted us to the presence of an intruder.",
+      "The bark of the toy gun scared away the birds."
+    ]
+  },
+  {
+    "word": "oak",
+    "definition": [
+      "A large, long-lived tree of the genus Quercus, known for its strong and durable wood."
+    ],
+    "examples": [
+      "The park is shaded by a magnificent oak tree."
+    ]
+  },
+  {
+    "word": "suber",
+    "definition": [
+      "The cork oak (Quercus suber), an evergreen oak tree native to southwest Europe and northwest Africa."
+    ],
+    "examples": [
+      "Suber is the Latin name for the cork oak species."
+    ]
+  },
+  {
+    "word": "buoyant",
+    "definition": [
+      "Capable of floating or tending to float in a fluid.",
+      "Cheerful and optimistic."
+    ],
+    "examples": [
+      "The buoyant balloon floated gently in the air.",
+      "Despite the challenges, she remained buoyant and hopeful."
+    ]
+  },
+  {
+    "word": "millenia",
+    "definition": [
+      "Plural form of millennium, representing a period of one thousand years."
+    ],
+    "examples": [
+      "The temple's history spans over many millenia."
+    ]
+  },
+  {
+    "word": "sarcophagi",
+    "definition": [
+      "Plural form of sarcophagus, a stone coffin, typically adorned with sculptures or inscriptions."
+    ],
+    "examples": [
+      "The ancient tomb contained several intricately carved sarcophagi."
+    ]
+  },
+  {
+    "word": "seal",
+    "definition": [
+      "A device or substance used to close or secure an opening.",
+      "The act of closing or fastening something securely.",
+      "A design or emblem embossed on paper as evidence of authenticity or authority.",
+      "To close or fasten with a seal.",
+      "To confirm, authorize, or mark with a seal of approval."
+    ],
+    "examples": [
+      "The envelope was securely sealed.",
+      "He placed the seal on the letter to ensure it was not tampered with.",
+      "The royal decree bore the king's official seal.",
+      "She carefully sealed the package before sending it.",
+      "The committee will seal the deal if they agree."
+    ]
+  },
+  {
+    "word": "coffin",
+    "definition": [
+      "A box or chest for burying a corpse.",
+      "To place or enclose in a coffin."
+    ],
+    "examples": [
+      "The coffin was carried solemnly by pallbearers.",
+      "They decided to coffin the body in a family tomb."
+    ]
+  },
+  {
+    "word": "beehives",
+    "definition": [
+      "Plural form of beehive, a structure where bees live and store honey."
+    ],
+    "examples": [
+      "The beekeeper carefully tended to the beehives."
+    ]
+  },
+  {
+    "word": "sandal",
+    "definition": [
+      "A type of open-toed footwear.",
+      "To provide or equip with sandals."
+    ],
+    "examples": [
+      "She wore comfortable sandals during the summer.",
+      "The resort provided sandals for guests to use at the beach."
+    ]
+  },
+  {
+    "word": "insulating",
+    "definition": [
+      "Serving to protect or prevent the passage of heat, electricity, or sound."
+    ],
+    "examples": [
+      "The insulating material kept the house warm in winter."
+    ]
+  },
+  {
+    "word": "coat wrapped",
+    "definition": [
+      "A coat or layer covering something.",
+      "To cover or envelop something with a coat."
+    ],
+    "examples": [
+      "She wore a thick coat to stay warm.",
+      "The gift was carefully coat wrapped for the occasion."
+    ]
+  },
+  {
+    "word": "cellular",
+    "definition": [
+      "Relating to or consisting of cells.",
+      "Relating to mobile communication or technology."
+    ],
+    "examples": [
+      "Cellular structures are the building blocks of living organisms.",
+      "The new smartphone features the latest cellular capabilities."
+    ]
+  },
+  {
+    "word": "zero-marginal-cost idea",
+    "definition": [
+      "An idea or concept that can be replicated and shared without incurring additional cost for each use."
+    ],
+    "examples": [
+      "The internet allows for the rapid spread of zero-marginal-cost ideas."
+    ]
+  },
+  {
+    "word": "freer",
+    "definition": [
+      "Comparative form of free, having more freedom or fewer restrictions."
+    ],
+    "examples": [
+      "A democratic society is freer than an authoritarian one."
+    ]
+  },
+  {
+    "word": "replicate",
+    "definition": [
+      "To duplicate, copy, or reproduce something.",
+      "To repeat or recreate an experiment or study to validate its results."
+    ],
+    "examples": [
+      "The artist can replicate the painting with astonishing precision.",
+      "Scientists must replicate the study to verify its findings."
+    ]
+  },
+  {
+    "word": "squash",
+    "definition": [
+      "To crush or squeeze something with force.",
+      "A type of edible gourd, usually with a thick skin and seeds."
+    ],
+    "examples": [
+      "She accidentally squashed the fragile vase.",
+      "The farmer harvested various types of squash from the garden."
+    ]
+  },
+  {
+    "word": "thrive in",
+    "definition": [
+      "To grow, develop, or be successful in a particular environment or situation."
+    ],
+    "examples": [
+      "Some plants thrive in tropical climates.",
+      "He seems to thrive in challenging situations."
+    ]
+  },
+  {
+    "word": "put down",
+    "definition": [
+      "To place or set something on a surface or the ground.",
+      "To euthanize an animal humanely."
+    ],
+    "examples": [
+      "Please put down the heavy box gently.",
+      "The veterinarian had to put down the injured dog."
+    ]
+  },
+  {
+    "word": "family-owned",
+    "definition": [
+      "Owned or operated by a family or families."
+    ],
+    "examples": [
+      "The business is a family-owned and operated establishment."
+    ]
+  },
+  {
+    "word": "above all",
+    "definition": [
+      "Most importantly.",
+      "More than anything else."
+    ],
+    "examples": [
+      "Above all, we value honesty and integrity."
+    ]
+  },
+  {
+    "word": "sapling",
+    "definition": [
+      "A young tree, especially one with a slender trunk."
+    ],
+    "examples": [
+      "The forest is filled with saplings of various species."
+    ]
+  },
+  {
+    "word": "strip on",
+    "definition": [
+      "To remove or take off clothing or covering.",
+      "To apply a strip or band of material onto something."
+    ],
+    "examples": [
+      "She decided to strip on her coat before going outside.",
+      "The technician will strip on a new layer of paint."
+    ]
+  },
+  {
+    "word": "damp",
+    "definition": [
+      "Slightly wet or moist.",
+      "To make something slightly wet or moist."
+    ],
+    "examples": [
+      "The ground was damp from the morning dew.",
+      "Please damp the cloth before cleaning the surface."
+    ]
+  },
+  {
+    "word": "axe",
+    "definition": [
+      "A tool with a bladed metal head, used for chopping wood or as a weapon.",
+      "To cut or chop with an axe."
+    ],
+    "examples": [
+      "He used an axe to split the logs.",
+      "They decided to axe the old project."
+    ]
+  },
+  {
+    "word": "lever",
+    "definition": [
+      "A rigid bar or board used to lift or exert force on an object at one end, with the pivot typically located at the opposite end.",
+      "To move or lift something using a lever."
+    ],
+    "examples": [
+      "The crowbar acts as a lever to lift heavy objects.",
+      "They levered the stone slab to reveal a hidden passage."
+    ]
+  },
+  {
+    "word": "prise away",
+    "definition": [
+      "To separate or remove something with effort or force.",
+      "To obtain or achieve something with difficulty."
+    ],
+    "examples": [
+      "He tried to prise away the tightly locked door.",
+      "She managed to prise away vital information from the suspect."
+    ]
+  },
+  {
+    "word": "husk",
+    "definition": [
+      "The dry outer covering of certain fruits or seeds, often removed before eating.",
+      "To remove the husk from a fruit or seed."
+    ],
+    "examples": [
+      "The corn husk was peeled back to reveal the kernels.",
+      "Please husk the coconut before grating it."
+    ]
+  },
+  {
+    "word": "corkboard",
+    "definition": [
+      "A bulletin board made of cork, used for pinning messages or notes."
+    ],
+    "examples": [
+      "She pinned the important memo on the corkboard."
+    ]
+  },
+  {
+    "word": "tile",
+    "definition": [
+      "A thin, flat piece of baked clay or other material, used for covering roofs, floors, walls, etc.",
+      "To cover or decorate with tiles."
+    ],
+    "examples": [
+      "The bathroom floor was tiled with blue ceramic tiles.",
+      "They decided to tile the kitchen backsplash with colorful mosaic tiles."
+    ]
+  },
+  {
+    "word": "thermal",
+    "definition": [
+      "Relating to heat or temperature.",
+      "A type of undergarment designed to retain body heat."
+    ],
+    "examples": [
+      "The thermal sensor can detect changes in temperature.",
+      "She wore a thermal shirt to stay warm in the cold weather."
+    ]
+  },
+  {
+    "word": "acoustic",
+    "definition": [
+      "Relating to sound or the sense of hearing.",
+      "Designed to enhance or reproduce sound, especially music."
+    ],
+    "examples": [
+      "The acoustic guitar produces a rich, warm sound.",
+      "The concert hall has excellent acoustic properties."
+    ]
+  },
+  {
+    "word": "granule",
+    "definition": [
+      "A small, compact particle or grain.",
+      "To form into or resemble granules."
+    ],
+    "examples": [
+      "The sugar consists of fine granules.",
+      "The sand granules formed dunes in the desert."
+    ]
+  },
+  {
+    "word": "concrete",
+    "definition": [
+      "A building material composed of cement, sand, gravel, and water, which hardens into a stone-like mass.",
+      "To solidify or make something real or tangible."
+    ],
+    "examples": [
+      "The foundation was made of reinforced concrete.",
+      "He needed to concrete the plans before presenting them."
+    ]
+  },
+  {
+    "word": "trichloroanisole",
+    "definition": [
+      "A chemical compound that can cause a musty or moldy smell in certain products, such as wine corks."
+    ],
+    "examples": [
+      "The wine had a cork tainted with trichloroanisole, affecting its flavor."
+    ]
+  },
+  {
+    "word": "phenol",
+    "definition": [
+      "A toxic, acidic compound used in various chemical processes and as a disinfectant."
+    ],
+    "examples": [
+      "Phenol is an important chemical in industrial applications."
+    ]
+  },
+  {
+    "word": "chilorine",
+    "definition": [
+      "A chlorine-containing compound."
+    ],
+    "examples": [
+      "Chilorine is commonly used in water treatment."
+    ]
+  },
+  {
+    "word": "mould",
+    "definition": [
+      "A hollow container used to give shape to fluid or molten material as it solidifies.",
+      "To shape or form something using a mould.",
+      "A type of fungus that grows in moist environments."
+    ],
+    "examples": [
+      "They poured the hot metal into the mould to create the casting.",
+      "She moulded the clay into a beautiful sculpture.",
+      "The damp basement had a growth of mould on the walls."
+    ]
+  },
+  {
+    "word": "steady",
+    "definition": [
+      "Firmly fixed, supported, or balanced.",
+      "To make something stable or constant."
+    ],
+    "examples": [
+      "He kept a steady hand while performing the delicate surgery.",
+      "The company's profits have steadily increased over the years."
+    ]
+  },
+  {
+    "word": "screw",
+    "definition": [
+      "A threaded metal fastener with a slotted or Phillips head, typically driven with a screwdriver.",
+      "To attach, tighten, or fasten with a screw."
+    ],
+    "examples": [
+      "He used a screw to secure the shelves to the wall.",
+      "She carefully screwed the lid onto the jar."
+    ]
+  },
+  {
+    "word": "desertification",
+    "definition": [
+      "The process by which fertile land becomes desert due to factors like deforestation, climate change, or improper land use."
+    ],
+    "examples": [
+      "The region's desertification was a result of years of overgrazing and drought."
+    ]
+  },
+  {
+    "word": "dignify",
+    "definition": [
+      "To confer or recognize dignity, honor, or importance to someone or something."
+    ],
+    "examples": [
+      "The award ceremony was held to dignify the brave actions of the firefighters.",
+      "She wanted to dignify the memory of her late father."
+    ]
+  },
+  {
+    "word": "archtophilist",
+    "definition": [
+      "A person who is sexually attracted to older individuals."
+    ],
+    "examples": [
+      "The novel explores the life of an archtophilist and their relationships."
+    ]
+  },
+  {
+    "word": "philatelist",
+    "definition": [
+      "A person who collects and studies postage stamps as a hobby."
+    ],
+    "examples": [
+      "The philatelist had an impressive collection of rare stamps."
+    ]
+  },
+  {
+    "word": "postage",
+    "definition": [
+      "The fee required for sending a letter or package through the postal system."
+    ],
+    "examples": [
+      "He bought the correct amount of postage for the package."
+    ]
+  },
+  {
+    "word": "deltiologist",
+    "definition": [
+      "A person who collects and studies postcards as a hobby."
+    ],
+    "examples": [
+      "As a deltiologist, she had postcards from all over the world."
+    ]
+  },
+  {
+    "word": "amassing",
+    "definition": [
+      "The act of collecting or gathering a large quantity of something."
+    ],
+    "examples": [
+      "The amassing of wealth was his life's goal.",
+      "She's been amassing evidence to support her theory."
+    ]
+  },
+  {
+    "word": "wrapper",
+    "definition": [
+      "A material used to enclose or cover something.",
+      "A piece of paper or plastic used to cover and protect an item, such as candy or soap."
+    ],
+    "examples": [
+      "The candy bar was still in its shiny wrapper.",
+      "The gift was carefully wrapped in colorful paper."
+    ]
+  },
+  {
+    "word": "triumph",
+    "definition": [
+      "A great victory or achievement.",
+      "To achieve victory or success."
+    ],
+    "examples": [
+      "Their team's triumph was celebrated by fans everywhere.",
+      "Despite the challenges, they triumphed in the end."
+    ]
+  },
+  {
+    "word": "drive somebody on",
+    "definition": [
+      "To motivate or urge someone to keep going or persevere."
+    ],
+    "examples": [
+      "His words of encouragement drive her on to finish the race.",
+      "The coach's pep talk drove the team on to win the championship."
+    ]
+  },
+  {
+    "word": "inferior",
+    "definition": [
+      "Lower in rank, status, or quality.",
+      "A person of lower rank or status."
+    ],
+    "examples": [
+      "The product was of inferior quality compared to others.",
+      "He considered himself inferior to his more successful peers."
+    ]
+  },
+  {
+    "word": "lesser",
+    "definition": [
+      "Comparative form of 'little', lower in amount, size, or importance.",
+      "Lower in rank or status."
+    ],
+    "examples": [
+      "He chose the lesser of two evils.",
+      "The lesser officials were responsible for the day-to-day operations."
+    ]
+  },
+  {
+    "word": "trainspotting",
+    "definition": [
+      "The hobby of observing and recording trains as a pastime."
+    ],
+    "examples": [
+      "He spent his weekends trainspotting at the local railway station."
+    ]
+  },
+  {
+    "word": "locomotive",
+    "definition": [
+      "A powered rail vehicle used to pull trains."
+    ],
+    "examples": [
+      "The steam locomotive pulled the carriages along the tracks."
+    ]
+  },
+  {
+    "word": "tick off",
+    "definition": [
+      "To mark with a check or tick.",
+      "To make a list or note of items as they are completed.",
+      "To make someone annoyed or angry."
+    ],
+    "examples": [
+      "He ticked off each completed task on the list.",
+      "She likes to tick off everything she's achieved.",
+      "His constant criticism really ticks her off."
+    ]
+  },
+  {
+    "word": "work out",
+    "definition": [
+      "To exercise or engage in physical activity.",
+      "To solve or figure out a problem or situation.",
+      "To develop or progress successfully."
+    ],
+    "examples": [
+      "She likes to work out at the gym.",
+      "Let's work out a solution together.",
+      "The plan didn't work out as expected."
+    ]
+  },
+  {
+    "word": "practitioner",
+    "definition": [
+      "A person actively engaged in a profession or occupation, especially in the fields of medicine or law."
+    ],
+    "examples": [
+      "He is a skilled practitioner of traditional Chinese medicine.",
+      "The law firm employs several experienced practitioners."
+    ]
+  },
+  {
+    "word": "specification",
+    "definition": [
+      "A detailed description of requirements or characteristics for a product, project, or service."
+    ],
+    "examples": [
+      "The architect provided a clear specification for the new building.",
+      "The software developer followed the client's specifications."
+    ]
+  },
+  {
+    "word": "porcelain",
+    "definition": [
+      "A strong, white, translucent ceramic material, often used for fine china and decorative objects.",
+      "Made of or resembling porcelain."
+    ],
+    "examples": [
+      "The elegant tea set was made of delicate porcelain.",
+      "She admired the porcelain skin of the statuette."
+    ]
+  },
+  {
+    "word": "notion",
+    "definition": [
+      "A general understanding or idea.",
+      "A small or indefinite amount."
+    ],
+    "examples": [
+      "He had a notion of what the project would entail.",
+      "She didn't have the slightest notion of how to proceed."
+    ]
+  },
+  {
+    "word": "commonplace",
+    "definition": [
+      "Ordinary, usual, or familiar.",
+      "A trite or unoriginal remark or statement."
+    ],
+    "examples": [
+      "Such occurrences are commonplace in this neighborhood.",
+      "He filled his speech with clichés and commonplace expressions."
+    ]
+  },
+  {
+    "word": "collar",
+    "definition": [
+      "A band of material worn around the neck, often as part of a shirt or dress.",
+      "To seize or apprehend someone, especially a criminal."
+    ],
+    "examples": [
+      "He adjusted his collar before entering the meeting.",
+      "The police were finally able to collar the suspect."
+    ]
+  },
+  {
+    "word": "convey",
+    "definition": [
+      "To transport or carry from one place to another.",
+      "To communicate or make known."
+    ],
+    "examples": [
+      "The trucks will convey the goods to the warehouse.",
+      "She used gestures to convey her message."
+    ]
+  },
+  {
+    "word": "mildly",
+    "definition": [
+      "In a gentle, moderate, or lenient manner.",
+      "To a limited extent."
+    ],
+    "examples": [
+      "He was mildly surprised by the news.",
+      "The medication only alleviated his headache mildly."
+    ]
+  },
+  {
+    "word": "engrossing",
+    "definition": [
+      "Fascinating and absorbing one's attention."
+    ],
+    "examples": [
+      "The novel was so engrossing that she couldn't put it down."
+    ]
+  },
+  {
+    "word": "eccentric",
+    "definition": [
+      "Unconventional and slightly strange.",
+      "A person with unconventional and peculiar behavior."
+    ],
+    "examples": [
+      "Her eccentric fashion sense always turned heads.",
+      "The millionaire was known as a charming eccentric."
+    ]
+  },
+  {
+    "word": "apt",
+    "definition": [
+      "Appropriate or suitable in the circumstances.",
+      "Having a natural talent or ability for something."
+    ],
+    "examples": [
+      "His apt response defused the tension in the room.",
+      "She was an apt student in mathematics."
+    ]
+  },
+  {
+    "word": "resort",
+    "definition": [
+      "A place frequented for vacations or recreation.",
+      "To have recourse to or adopt as a last resort."
+    ],
+    "examples": [
+      "They spent their summer vacation at a beach resort.",
+      "If all else fails, we'll have to resort to drastic measures."
+    ]
+  },
+  {
+    "word": "prospective",
+    "definition": [
+      "Likely to happen or become.",
+      "Expected or likely to be or become something specified in the future."
+    ],
+    "examples": [
+      "The prospective candidate had an impressive resume.",
+      "The prospective buyer was interested in the property."
+    ]
+  },
+  {
+    "word": "deliberately",
+    "definition": [
+      "Consciously and intentionally.",
+      "In a careful and unhurried manner."
+    ],
+    "examples": [
+      "He deliberately chose not to respond to the provocation.",
+      "She spoke slowly and deliberately to ensure clarity."
+    ]
+  },
+  {
+    "word": "prosecution",
+    "definition": [
+      "The act or process of conducting legal proceedings against someone for a criminal offense.",
+      "The side in a legal case that is responsible for presenting the evidence against the defendant."
+    ],
+    "examples": [
+      "The prosecution presented compelling evidence in the trial.",
+      "The defense attorney cross-examined the witness called by the prosecution."
+    ]
+  },
+  {
+    "word": "arson",
+    "definition": [
+      "The criminal act of intentionally setting fire to property or buildings."
+    ],
+    "examples": [
+      "The fire department investigated the case as a possible arson."
+    ]
+  },
+  {
+    "word": "torch",
+    "definition": [
+      "A portable light source usually produced by a flame.",
+      "To set fire to something deliberately."
+    ],
+    "examples": [
+      "He used a torch to light his way in the dark.",
+      "The protesters torched several vehicles during the riot."
+    ]
+  },
+  {
+    "word": "creep into",
+    "definition": [
+      "To gradually and stealthily enter or become evident in something.",
+      "To intrude or encroach upon someone's thoughts or emotions."
+    ],
+    "examples": [
+      "Doubts started to creep into his mind.",
+      "Loneliness can creep into one's heart in times of isolation."
+    ]
+  },
+  {
+    "word": "principled",
+    "definition": [
+      "Acting in accordance with moral or ethical principles.",
+      "Having strong moral integrity."
+    ],
+    "examples": [
+      "She made a principled decision despite the pressure to do otherwise.",
+      "The principled leader was admired for his honesty and fairness."
+    ]
+  },
+  {
+    "word": "codify",
+    "definition": [
+      "To arrange or systematize laws, rules, or principles into a code or system.",
+      "To set forth or establish in a formal, systematic way."
+    ],
+    "examples": [
+      "The new constitution sought to codify the rights of citizens.",
+      "The book codifies the traditional practices of the ancient tribe."
+    ]
+  },
+  {
+    "word": "downright",
+    "definition": [
+      "Used to emphasize the complete extent of something, often something negative.",
+      "Plainly and unmistakably true."
+    ],
+    "examples": [
+      "His behavior was downright rude and disrespectful.",
+      "The statement was downright false."
+    ]
+  },
+  {
+    "word": "acquisition",
+    "definition": [
+      "The act of acquiring or obtaining something, especially a company or business asset.",
+      "The item or entity acquired."
+    ],
+    "examples": [
+      "The acquisition of the competitor's company was a strategic move.",
+      "The painting was a valuable acquisition for the museum."
+    ]
+  },
+  {
+    "word": "capture",
+    "definition": [
+      "To seize, take hold of, or trap something.",
+      "To record or reproduce an image or sound."
+    ],
+    "examples": [
+      "The hunter managed to capture the elusive animal.",
+      "She captured the beautiful sunset with her camera."
+    ]
+  },
+  {
+    "word": "captivate",
+    "definition": [
+      "To attract and hold the interest or attention of someone.",
+      "To charm or enchant someone."
+    ],
+    "examples": [
+      "The mesmerizing performance captivated the audience.",
+      "He had a way of captivating people with his storytelling."
+    ]
+  },
+  {
+    "word": "endeavor",
+    "definition": [
+      "A serious or strenuous effort to accomplish something.",
+      "To make an earnest effort or attempt."
+    ],
+    "examples": [
+      "The team made a collective endeavor to win the championship.",
+      "She endeavored to learn a new language before her trip."
+    ]
+  },
+  {
+    "word": "scrutiny",
+    "definition": [
+      "Critical observation, examination, or investigation."
+    ],
+    "examples": [
+      "The government's actions were under intense scrutiny by the media.",
+      "The project was subject to thorough scrutiny by the review board."
+    ]
+  },
+  {
+    "word": "supremely",
+    "definition": [
+      "To the highest degree or extent.",
+      "In a manner showing the utmost superiority or authority."
+    ],
+    "examples": [
+      "The dish was supremely delicious.",
+      "He acted supremely confident during the presentation."
+    ]
+  },
+  {
+    "word": "presumably",
+    "definition": [
+      "Based on what is known, assumed, or supposed to be true.",
+      "Probably or likely, although not known for certain."
+    ],
+    "examples": [
+      "She is presumably going to the conference, as she registered for it.",
+      "The price of the item is presumably within our budget."
+    ]
+  },
+  {
+    "word": "articulate",
+    "definition": [
+      "To express or explain thoughts or feelings clearly and coherently.",
+      "Having the ability to speak fluently and effectively."
+    ],
+    "examples": [
+      "He struggled to articulate his emotions after the loss.",
+      "She was known for her articulate speeches on social issues."
+    ]
+  },
+  {
+    "word": "noble",
+    "definition": [
+      "Having admirable qualities, such as high moral principles and dignity.",
+      "Belonging to a hereditary class with high social or political status."
+    ],
+    "examples": [
+      "His noble actions earned him the respect of his peers.",
+      "The noble family had a long lineage of royalty."
+    ]
+  },
+  {
+    "word": "destructive",
+    "definition": [
+      "Causing harm, damage, or destruction.",
+      "Having a tendency to undermine or tear down."
+    ],
+    "examples": [
+      "The hurricane was a destructive force, causing widespread damage.",
+      "His destructive behavior led to the downfall of the company."
+    ]
+  },
+  {
+    "word": "reckless",
+    "definition": [
+      "Acting without caution or concern for consequences.",
+      "Indifferent to or disregardful of danger or the welfare of others."
+    ],
+    "examples": [
+      "His reckless driving resulted in a serious accident.",
+      "The reckless adventurer took unnecessary risks during the expedition."
+    ]
+  },
+  {
+    "word": "reckon",
+    "definition": [
+      "To calculate or estimate something.",
+      "To consider or regard something in a specified way."
+    ],
+    "examples": [
+      "He reckoned the total cost of the project.",
+      "She reckons herself as a problem solver."
+    ]
+  },
+  {
+    "word": "poisoner",
+    "definition": [
+      "A person who administers poison to others, often with harmful intent."
+    ],
+    "examples": [
+      "The poisoner was apprehended before causing further harm.",
+      "The mystery novel revolved around the hunt for a notorious poisoner."
+    ]
+  }
+          ],
         },
         {
           day: 9,
