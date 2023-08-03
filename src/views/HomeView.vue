@@ -5232,6 +5232,7 @@ export default {
 <style scoped>
 .home {
   width: 100%;
+  padding-bottom: 100px;
   padding: 0;
 }
 
