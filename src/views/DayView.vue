@@ -39,6 +39,7 @@ methods:{
   }
 .day{
     width: 100%;
+    padding-bottom: 100px;
     background: rgb(255, 255, 255);
 }
 .close{
