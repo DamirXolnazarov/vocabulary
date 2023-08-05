@@ -5012,8 +5012,772 @@ export default {
 ],
         },
         {
-          day: 10,
-          words: [],
+          day: '05.08.2023',
+          words: [
+  {
+    "word": "distinguished + noun(profession)",
+    "definition": [
+      "well-known and respected, often due to notable achievements or qualities in a specific profession",
+      "standing out from the ordinary in a particular field or occupation",
+      "marked by excellence or eminence in a specialized area"
+    ],
+    "examples": [
+      "The professor is a distinguished scholar in the field of astrophysics, having made groundbreaking discoveries.",
+      "Her distinguished career as a diplomat earned her international recognition and numerous awards.",
+      "The conference featured distinguished researchers and practitioners in the field of medicine."
+    ]
+  },
+  {
+    "word": "remarkable powers",
+    "definition": [
+      "extraordinary abilities or capabilities that attract attention or admiration",
+      "exceptional talents or skills that set someone or something apart",
+      "impressive and notable qualities or attributes"
+    ],
+    "examples": [
+      "The superhero possessed remarkable powers that allowed him to fly and control the elements.",
+      "The magician displayed remarkable powers of illusion and sleight of hand.",
+      "The computer program demonstrated remarkable powers of pattern recognition and data analysis."
+    ]
+  },
+  {
+    "word": "accumulate",
+    "definition": [
+      "to gather or collect over a period of time",
+      "to gradually increase in quantity or size",
+      "to amass or pile up"
+    ],
+    "examples": [
+      "She managed to accumulate a substantial amount of wealth through wise investments.",
+      "Dust had accumulated on the old books that had been stored in the attic for years.",
+      "The evidence seemed to accumulate, pointing towards a single conclusion."
+    ]
+  },
+  {
+    "word": "go on",
+    "definition": [
+      "to continue or proceed",
+      "to happen or occur",
+      "to talk or chatter"
+    ],
+    "examples": [
+      "The show must go on despite the technical difficulties.",
+      "As the party went on, the atmosphere became more festive.",
+      "She tends to go on about her travel adventures for hours."
+    ]
+  },
+  {
+    "word": "short space of time",
+    "definition": [
+      "a brief period",
+      "a small amount of time"
+    ],
+    "examples": [
+      "He managed to complete the entire project in a remarkably short space of time.",
+      "The transformation of the city took place over a relatively short space of time.",
+      "In a short space of time, she went from novice to expert."
+    ]
+  },
+  {
+    "word": "work out",
+    "definition": [
+      "to exercise or engage in physical activity",
+      "to solve or understand through effort or calculation",
+      "to result in a successful outcome"
+    ],
+    "examples": [
+      "He likes to work out at the gym every morning.",
+      "After hours of brainstorming, they finally managed to work out a solution.",
+      "Her dedication and hard work paid off, and things worked out well for her."
+    ]
+  },
+  {
+    "word": "set down",
+    "definition": [
+      "to place or put something down",
+      "to establish or stipulate",
+      "to write or record"
+    ],
+    "examples": [
+      "He carefully set down the fragile vase on the table.",
+      "The rules and regulations were set down in the contract.",
+      "She set down her thoughts in a journal."
+    ]
+  },
+  {
+    "word": "turn up",
+    "definition": [
+      "to arrive or appear",
+      "to increase in volume or intensity",
+      "to be discovered or found unexpectedly"
+    ],
+    "examples": [
+      "She didn't turn up for the meeting this morning.",
+      "Could you please turn up the music a little?",
+      "A valuable antique coin turned up during the excavation."
+    ]
+  },
+  {
+    "word": "acknowledge",
+    "definition": [
+      "to recognize or admit the existence or truth of something",
+      "to show appreciation or gratitude",
+      "to express recognition or thanks"
+    ],
+    "examples": [
+      "He refused to acknowledge his mistakes and take responsibility.",
+      "She acknowledged the audience's applause with a gracious smile.",
+      "It's important to acknowledge the contributions of all team members."
+    ]
+  },
+  {
+    "word": "convey",
+    "definition": [
+      "to communicate or express",
+      "to transport or carry from one place to another",
+      "to make known or understandable"
+    ],
+    "examples": [
+      "Her paintings convey a sense of tranquility and serenity.",
+      "The trucks were used to convey supplies to the remote village.",
+      "He struggled to find words to convey the depth of his emotions."
+    ]
+  },
+  {
+    "word": "split into",
+    "definition": [
+      "to divide or separate into parts",
+      "to break or crack into smaller pieces",
+      "to cause a group to divide and go separate ways"
+    ],
+    "examples": [
+      "The large organization decided to split into smaller, more manageable units.",
+      "He accidentally split the log into two pieces with a powerful swing.",
+      "The disagreement caused the team to split into opposing factions."
+    ]
+  },
+  {
+    "word": "retained",
+    "definition": [
+      "to keep or continue to have",
+      "to hold or maintain possession of",
+      "to remember or recall information"
+    ],
+    "examples": [
+      "She retained her position as the company's CEO for over a decade.",
+      "He retained ownership of the property even after moving to a different country.",
+      "Despite the passage of time, he retained vivid memories of his childhood."
+    ]
+  },
+  {
+    "word": "not to mention",
+    "definition": [
+      "used to introduce an additional point or consideration",
+      "in addition to what has already been mentioned",
+      "without even considering or including"
+    ],
+    "examples": [
+      "The chef prepared a delicious feast, including a variety of appetizers, main courses, and desserts, not to mention the exquisite presentation.",
+      "The hike was challenging due to the steep terrain, not to mention the unpredictable weather.",
+      "The museum has an impressive collection of paintings, sculptures, and artifacts, not to mention the interactive exhibits."
+    ]
+  },
+  {
+    "word": "on account of somebody/something",
+    "definition": [
+      "because of someone or something",
+      "due to a particular person or reason",
+      "for the sake of someone or something"
+    ],
+    "examples": [
+      "The event was canceled on account of the heavy rain.",
+      "She missed the meeting on account of her flight delay.",
+      "On account of his expertise, he was chosen to lead the research project."
+    ]
+  },
+  {
+    "word": "trek to",
+    "definition": [
+      "to embark on a long, arduous journey",
+      "to travel a considerable distance, often on foot",
+      "to make a challenging and adventurous trip"
+    ],
+    "examples": [
+      "They decided to trek to the summit of the mountain to witness the sunrise.",
+      "The explorers embarked on a trek to the remote village deep within the jungle.",
+      "Many enthusiasts gather each year to trek to the ancient ruins in the desert."
+    ]
+  },
+  {
+    "word": "resupply",
+    "definition": [
+      "to provide with a fresh or new supply",
+      "to replenish resources, provisions, or necessities",
+      "to furnish again with what is needed"
+    ],
+    "examples": [
+      "The expedition relied on periodic resupply missions to maintain their stock of food and equipment.",
+      "The ship docked at the port to resupply before continuing its journey across the ocean.",
+      "The team needed to resupply their camp with water and fuel."
+    ]
+  },
+  {
+    "word": "frostbite",
+    "definition": [
+      "injury to skin and underlying tissues due to freezing",
+      "damage caused by exposure to cold temperatures",
+      "formation of ice crystals within body tissues"
+    ],
+    "examples": [
+      "He suffered from frostbite on his fingers after spending hours in subzero temperatures.",
+      "Proper clothing and protection can help prevent frostbite in extremely cold conditions.",
+      "Severe cases of frostbite may lead to tissue damage and amputation."
+    ]
+  },
+  {
+    "word": "at stake",
+    "definition": [
+      "in a situation where something of value can be gained or lost",
+      "subject to risk, danger, or potential harm",
+      "being contested or at risk of being altered"
+    ],
+    "examples": [
+      "With the championship title at stake, the athletes gave their all in the final match.",
+      "The company's reputation is at stake due to the recent product recall.",
+      "The negotiation was tense, as the future of the partnership was at stake."
+    ]
+  },
+  {
+    "word": "set out",
+    "definition": [
+      "to start or begin a journey, task, or endeavor",
+      "to arrange or display items in a particular way",
+      "to state or explain something clearly"
+    ],
+    "examples": [
+      "They set out early in the morning to reach the mountain peak before sunset.",
+      "She set out the ingredients on the kitchen counter before starting to cook.",
+      "The professor set out the main principles of his theory in the first chapter."
+    ]
+  },
+  {
+    "word": "spine of steel",
+    "definition": [
+      "metaphorical expression indicating strong determination and courage",
+      "symbolizing unyielding resolve and bravery"
+    ],
+    "examples": [
+      "Facing countless challenges, she demonstrated a spine of steel, refusing to give up.",
+      "He showed a spine of steel during the intense negotiations, defending his principles.",
+      "To overcome adversity, it takes a spine of steel and unwavering commitment."
+    ]
+  },
+  {
+    "word": "take something to heart",
+    "definition": [
+      "to be deeply affected or emotionally impacted by something",
+      "to consider and apply advice or criticism seriously",
+      "to internalize and reflect upon a lesson or experience"
+    ],
+    "examples": [
+      "She took the constructive feedback to heart and made significant improvements.",
+      "His kind words really touched me, and I took them to heart.",
+      "After her failure, she took the experience to heart and used it as motivation to strive harder."
+    ]
+  },
+  {
+    "word": "strain",
+    "definition": [
+      "to exert effort or force beyond normal limits",
+      "to cause stress, tension, or pressure",
+      "a particular kind or type, often with unique characteristics"
+    ],
+    "examples": [
+      "Lifting heavy weights can strain your muscles if not done correctly.",
+      "The constant pressure of work began to strain his mental and physical well-being.",
+      "This strain of bacteria is particularly resistant to antibiotics."
+    ]
+  },
+  {
+    "word": "kit",
+    "definition": [
+      "a set of tools, equipment, or items used for a specific purpose",
+      "a collection of clothing and accessories for a particular activity",
+      "a group of components or parts that make up a whole"
+    ],
+    "examples": [
+      "The survival kit included a flashlight, a first aid kit, and a multi-tool.",
+      "He packed his hiking kit, which included a backpack, a water bottle, and a compass.",
+      "The model airplane kit contained all the pieces needed to assemble the detailed replica."
+    ]
+  },
+  {
+    "word": "obsessively",
+    "definition": [
+      "in a way that involves excessive preoccupation or fixation",
+      "acting in a compulsive or all-consuming manner",
+      "repeatedly focusing on a particular thought, idea, or activity"
+    ],
+    "examples": [
+      "He cleaned his house obsessively, ensuring everything was perfectly organized.",
+      "She checked her phone obsessively for updates on the situation.",
+      "His quest for perfection led him to work obsessively on his artwork."
+    ]
+  },
+  {
+    "word": "mend",
+    "definition": [
+      "to repair or fix something that is broken or damaged",
+      "to heal or recover from an injury or illness",
+      "to improve or restore a situation or relationship"
+    ],
+    "examples": [
+      "He managed to mend the broken chair leg with some wood glue.",
+      "After months of physical therapy, he finally began to mend from the sports injury.",
+      "The couple decided to seek counseling to mend their strained marriage."
+    ]
+  },
+  {
+    "word": "urgent",
+    "definition": [
+      "requiring immediate attention or action",
+      "pressing or important in a critical way",
+      "marked by a sense of necessity or emergency"
+    ],
+    "examples": [
+      "The patient's condition was deteriorating, and the doctor deemed it urgent to perform surgery.",
+      "An urgent meeting was called to address the unexpected financial crisis.",
+      "The team worked overnight to meet the client's urgent deadline."
+    ]
+  },
+  {
+    "word": "bizarre",
+    "definition": [
+      "strange, unusual, or out of the ordinary in a way that captures attention",
+      "marked by unconventional or unexpected behavior or appearance",
+      "in a manner that seems odd or puzzling"
+    ],
+    "examples": [
+      "The painting featured a bizarre combination of surreal elements and vivid colors.",
+      "His choice of clothing was quite bizarre, drawing curious glances from passersby.",
+      "The story took a bizarre twist when the protagonist found himself in an alternate reality."
+    ]
+  },
+  {
+    "word": "redundant",
+    "definition": [
+      "no longer needed or useful, often due to duplication",
+      "exceeding what is necessary or required",
+      "characterized by repetition or unnecessary detail"
+    ],
+    "examples": [
+      "With the introduction of automated systems, many manual tasks became redundant.",
+      "Her explanation was redundant, as she had already covered the topic thoroughly.",
+      "The extra features on the software felt redundant and added unnecessary complexity."
+    ]
+  },
+  {
+    "word": "otherwise",
+    "definition": [
+      "in a different way or manner",
+      "under different circumstances",
+      "as an alternative or in contrast to what has been mentioned"
+    ],
+    "examples": [
+      "I would have finished the project by now, but I was otherwise occupied with urgent matters.",
+      "The weather was perfect; otherwise, we would have canceled the outdoor event.",
+      "She's an excellent student; otherwise, she wouldn't have been accepted into that prestigious program."
+    ]
+  },
+  {
+    "word": "hyper-relevant",
+    "definition": [
+      "extremely pertinent, connected, or applicable",
+      "highly related and pertinent to a specific context or subject"
+    ],
+    "examples": [
+      "Her research on climate change was hyper-relevant to the current global discourse.",
+      "The professor's lecture was hyper-relevant to the class's ongoing discussion."
+    ]
+  },
+  {
+    "word": "no doubt about it",
+    "definition": [
+      "used to emphasize certainty or a lack of doubt",
+      "indicating complete agreement or affirmation"
+    ],
+    "examples": [
+      "No doubt about it, she is the best candidate for the job.",
+      "The team's hard work will pay off, no doubt about it."
+    ]
+  },
+  {
+    "word": "take the concept of",
+    "definition": [
+      "to understand or grasp an abstract idea or notion",
+      "to interpret and internalize a theoretical concept"
+    ],
+    "examples": [
+      "It took me a while to take the concept of quantum mechanics, but with diligent study, I managed to understand it.",
+      "She struggled to take the concept of cultural relativism due to its complex nature."
+    ]
+  },
+  {
+    "word": "self-propelled wheels",
+    "definition": [
+      "wheels that can generate their own movement or power",
+      "wheels equipped with a mechanism to drive themselves forward"
+    ],
+    "examples": [
+      "The futuristic vehicle featured self-propelled wheels, allowing it to navigate rough terrain effortlessly.",
+      "The prototype wheelchair employed self-propelled wheels, enabling users to move with minimal effort."
+    ]
+  },
+  {
+    "word": "off-road",
+    "definition": [
+      "pertaining to or designed for use on rough or unpaved surfaces",
+      "suited for driving or traveling in rugged or natural terrains"
+    ],
+    "examples": [
+      "The off-road vehicle traversed through muddy trails and rocky paths with ease.",
+      "Hikers preferred off-road shoes that provided good traction on uneven surfaces."
+    ]
+  },
+  {
+    "word": "dismiss",
+    "definition": [
+      "to reject or disregard something as unimportant or unworthy of consideration",
+      "to discharge an employee from a job or position"
+    ],
+    "examples": [
+      "She chose to dismiss his rude comment and focus on the positive aspects of the conversation.",
+      "The company decided to dismiss several employees due to restructuring."
+    ]
+  },
+  {
+    "word": "get up off the couch",
+    "definition": [
+      "to rise or stand from a seated or lying position on a couch",
+      "to become active or motivated after a period of inactivity or laziness"
+    ],
+    "examples": [
+      "He finally decided to get up off the couch and start working on his overdue assignments.",
+      "After a week of relaxation, it was time to get up off the couch and resume the workout routine."
+    ]
+  },
+  {
+    "word": "co-exist",
+    "definition": [
+      "to exist or live together in harmony or alongside each other",
+      "to occupy the same space or time without conflict"
+    ],
+    "examples": [
+      "Different species of plants and animals co-exist in the delicate ecosystem of the rainforest.",
+      "The challenge is to find a way for technology and nature to co-exist sustainably."
+    ]
+  },
+  {
+    "word": "curtailed",
+    "definition": [
+      "to reduce, limit, or restrict the duration, extent, or quantity of something",
+      "to shorten or cut short"
+    ],
+    "examples": [
+      "Due to budget constraints, the project had to be curtailed, resulting in fewer features.",
+      "The outdoor event was curtailed by unexpected rainfall, forcing attendees to seek shelter."
+    ]
+  },
+  {
+    "word": "contemporary society",
+    "definition": [
+      "the society or culture of the present time or era",
+      "the current social, political, and cultural environment"
+    ],
+    "examples": [
+      "The challenges of contemporary society include technological advancements and environmental sustainability.",
+      "Art reflects the values and concerns of contemporary society."
+    ]
+  },
+  {
+    "word": "push off",
+    "definition": [
+      "to propel a boat or vessel away from a dock or shore",
+      "to depart or set off on a journey"
+    ],
+    "examples": [
+      "We'll need to push off gently from the dock to avoid hitting the other boats.",
+      "They decided to push off early in the morning to reach their destination before nightfall."
+    ]
+  },
+  {
+    "word": "slalom cone",
+    "definition": [
+      "a marker or pylon used in slalom skiing or racing",
+      "a conical object placed on a course to guide racers through a winding path"
+    ],
+    "examples": [
+      "The skiers expertly navigated around each slalom cone as they raced down the slope.",
+      "The coach set up a challenging slalom cone course for the soccer players to improve their agility."
+    ]
+  },
+  {
+    "word": "what's more",
+    "definition": [
+      "used to introduce an additional point, often one that strengthens a previous statement",
+      "furthermore, in addition to what has been said"
+    ],
+    "examples": [
+      "What's more, the product also comes with a complimentary warranty for added peace of mind.",
+      "The views from the top of the mountain were breathtaking, and what's more, we were treated to a stunning sunset."
+    ]
+  },
+  {
+    "word": "padding",
+    "definition": [
+      "soft material used to provide cushioning, support, or protection",
+      "additional or extraneous content that fills space without adding value"
+    ],
+    "examples": [
+      "The boxing gloves had ample padding to absorb impact and prevent injury.",
+      "The article was filled with unnecessary padding, making it longer than it needed to be."
+    ]
+  },
+  {
+    "word": "notorious",
+    "definition": [
+      "infamous or well-known for negative reasons",
+      "having a reputation for being disreputable or undesirable"
+    ],
+    "examples": [
+      "The old mansion was notorious for being haunted by restless spirits.",
+      "The town became notorious for its high crime rates and unsafe streets."
+    ]
+  },
+  {
+    "word": "closure",
+    "definition": [
+      "the act of bringing something to an end or conclusion",
+      "a sense of finality, resolution, or completion",
+      "a process of accepting and moving on from a difficult or emotional experience"
+    ],
+    "examples": [
+      "The closure of the factory left many workers unemployed.",
+      "Finding closure after the loss of a loved one can be a challenging journey.",
+      "The therapy sessions helped her find closure for the traumatic events of her past."
+    ]
+  },
+  {
+    "word": "set a challenge",
+    "definition": [
+      "to establish a task or goal that requires effort and determination to achieve",
+      "to create a difficult or stimulating situation or competition"
+    ],
+    "examples": [
+      "The coach decided to set a challenge for the team by introducing a rigorous training regimen.",
+      "She set a challenge for herself to learn a new language within six months."
+    ]
+  },
+  {
+    "word": "engage in",
+    "definition": [
+      "to participate or involve oneself in an activity or interaction",
+      "to commit to or undertake a task or action"
+    ],
+    "examples": [
+      "The students were encouraged to engage in meaningful discussions during the class.",
+      "He decided to engage in volunteering activities to give back to the community."
+    ]
+  },
+  {
+    "word": "resist temptation",
+    "definition": [
+      "to refrain from giving in to a desire or impulse",
+      "to avoid succumbing to something alluring but potentially harmful"
+    ],
+    "examples": [
+      "Although tempted, he managed to resist the temptation to eat the entire cake.",
+      "She had to resist the temptation to buy yet another pair of shoes."
+    ]
+  },
+  {
+    "word": "pull",
+    "definition": [
+      "to exert force to move something toward oneself or in a particular direction",
+      "to extract or remove something by tugging or drawing",
+      "to influence or attract someone's interest or attention"
+    ],
+    "examples": [
+      "He pulled the heavy crate across the room with great effort.",
+      "She pulled a carrot from the garden and wiped off the dirt.",
+      "The movie's gripping storyline pulled the audience into the plot."
+    ]
+  },
+  {
+    "word": "pretend",
+    "definition": [
+      "to behave in a way that is not genuine or authentic",
+      "to act as if something is true or real when it is not"
+    ],
+    "examples": [
+      "Children often like to pretend they are superheroes, imagining themselves with special powers.",
+      "She pretended to be surprised when she already knew about the surprise party.",
+      "The actor had to pretend to be terrified for the intense scene."
+    ]
+  },
+  {
+    "word": "take a bite",
+    "definition": [
+      "to use the teeth to cut into and consume a portion of food",
+      "to experience a small sample or taste of something"
+    ],
+    "examples": [
+      "He eagerly took a bite of the delicious chocolate cake.",
+      "She encouraged him to take a bite of the exotic fruit.",
+      "The chef insisted that they take a bite of the new dish he had prepared."
+    ]
+  },
+  {
+    "word": "deal with temptation",
+    "definition": [
+      "to manage or address the urge to do something alluring but potentially harmful",
+      "to handle the challenge of resisting attractive yet detrimental options"
+    ],
+    "examples": [
+      "He developed strategies to deal with the temptation of unhealthy snacks.",
+      "She learned techniques to deal with the temptation to procrastinate.",
+      "Successfully dealing with temptation requires willpower and self-discipline."
+    ]
+  },
+  {
+    "word": "exhibited",
+    "definition": [
+      "displayed or presented to the public",
+      "showcased or put on view for observation or scrutiny",
+      "demonstrated or revealed a particular quality, characteristic, or behavior"
+    ],
+    "examples": [
+      "The artist's paintings were exhibited in a prestigious gallery.",
+      "The dog exhibited remarkable intelligence and problem-solving skills.",
+      "The scientist exhibited great dedication to her research."
+    ]
+  },
+  {
+    "word": "restraint",
+    "definition": [
+      "controlled behavior or moderation",
+      "limitation or restriction of action, emotion, or expression",
+      "an act of holding back or refraining from doing something"
+    ],
+    "examples": [
+      "He showed admirable restraint in the face of provocation.",
+      "The teacher praised the student's restraint during a heated debate.",
+      "Exercising restraint in spending helped him achieve his financial goals."
+    ]
+  },
+  {
+    "word": "settle in",
+    "definition": [
+      "to become accustomed to a new environment or situation",
+      "to establish a comfortable and familiar routine in a new place",
+      "to make oneself at home"
+    ],
+    "examples": [
+      "It took a few weeks to settle in after moving to a different city.",
+      "The students quickly settled in and made new friends at the boarding school.",
+      "She started to settle in and feel more relaxed in her new job."
+    ]
+  },
+  {
+    "word": "shape outlook",
+    "definition": [
+      "to influence or form one's perspective, attitude, or worldview",
+      "to mold or guide the way someone perceives and interprets the world"
+    ],
+    "examples": [
+      "Traveling and experiencing diverse cultures can shape one's outlook on life.",
+      "His childhood experiences shaped his outlook on family and relationships.",
+      "Exposure to different ideologies can significantly shape one's political outlook."
+    ]
+  },
+  {
+    "word": "discipline",
+    "definition": [
+      "training to ensure proper behavior and control",
+      "a field of study or branch of knowledge",
+      "a systematic approach or method of achieving a goal"
+    ],
+    "examples": [
+      "Parents use discipline to teach their children good manners and responsibility.",
+      "Psychology is a discipline that focuses on understanding human behavior and mental processes.",
+      "The coach emphasized the importance of discipline in achieving success on the field."
+    ]
+  },
+  {
+    "word": "representative",
+    "definition": [
+      "a person who acts as a spokesperson or advocate for a group or organization",
+      "typical of a particular category or group",
+      "serving as an example or symbol of a larger concept"
+    ],
+    "examples": [
+      "The union representative negotiated on behalf of the workers during contract discussions.",
+      "This small town is representative of rural communities across the country.",
+      "The endangered species serves as a representative of the need for environmental conservation."
+    ]
+  },
+  {
+    "word": "stable",
+    "definition": [
+      "firmly established and not likely to change or collapse",
+      "secure and steady in terms of position or condition",
+      "relatively unchanging over time"
+    ],
+    "examples": [
+      "The company's stable financial situation allowed for long-term planning.",
+      "She sought a stable job with reliable income.",
+      "The patient's condition remained stable after the successful surgery."
+    ]
+  },
+  {
+    "word": "full-time student",
+    "definition": [
+      "a student who is enrolled in a school or educational program on a full-time basis",
+      "a person who devotes the majority of their time to studying and attending classes"
+    ],
+    "examples": [
+      "As a full-time student, she took a heavy course load and was involved in several extracurricular activities.",
+      "He decided to become a full-time student to pursue his passion for literature.",
+      "Balancing part-time work with being a full-time student can be challenging."
+    ]
+  },
+  {
+    "word": "sophisticated",
+    "definition": [
+      "complex, refined, or advanced in terms of design, technology, or knowledge",
+      "cultured, worldly, or elegant in style or manner"
+    ],
+    "examples": [
+      "The smartphone features a sophisticated AI system that enhances user experience.",
+      "Her taste in art and literature is quite sophisticated.",
+      "The event was hosted in a sophisticated venue with modern amenities."
+    ]
+  },
+  {
+    "word": "take up",
+    "definition": [
+      "to begin or start learning or practicing a new hobby, activity, or interest",
+      "to occupy or fill a certain amount of space or time",
+      "to raise or lift something"
+    ],
+    "examples": [
+      "He decided to take up painting as a creative outlet.",
+      "The large sofa takes up most of the living room space.",
+      "She needed to use both hands to take up the heavy box."
+    ]
+  }
+]
+,
         },
         {
           day: 11,
