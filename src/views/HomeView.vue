@@ -5780,8 +5780,1870 @@ export default {
 ,
         },
         {
-          day: 11,
-          words: [],
+          day: 'Climate Change',
+          words: 
+          [
+  {
+    "word": "ill adapted",
+    "definitions": [
+      "Not suited or well-suited for a particular purpose or situation.",
+      "Poorly adjusted or poorly fitted.",
+      "Lacking compatibility with a specific context or environment.",
+      "Showing an inability to function effectively in a given situation."
+    ],
+    "examples": [
+      "His skills were ill adapted to the demands of the fast-paced job.",
+      "The plant struggled to survive in the ill-adapted environment.",
+      "Her clothing choice seemed ill adapted for the cold weather.",
+      "The ill-adapted vehicle struggled to navigate the rough terrain."
+    ]
+  },
+  {
+    "word": "soar",
+    "definitions": [
+      "To fly or glide high in the air.",
+      "To rise or increase rapidly and dramatically.",
+      "To experience a feeling of elation or triumph.",
+      "To ascend to great heights, often metaphorically."
+    ],
+    "examples": [
+      "The eagle soared gracefully above the mountaintops.",
+      "Stock prices continue to soar, reaching record highs.",
+      "Her spirits soared as she received the good news.",
+      "The astronaut's heart swelled as they watched Earth's beauty from space, and their spirit soared."
+    ]
+  },
+  {
+    "word": "push number degree C",
+    "definitions": [
+      "To increase the temperature to a specified level.",
+      "To raise the temperature by a certain number of degrees Celsius.",
+      "To adjust a setting to achieve a desired temperature.",
+      "To intensify the heat to a particular numeric value."
+    ],
+    "examples": [
+      "Please push the oven to 200 degrees Celsius to bake the cake.",
+      "The instructions recommend pushing the thermostat up by five degrees Celsius.",
+      "The chef decided to push the temperature to 220 degrees Celsius for a crispy crust.",
+      "Be sure to push the sauna to a comfortable 80 degrees Celsius for a relaxing experience."
+    ]
+  },
+  {
+    "word": "derision",
+    "definitions": [
+      "Contemptuous ridicule or mockery.",
+      "Mocking or scornful laughter.",
+      "The act of expressing disdain or scornful amusement.",
+      "Ridicule and laughter aimed at belittling or demeaning someone or something."
+    ],
+    "examples": [
+      "Her innovative idea was met with derision from the traditionalists.",
+      "The comedian's performance was met with derision from the audience.",
+      "The politician's speech was filled with derision towards his opponents.",
+      "The students erupted in derision when the teacher's attempt at a joke fell flat."
+    ]
+  },
+  {
+    "word": "gear up",
+    "definitions": [
+      "To prepare or get ready for a specific activity or event.",
+      "To make necessary adjustments or modifications.",
+      "To equip or outfit with the necessary tools or gear.",
+      "To engage in the process of organizing and arranging resources for a purpose."
+    ],
+    "examples": [
+      "The team needs to gear up for the upcoming championship match.",
+      "The company is gearing up for the launch of its new product.",
+      "They had to gear up for the busy holiday season by hiring extra staff.",
+      "As the storm approached, the city began to gear up its emergency response efforts."
+    ]
+  },
+  {
+    "word": "breach",
+    "definitions": [
+      "A violation or breaking of a law, contract, or agreement.",
+      "An opening or gap, especially in a wall, defense, or security.",
+      "A disruption or failure in maintaining a standard or expectation.",
+      "To penetrate, break through, or bypass a barrier or boundary."
+    ],
+    "examples": [
+      "The data breach exposed sensitive customer information.",
+      "A breach in the dam led to flooding in the surrounding area.",
+      "The security breach allowed unauthorized access to confidential files.",
+      "The hackers attempted to breach the company's firewall but were unsuccessful."
+    ]
+  },
+  {
+    "word": "further action",
+    "definitions": [
+      "Additional steps or measures taken to address a situation.",
+      "Continuation of efforts or activities beyond the current stage.",
+      "A sequence of actions or decisions that follow an initial step.",
+      "An escalation of responses or initiatives in response to changing circumstances."
+    ],
+    "examples": [
+      "The committee decided to take further action to investigate the matter.",
+      "In light of the recent developments, the company will need to consider further action.",
+      "The government is discussing further action to address the issue of pollution.",
+      "If the initial treatment is ineffective, the doctor may recommend further action."
+    ]
+  },
+  {
+    "word": "outcry",
+    "definitions": [
+      "A loud expression of strong disapproval or anger.",
+      "A public display of strong emotion, often in protest or criticism.",
+      "A vocal and widespread reaction to a particular event or issue.",
+      "A clamorous demand or request for something to change or improve."
+    ],
+    "examples": [
+      "The decision to cut funding for education led to a public outcry.",
+      "There was a widespread outcry against the unjust treatment of the protesters.",
+      "The media coverage of the scandal prompted a national outcry.",
+      "The outcry from the citizens forced the government to reconsider its policy."
+    ]
+  },
+  {
+    "word": "scandal",
+    "definitions": [
+      "An action or event that causes public outrage or shock.",
+      "A situation or behavior that is considered morally or legally wrong.",
+      "A controversy or issue that is widely discussed and criticized.",
+      "An event that damages the reputation or credibility of an individual, organization, or system."
+    ],
+    "examples": [
+      "The politician's involvement in a bribery scandal led to their resignation.",
+      "The company faced a major scandal when its unethical practices were exposed.",
+      "The celebrity's scandalous behavior was splashed across tabloid headlines.",
+      "The financial scandal rocked the business world and led to investigations."
+    ]
+  },
+  {
+    "word": "tackle the problem/issue",
+    "definitions": [
+      "To confront or deal with a problem or issue directly.",
+      "To take on the challenge of addressing a difficult situation.",
+      "To engage in efforts to resolve or mitigate a particular concern.",
+      "To approach a problem or issue with the intention of finding a solution."
+    ],
+    "examples": [
+      "The team gathered to tackle the problem of declining sales.",
+      "The government is determined to tackle the issue of environmental pollution.",
+      "She decided to tackle the problem head-on and find a way to overcome it.",
+      "The organization formed a committee to tackle the issue of workplace diversity."
+    ]
+  },
+  {
+    "word": "high-latitude",
+    "definitions": [
+      "Referring to or situated in regions far from the equator.",
+      "Relating to areas characterized by cold climates and polar conditions.",
+      "Pertaining to locations on Earth with high degrees of latitude.",
+      "Associated with regions near the poles or at high latitudes."
+    ],
+    "examples": [
+      "High-latitude regions experience long periods of darkness during the winter.",
+      "Polar bears are adapted to the high-latitude environments of the Arctic.",
+      "Scientific research expeditions often focus on studying high-latitude ecosystems.",
+      "The flora and fauna of high-latitude regions are uniquely adapted to cold temperatures."
+    ]
+  },
+  {
+    "word": "modify",
+    "definitions": [
+      "To make partial or minor changes to something.",
+      "To alter or adjust a particular element or characteristic.",
+      "To amend or revise a plan, concept, or object.",
+      "To customize or adapt in order to improve or suit a specific purpose."
+    ],
+    "examples": [
+      "He decided to modify the design of the car to enhance its aerodynamics.",
+      "The recipe can be modified to accommodate dietary restrictions.",
+      "The software engineer needs to modify the code to fix the glitch.",
+      "They are planning to modify the existing policy to better serve the community."
+    ]
+  },
+  {
+    "word": "in mind",
+    "definitions": [
+      "With consideration of a particular thought, intention, or purpose.",
+      "Taking into account a specific idea or goal.",
+      "Having a particular concept or notion as a reference.",
+      "Thinking about or being aware of a certain matter or perspective."
+    ],
+    "examples": [
+      "She created the artwork with her grandmother's advice in mind.",
+      "The architect designed the building with sustainability in mind.",
+      "They developed the new product with user-friendliness in mind.",
+      "His decisions were influenced by the company's long-term goals in mind."
+    ]
+  },
+  {
+    "word": "feeble-minded",
+    "definitions": [
+      "Intellectually weak or lacking in mental capacity.",
+      "Having limited cognitive abilities or intellectual functioning.",
+      "Not possessing normal mental faculties or cognitive skills.",
+      "Exhibiting a lack of mental acuity or intellectual sharpness."
+    ],
+    "examples": [
+      "The court determined that the defendant was feeble-minded and unfit to stand trial.",
+      "She dedicated her life to advocating for the rights of the feeble-minded.",
+      "In the past, society often marginalized and mistreated feeble-minded individuals.",
+      "The institution was criticized for its mistreatment of feeble-minded residents."
+    ]
+  },
+  {
+    "word": "like-minded",
+    "definitions": [
+      "Having similar opinions, beliefs, or interests.",
+      "In agreement or alignment with another person's viewpoints.",
+      "Sharing common values, goals, or attitudes with others.",
+      "Having a similar way of thinking or approaching certain issues."
+    ],
+    "examples": [
+      "She joined a group of like-minded individuals who were passionate about environmental conservation.",
+      "The conference brought together like-minded professionals to discuss innovative ideas.",
+      "He found solace in the company of like-minded peers who shared his artistic vision.",
+      "Online forums provide a platform for like-minded enthusiasts to connect and exchange ideas."
+    ]
+  },
+  {
+    "word": "open-minded",
+    "definitions": [
+      "Willing to consider new ideas, opinions, or perspectives.",
+      "Receptive to diverse viewpoints and willing to challenge one's own beliefs.",
+      "Unbiased and nonjudgmental in assessing different possibilities.",
+      "Having a flexible and accepting attitude towards unconventional or unfamiliar concepts."
+    ],
+    "examples": [
+      "Being open-minded is essential for fostering creativity and innovation.",
+      "The teacher encouraged open-minded discussions in the classroom.",
+      "He approached the cultural exchange program with an open-minded attitude.",
+      "The open-minded nature of the debate allowed for a constructive exchange of ideas."
+    ]
+  },
+  {
+    "word": "top of mind",
+    "definitions": [
+      "Being the first thing one thinks of or remembers.",
+      "Occupying a prominent position in one's thoughts or awareness.",
+      "Affecting one's decisions or perceptions due to immediate relevance.",
+      "Having a significant impact on one's current thinking or focus."
+    ],
+    "examples": [
+      "Customer satisfaction is always at the top of mind for successful businesses.",
+      "The safety of the passengers is a concern that is constantly at the top of mind for airline staff.",
+      "The recent events have brought climate change to the top of mind for many people.",
+      "Innovative solutions are needed to address the challenges that are currently at the top of mind."
+    ]
+  },
+  {
+    "word": "excess",
+    "definitions": [
+      "An amount that is greater than what is considered reasonable or necessary.",
+      "The state of surpassing a limit or norm, often in quantity.",
+      "The availability or presence of more than what is required.",
+      "An overabundance or surplus of something beyond what is expected."
+    ],
+    "examples": [
+      "The party had an excess of food and drinks, leaving plenty for the guests.",
+      "The excess use of plastic is contributing to environmental pollution.",
+      "Excess sugar consumption can lead to various health issues.",
+      "The company faced challenges due to an excess of inventory that wasn't selling."
+    ]
+  },
+  {
+    "word": "needless to say",
+    "definitions": [
+      "Obviously or without the need for further explanation.",
+      "A phrase used to introduce something that is already known or self-evident.",
+      "Certainly and unquestionably understood without needing to be stated.",
+      "An expression indicating that a point is so clear that it goes without saying."
+    ],
+    "examples": [
+      "Needless to say, the results of the experiment were disappointing.",
+      "After the lengthy preparation, needless to say, the performance was exceptional.",
+      "Needless to say, safety is the top priority in any construction project.",
+      "He had worked diligently and, needless to say, his efforts paid off."
+    ]
+  },
+  {
+    "word": "prevention is better than cure",
+    "definitions": [
+      "It is wiser to avoid a problem from occurring than to deal with it afterward.",
+      "A proverb emphasizing the importance of taking precautions to avoid trouble.",
+      "It is more effective to prevent an issue than to have to address its consequences."
+    ],
+    "examples": [
+      "The doctor advised him to maintain a healthy lifestyle, as prevention is better than cure.",
+      "She always wears sunscreen to protect her skin from the sun's harmful rays; after all, prevention is better than cure.",
+      "The company implemented strict security measures to prevent data breaches, following the principle that prevention is better than cure.",
+      "The old saying holds true in many aspects of life, as prevention is often more efficient and less costly than finding a solution later."
+    ]
+  },
+  {
+    "word": "craze",
+    "definitions": [
+      "A sudden and widespread enthusiasm or obsession for something.",
+      "A fad or trend that gains significant popularity for a period of time.",
+      "A strong but short-lived interest or excitement about a particular activity or object.",
+      "A craze often involves a large number of people participating or showing interest."
+    ],
+    "examples": [
+      "The new smartphone became a craze among teenagers, leading to long lines at stores.",
+      "The dance move quickly became a craze and was featured in numerous videos.",
+      "The board game experienced a craze, with people competing in tournaments and forming clubs.",
+      "The social media challenge went viral and became a craze, with people from around the world participating."
+    ]
+  },
+  {
+    "word": "unbearably",
+    "definitions": [
+      "To an extent that is intolerable or excessively painful.",
+      "In a manner that is extremely difficult to endure or withstand.",
+      "To a degree that causes extreme discomfort, distress, or agony."
+    ],
+    "examples": [
+      "The heat in the room was so unbearably high that it was hard to breathe.",
+      "She found the suspense in the movie to be unbearably intense.",
+      "The workload during exam week became unbearably overwhelming.",
+      "The grief she felt after the loss of her loved one was unbearably heavy."
+    ]
+  },
+  {
+    "word": "roaf",
+    "definitions": [
+      "A typographical error or misspelling of the word 'road'.",
+      "A mistake in writing or typing that results in the wrong word being used.",
+      "A term used humorously to refer to a comical or accidental misspelling of 'road'."
+    ],
+    "examples": [
+      "The signpost indicated the direction to the nearest roaf.",
+      "In her text message, she accidentally wrote 'roaf' instead of 'road'.",
+      "The humorous meme featured a picture of a twisted path with the caption 'Roaf less traveled.'",
+      "The roaf was long and winding, taking us on an unexpected journey."
+    ]
+  },
+  {
+    "word": "in relation to",
+    "definitions": [
+      "Concerning or with regard to a particular topic or subject.",
+      "Regarding the connection or association between two or more things.",
+      "In connection with or pertaining to a specific context or situation.",
+      "Relating to the relationship or comparison between different elements."
+    ],
+    "examples": [
+      "The study focused on the effects of pollution in relation to public health.",
+      "The report analyzed the economic implications in relation to climate change policies.",
+      "His statement was taken out of context and misinterpreted in relation to the overall discussion.",
+      "The research explored the cultural differences in relation to communication styles."
+    ]
+  },
+  {
+    "word": "eave",
+    "definitions": [
+      "The part of a roof that overhangs or extends beyond the exterior wall.",
+      "The lower edge or border of a roof that overhangs the wall.",
+      "The projection of a roof beyond the supporting structure."
+    ],
+    "examples": [
+      "The rainwater dripped from the eaves of the house during the storm.",
+      "He stood under the eave to shield himself from the sun's rays.",
+      "The architectural design included decorative carvings along the eaves of the building."
+    ]
+  },
+  {
+    "word": "compromise",
+    "definitions": [
+      "An agreement or settlement reached through mutual concessions.",
+      "A resolution of a dispute by finding middle ground or making concessions.",
+      "To make concessions or come to an agreement by meeting in the middle.",
+      "To accept less than desired or optimal in order to reach an agreement."
+    ],
+    "examples": [
+      "The two sides were able to reach a compromise after lengthy negotiations.",
+      "In order to end the conflict, both parties had to make compromises.",
+      "She compromised by agreeing to a lower salary in exchange for more flexible working hours.",
+      "The compromise allowed for a balanced solution that satisfied both parties."
+    ]
+  },
+  {
+    "word": "ceiling",
+    "definitions": [
+      "The upper interior surface of a room that covers the overhead structure.",
+      "A limit or maximum value set for a particular quantity or parameter.",
+      "The highest point or level that something can reach.",
+      "A surface that acts as a barrier between the interior and the roof."
+    ],
+    "examples": [
+      "He painted the ceiling of the room a calming shade of blue.",
+      "The company implemented a salary ceiling to control costs.",
+      "The sky is the ceiling that stretches infinitely above us.",
+      "The cathedral's ornate ceiling was adorned with intricate frescoes."
+    ]
+  },
+  {
+    "word": "sealed",
+    "definitions": [
+      "Closed or fastened in a way that prevents air, liquid, or other substances from entering or escaping.",
+      "Made airtight or watertight by closing tightly or securely.",
+      "Blocked or covered to prevent access or tampering.",
+      "Enclosed or shut off in a way that ensures containment."
+    ],
+    "examples": [
+      "The envelope was sealed with a strip of adhesive.",
+      "The jar was tightly sealed to preserve the freshness of the contents.",
+      "The crime scene was sealed off by police tape.",
+      "The documents were placed in a sealed envelope for confidentiality."
+    ]
+  },
+  {
+    "word": "sealed windows",
+    "definitions": [
+      "Windows that have been made airtight or watertight by closing them securely.",
+      "Windows that are tightly closed to prevent air, dust, or moisture from entering.",
+      "Windows that are covered or blocked to prevent access or unwanted elements."
+    ],
+    "examples": [
+      "The new house features energy-efficient sealed windows to keep out drafts.",
+      "During the storm, we kept the sealed windows closed to prevent rain from entering.",
+      "The building was abandoned and had boarded-up sealed windows.",
+      "The sealed windows of the laboratory ensured a controlled environment for experiments."
+    ]
+  },
+  {
+    "word": "soak something up",
+    "definitions": [
+      "To absorb a liquid or substance by taking it in through pores or openings.",
+      "To take in or absorb something readily, such as knowledge or information.",
+      "To enjoy and appreciate something to the fullest extent.",
+      "To allow a material to absorb a liquid or solution completely."
+    ],
+    "examples": [
+      "The sponge can soak up a large amount of water.",
+      "She enjoyed reading books because she could soak up new information.",
+      "They relaxed on the beach, soaking up the warm sun.",
+      "You need to let the stain remover soak up the oil before washing the clothes."
+    ]
+  },
+  {
+    "word": "no-brainer",
+    "definitions": [
+      "An action or decision that is very easy to make due to being obvious or simple.",
+      "A choice or option that requires minimal thought or consideration.",
+      "A situation in which the correct course of action is clear and straightforward.",
+      "An opportunity or solution that is clearly advantageous and logical."
+    ],
+    "examples": [
+      "Choosing the healthy salad instead of the greasy burger was a no-brainer for him.",
+      "The decision to buy the product at half price was a no-brainer.",
+      "When offered a promotion with a higher salary, accepting it was a no-brainer.",
+      "Fixing the leaky faucet was a no-brainer; it was wasting water and money."
+    ]
+  },
+  {
+    "word": "matter of something",
+    "definitions": [
+      "A topic or issue that concerns or involves a particular subject.",
+      "A situation that involves a certain aspect or element.",
+      "An essential or significant factor that contributes to a situation.",
+      "A question or problem that requires consideration or resolution."
+    ],
+    "examples": [
+      "The matter of public safety should always be a top priority.",
+      "The matter of funding for the project was discussed during the meeting.",
+      "It's a matter of personal preference whether you prefer tea or coffee.",
+      "The matter of employee morale was addressed through team-building activities."
+    ]
+  },
+  {
+    "word": "hail",
+    "definitions": [
+      "Frozen raindrops that fall from the sky during a hailstorm.",
+      "To call out to someone in a loud and enthusiastic manner.",
+      "To greet or acclaim someone with enthusiasm or approval.",
+      "To praise or commend someone for their achievements."
+    ],
+    "examples": [
+      "The hailstones were so large that they damaged cars and windows.",
+      "He heard his name and turned to see who was hailing him.",
+      "The audience hailed the performers with a standing ovation.",
+      "The coach hailed the players for their hard work and dedication."
+    ]
+  },
+  {
+    "word": "scope",
+    "definitions": [
+      "The extent or range of something's application, effect, or influence.",
+      "The opportunity or possibility to accomplish something.",
+      "A device used for viewing or examining distant objects.",
+      "The overall purpose, goals, or objectives of a particular endeavor."
+    ],
+    "examples": [
+      "The scope of the project includes market research and product development.",
+      "She was excited about the scope for growth in her new role.",
+      "A telescope allows astronomers to explore the farthest reaches of the universe.",
+      "The scope of the presentation will cover various aspects of the company's operations."
+    ]
+  },
+  {
+    "word": "insulate",
+    "definitions": [
+      "To protect or shield from the transfer of heat, electricity, or sound.",
+      "To prevent the passage of heat, energy, or noise through a material.",
+      "To isolate or separate from external influences or disturbances.",
+      "To make a structure or system more energy-efficient by reducing heat loss."
+    ],
+    "examples": [
+      "The walls were insulated to keep the house warm during the winter.",
+      "Properly insulating your home can help reduce energy consumption.",
+      "The soundproof room is insulated to prevent noise from escaping.",
+      "The electronic components are insulated to prevent electrical interference."
+    ]
+  },
+  {
+    "word": "abandoned",
+    "definitions": [
+      "Left behind or deserted, often due to neglect or lack of use.",
+      "No longer in use, occupied, or maintained.",
+      "Forsaken or discarded with no intention of returning or recovering.",
+      "Given up or relinquished, often as a result of changing circumstances."
+    ],
+    "examples": [
+      "The old factory was abandoned and had fallen into disrepair.",
+      "The abandoned building had become a haven for squatters.",
+      "The shipwreck was left abandoned on the rocky shore.",
+      "She felt abandoned by her friends during a time of need."
+    ]
+  },
+  {
+    "word": "draw curtain",
+    "definitions": [
+      "To close or pull the curtain across a window or opening.",
+      "To use a curtain to block or obscure the view from outside.",
+      "To create privacy or shade by covering a window or doorway with a curtain.",
+      "To close or cover a window or entrance using a fabric curtain."
+    ],
+    "examples": [
+      "As the sun set, she drew the curtains to block out the bright light.",
+      "He drew the curtain to shield the room from the harsh afternoon sun.",
+      "Drawing the curtains created a cozy atmosphere in the living room.",
+      "She drew the curtain to create a sense of seclusion in her bedroom."
+    ]
+  },
+  {
+    "word": "shutter",
+    "definitions": [
+      "A movable cover for a window or opening, usually consisting of slats or panels.",
+      "To close or cover a window or opening with a shutter.",
+      "A device or mechanism used to regulate the amount of light entering a camera.",
+      "To take a photograph using a camera's shutter."
+    ],
+    "examples": [
+      "He opened the shutters to let in the fresh air and sunlight.",
+      "The house had beautiful wooden shutters that added charm to its exterior.",
+      "The camera's shutter clicked as she captured the scenic view.",
+      "She decided to shutter the windows before the storm arrived."
+    ]
+  },
+  {
+    "word": "awning",
+    "definitions": [
+      "A sheet of canvas or fabric stretched over a frame to provide shade or shelter.",
+      "A roof-like cover that extends from a building's exterior to offer protection.",
+      "A canopy or overhang that offers shade or protection from the elements.",
+      "A cloth covering that is suspended above a window, doorway, or outdoor area."
+    ],
+    "examples": [
+      "The café had a charming striped awning that shaded the outdoor seating area.",
+      "The awning provided relief from the scorching sun on hot summer days.",
+      "The store's entrance was adorned with a decorative awning.",
+      "She sat on the porch under the awning, enjoying a book and a cup of tea."
+    ]
+  },
+  {
+    "word": "pergola",
+    "definitions": [
+      "An outdoor structure consisting of vertical posts or pillars supporting crossbeams and an open lattice, often used to support climbing plants.",
+      "A shaded walkway or seating area created by a pergola.",
+      "A garden feature designed to provide shade, privacy, or a decorative element.",
+      "A structure that blends architectural beauty with functionality in outdoor spaces."
+    ],
+    "examples": [
+      "They enjoyed a romantic dinner under the vines of the pergola.",
+      "The pergola in the backyard offered a peaceful retreat for relaxation.",
+      "The garden was adorned with a stunning pergola covered in blooming flowers.",
+      "He built a pergola to create a charming focal point in his backyard."
+    ]
+  },
+  {
+    "word": "somewhere-wide",
+    "definitions": [
+      "Covering or spanning a considerable or unspecified area or distance.",
+      "Extending across a wide or extensive space, often with an unspecified location.",
+      "A term used humorously to describe something that is vaguely or broadly defined in terms of location."
+    ],
+    "examples": [
+      "She traveled somewhere-wide, exploring different countries and cultures.",
+      "His artistic influences are somewhere-wide, ranging from classical to contemporary styles.",
+      "The term 'somewhere-wide' became a running joke to describe his frequent but undefined travels.",
+      "The treasure hunt took participants somewhere-wide in search of hidden clues."
+    ]
+  },
+  {
+    "word": "city-wide",
+    "definitions": [
+      "Covering or affecting the entire city or urban area.",
+      "Extending across various neighborhoods or districts within a city.",
+      "Involving or pertaining to all residents or aspects of city life.",
+      "Affecting or including multiple sectors or communities within a city."
+    ],
+    "examples": [
+      "The city-wide festival attracted visitors from all over the region.",
+      "City-wide initiatives aimed to improve public transportation and reduce congestion.",
+      "The city-wide cleanup campaign mobilized volunteers to beautify public spaces.",
+      "The city-wide school district implemented new educational policies."
+    ]
+  },
+  {
+    "word": "greener",
+    "definitions": [
+      "More environmentally friendly or ecologically sustainable.",
+      "Posessing qualities that promote a healthier environment or reduced ecological impact.",
+      "Characterized by practices, products, or behaviors that have a lower carbon footprint.",
+      "Descriptive of a lifestyle or choice that prioritizes environmental well-being."
+    ],
+    "examples": [
+      "Driving a hybrid car is a greener choice compared to a conventional gasoline vehicle.",
+      "She started using reusable containers to make her lunch routine greener.",
+      "The company's commitment to recycling and waste reduction made its operations greener.",
+      "By using energy-efficient appliances, he contributed to a greener household."
+    ]
+  },
+  {
+    "word": "pay the price",
+    "definitions": [
+      "To experience negative consequences or face the results of one's actions.",
+      "To endure hardships, challenges, or penalties as a result of decisions.",
+      "To suffer the effects or outcomes of a particular choice, often regrettable.",
+      "To face the cost, repercussions, or sacrifices associated with a decision."
+    ],
+    "examples": [
+      "His reckless behavior led to an accident, and he had to pay the price.",
+      "She ignored her health for years and eventually had to pay the price.",
+      "Making unethical choices can come back to haunt you; sooner or later, you'll have to pay the price.",
+      "The company's poor financial decisions resulted in bankruptcy, forcing them to pay the price."
+    ]
+  },
+  {
+    "word": "wake up and smell the coffins",
+    "definitions": [
+      "A phrase used to advise someone to recognize the reality or seriousness of a situation.",
+      "An expression urging someone to become aware of a pressing issue or impending danger.",
+      "To acknowledge the gravity of a matter and take appropriate action."
+    ],
+    "examples": [
+      "It's time to wake up and smell the coffins – our planet is facing a climate crisis.",
+      "Instead of ignoring the signs, it's time to wake up and smell the coffins.",
+      "The company needs to wake up and smell the coffins before it's too late to save the business.",
+      "He needs to wake up and smell the coffins to understand the urgency of the situation."
+    ]
+  },
+  {
+    "word": "coffin",
+    "definitions": [
+      "A box or case in which a deceased person's body is placed for burial or cremation.",
+      "A burial container typically made of wood, metal, or other materials.",
+      "A symbolic representation of death, often used in idiomatic expressions.",
+      "A term sometimes humorously used to emphasize the seriousness of a situation."
+    ],
+    "examples": [
+      "The funeral procession carried the coffin to the cemetery.",
+      "The deceased was laid to rest in a beautiful wooden coffin.",
+      "The black clouds served as a coffin for the setting sun.",
+      "He realized he had to address the issue when he saw the proverbial coffin in front of him."
+    ]
+  },
+  {
+    "word": "human-friendly",
+    "definitions": [
+      "Designed or developed to be easily understood, operated, or used by humans.",
+      "Posessing characteristics that are favorable, safe, or accommodating to human needs.",
+      "User-centered or tailored to enhance the experience and interaction for humans.",
+      "Descriptive of environments, products, or systems that prioritize human comfort and well-being."
+    ],
+    "examples": [
+      "The user interface of the software was designed to be human-friendly.",
+      "The park's layout and facilities were carefully planned to be human-friendly.",
+      "The neighborhood's pedestrian pathways and cycling lanes make it very human-friendly.",
+      "He appreciated the human-friendly features of the new home automation system."
+    ]
+  },
+  {
+    "word": "child-friendly",
+    "definitions": [
+      "Designed or adapted to be suitable, safe, and engaging for children.",
+      "Posessing qualities or features that cater to the needs and interests of children.",
+      "Creating an environment or atmosphere that is welcoming and comfortable for young individuals.",
+      "Descriptive of spaces, activities, or products that encourage positive interactions for children."
+    ],
+    "examples": [
+      "The playground was designed to be child-friendly, with age-appropriate equipment and safety measures.",
+      "The restaurant offered a child-friendly menu and a play area for young patrons.",
+      "The museum's interactive exhibits were highly child-friendly, encouraging learning through play.",
+      "The childcare center focused on creating a child-friendly environment that promotes learning and social development."
+    ]
+  },
+  {
+    "word": "eco-friendly",
+    "definitions": [
+      "Posessing characteristics that are not harmful to the environment.",
+      "Designed or produced in a way that has minimal impact on the ecosystem.",
+      "Contributing to the conservation of natural resources and the reduction of pollution.",
+      "Descriptive of practices, products, or lifestyles that promote sustainability."
+    ],
+    "examples": [
+      "Using cloth bags instead of plastic ones is a simple way to be more eco-friendly.",
+      "The company's commitment to using renewable energy sources aligns with their eco-friendly values.",
+      "She chose an eco-friendly detergent that is biodegradable and chemical-free.",
+      "Installing solar panels on your home can significantly reduce your carbon footprint and promote an eco-friendly lifestyle."
+    ]
+  },
+  {
+    "word": "diplomatic",
+    "definitions": [
+      "Relating to the practice of conducting negotiations and relations between countries.",
+      "Exhibiting skillful tact, sensitivity, and discretion in dealing with others.",
+      "Characterized by a balanced and careful approach to resolving conflicts or disagreements.",
+      "Pertaining to the art of managing relationships and interactions to achieve mutual understanding and cooperation."
+    ],
+    "examples": [
+      "The ambassador's diplomatic efforts helped defuse the international crisis.",
+      "She handled the delicate situation with great diplomatic finesse.",
+      "His diplomatic response to the criticism demonstrated his professionalism.",
+      "The diplomat's role is to engage in diplomatic discussions to promote peace and cooperation."
+    ]
+  },
+  {
+    "word": "easy-to-reach workspaces",
+    "definitions": [
+      "Work areas that are conveniently accessible and within reach.",
+      "Workspaces designed to minimize physical strain and effort.",
+      "Areas where tools, equipment, or materials can be easily accessed and used."
+    ],
+    "examples": [
+      "The office layout includes easy-to-reach workspaces for improved productivity.",
+      "In the workshop, tools are organized in easy-to-reach workspaces to save time.",
+      "The kitchen was designed with easy-to-reach workspaces to facilitate efficient cooking."
+    ]
+  },
+  {
+    "word": "sewerage",
+    "definitions": [
+      "The system of pipes and infrastructure used for the collection and disposal of sewage.",
+      "The process of managing wastewater and sewage from households and industries.",
+      "The network of drains, pipes, and treatment facilities that handle sewage and wastewater."
+    ],
+    "examples": [
+      "The city's sewerage system plays a crucial role in maintaining public health.",
+      "Proper maintenance of sewerage systems prevents pollution and environmental damage.",
+      "Efficient sewerage treatment is essential to ensure clean water sources and sanitation."
+    ]
+  },
+  {
+    "word": "emblematic",
+    "definitions": [
+      "Representative or symbolic of a particular quality, idea, or characteristic.",
+      "Serving as a recognizable symbol that represents a group, concept, or identity.",
+      "Characteristic or distinctive of a specific place, culture, or period."
+    ],
+    "examples": [
+      "The bald eagle is emblematic of strength and freedom in American culture.",
+      "The tower has become emblematic of the city's skyline.",
+      "The artist used colors emblematic of the Renaissance period in the painting."
+    ]
+  },
+  {
+    "word": "at the heart of something",
+    "definitions": [
+      "Central or fundamental to a particular idea, issue, or situation.",
+      "Located in the core or central part of a place or concept.",
+      "Essential or pivotal to the understanding or functioning of something."
+    ],
+    "examples": [
+      "Education is at the heart of building a better society.",
+      "The historic district is at the heart of the city's cultural heritage.",
+      "Teamwork is at the heart of a successful business."
+    ]
+  },
+  {
+    "word": "proverbial",
+    "definitions": [
+      "Referring to a well-known proverb or saying.",
+      "Famous or widely recognized, often with a slightly ironic or humorous connotation.",
+      "Commonly referred to or mentioned, especially in a clichéd or expected manner."
+    ],
+    "examples": [
+      "She has a knack for getting into the proverbial 'hot water'.",
+      "The town's proverbial hospitality made the visitors feel welcome.",
+      "He's known for his proverbial luck in finding rare collectibles."
+    ]
+  },
+  {
+    "word": "settlements",
+    "definitions": [
+      "Communities or places where people live, often established in a specific area.",
+      "Legal agreements or resolutions reached between parties to resolve disputes.",
+      "Compensation or payments made to resolve legal claims or debts."
+    ],
+    "examples": [
+      "The ancient ruins indicate early human settlements in the region.",
+      "The two parties reached settlements outside of court.",
+      "The insurance company offered settlements to the accident victims."
+    ]
+  },
+  {
+    "word": "slim",
+    "definitions": [
+      "Having a slender or thin shape.",
+      "Small in width or thickness.",
+      "Slight or negligible in amount, degree, or chance.",
+      "Unlikely or uncertain in terms of success or probability."
+    ],
+    "examples": [
+      "She maintained a slim figure through regular exercise.",
+      "The smartphone features a slim design for easy portability.",
+      "The chances of winning the lottery are very slim.",
+      "There is a slim chance of rain during the weekend."
+    ]
+  },
+  {
+    "word": "admixture",
+    "definitions": [
+      "A mixture or blend of different elements or substances.",
+      "The process of mixing or combining different components.",
+      "The presence of diverse elements within a single entity or system."
+    ],
+    "examples": [
+      "The cake batter requires an admixture of flour, sugar, and eggs.",
+      "The music genre is an admixture of various cultural influences.",
+      "The architectural style is characterized by an admixture of traditional and modern elements."
+    ]
+  },
+  {
+    "word": "array",
+    "definitions": [
+      "An impressive or varied display or collection of things.",
+      "An arrangement or alignment of items in a particular order or pattern.",
+      "To organize or display things in an ordered or systematic manner."
+    ],
+    "examples": [
+      "The art gallery showcased an array of stunning paintings.",
+      "The new store has an array of products to choose from.",
+      "She skillfully arranged the flowers in a beautiful array.",
+      "The fashion show featured an array of elegant dresses."
+    ]
+  },
+  {
+    "word": "workable lifetime",
+    "definitions": [
+      "The period during which something remains functional or usable.",
+      "The duration over which an object, system, or product can perform its intended purpose.",
+      "The reasonable or practical amount of time that something can be expected to work effectively."
+    ],
+    "examples": [
+      "The workable lifetime of the laptop battery is approximately three years.",
+      "The company offers a warranty that covers the workable lifetime of the appliance.",
+      "Regular maintenance can extend the workable lifetime of your car."
+    ]
+  },
+  {
+    "word": "workability",
+    "definitions": [
+      "The extent to which a substance or material can be worked or shaped.",
+      "The ease with which a process, plan, or idea can be executed or implemented.",
+      "The quality of being suitable or manageable for a specific purpose."
+    ],
+    "examples": [
+      "The workability of the clay made it ideal for sculpting intricate designs.",
+      "The engineers assessed the workability of the new software before deployment.",
+      "The chef considered the workability of different ingredients for the recipe.",
+      "The workability of the proposed solution will determine its feasibility."
+    ]
+  },
+  {
+    "word": "rheology",
+    "definitions": [
+      "The branch of physics or engineering that deals with the flow and deformation of matter.",
+      "The study of how materials, such as fluids and soft solids, respond to applied forces.",
+      "The science that examines the behavior of complex materials under various conditions."
+    ],
+    "examples": [
+      "Rheology is essential for understanding the behavior of materials like paints and polymers.",
+      "The rheology of magma is studied to predict volcanic eruptions.",
+      "The research focused on the rheology of blood flow in arteries.",
+      "The rheology of the dough determines the texture of the final bread."
+    ]
+  },
+  {
+    "word": "spray onto",
+    "definitions": [
+      "To disperse liquid particles in a fine mist onto a surface.",
+      "To apply a coating, paint, or substance by using a spraying mechanism.",
+      "The act of releasing a liquid in tiny droplets onto a target area."
+    ],
+    "examples": [
+      "She used a spray bottle to mist water onto the houseplants.",
+      "The painter carefully sprayed varnish onto the wooden furniture.",
+      "The gardener sprayed insecticide onto the rose bushes.",
+      "The technician sprayed coolant onto the overheating machinery."
+    ]
+  },
+  {
+    "word": "excavate",
+    "definitions": [
+      "To dig or remove earth, rocks, or debris from a site, typically for construction or research.",
+      "To uncover or expose by digging or removing material from the ground.",
+      "To unearth artifacts, fossils, or historical remains through systematic digging."
+    ],
+    "examples": [
+      "Archaeologists excavated ancient ruins to learn about past civilizations.",
+      "The construction crew excavated a foundation for the new building.",
+      "The paleontologists carefully excavated the dinosaur fossils.",
+      "The workers had to excavate a trench for the utility lines."
+    ]
+  },
+  {
+    "word": "nozzle",
+    "definitions": [
+      "A projecting spout or pipe through which a fluid, gas, or other substance is released.",
+      "A device that controls the direction and flow of a substance as it exits a container.",
+      "The part of a tool or apparatus where a fluid or gas is expelled."
+    ],
+    "examples": [
+      "The firefighter directed the water spray through the nozzle to extinguish the flames.",
+      "The car wash nozzle sprayed a powerful stream of water onto the vehicle.",
+      "The nozzle of the fuel pump was designed to prevent spills.",
+      "He adjusted the nozzle to control the pressure of the paint spray."
+    ]
+  },
+  {
+    "word": "newfound",
+    "definitions": [
+      "Recently discovered or acquired; not previously known or experienced.",
+      "Characterized by a recent sense of awareness, understanding, or possession."
+    ],
+    "examples": [
+      "Her newfound interest in photography led her to explore new creative avenues.",
+      "He felt a newfound sense of purpose after attending the motivational seminar.",
+      "The researcher's findings brought newfound clarity to the scientific community.",
+      "The artist's newfound technique breathed life into his paintings."
+    ]
+  },
+  {
+    "word": "snarl up",
+    "definitions": [
+      "To become entangled, twisted, or knotted.",
+      "To cause a traffic jam or congestion due to blockage or accidents.",
+      "To complicate or muddle a situation, plan, or process."
+    ],
+    "examples": [
+      "The wires were snarled up in a tangled mess.",
+      "The accident on the highway snarled up traffic for miles.",
+      "A miscommunication could snarl up the entire project.",
+      "The unexpected delays snarled up the travel itinerary."
+    ]
+  },
+  {
+    "word": "pump up",
+    "definitions": [
+      "To inflate or fill something with air or gas using a pump.",
+      "To increase the volume, intensity, or level of something.",
+      "To motivate, encourage, or energize someone or a group."
+    ],
+    "examples": [
+      "He used a bicycle pump to pump up the flat tire.",
+      "The coach pumped up the team before the championship game.",
+      "The DJ pumped up the crowd with energetic music.",
+      "She decided to pump up her workout routine for better results."
+    ]
+  },
+  {
+    "word": "bind",
+    "definitions": [
+      "To fasten, secure, or tie something with a cord, rope, or other fastening material.",
+      "To join together or unite closely; to form a strong bond or connection.",
+      "To impose a legal or moral obligation on someone.",
+      "A strong adhesive substance used for sticking objects together."
+    ],
+    "examples": [
+      "She used a ribbon to bind the pages of the book together.",
+      "The shared experiences of the team members helped bind them as a cohesive unit.",
+      "The contract will bind the parties to specific terms and conditions.",
+      "The glue has a strong bind that ensures a durable bond."
+    ]
+  },
+  {
+    "word": "keep something/someone apart",
+    "definitions": [
+      "To maintain a physical distance or separation between things or people.",
+      "To prevent two or more things or individuals from being close or in contact.",
+      "To ensure that different elements or groups do not mix or come together."
+    ],
+    "examples": [
+      "The partitions were used to keep the office spaces apart.",
+      "She tried to keep the fighting children apart to avoid further conflict.",
+      "The organizer used barriers to keep the different event zones apart.",
+      "The strict protocols were designed to keep the contagious individuals apart from the rest."
+    ]
+  },
+  {
+    "word": "relish",
+    "definitions": [
+      "To take great pleasure or delight in something.",
+      "To enjoy or savor a particular experience or activity.",
+      "A condiment or topping added to food to enhance its flavor."
+    ],
+    "examples": [
+      "He relished the opportunity to explore new cultures during his travels.",
+      "She relished the challenge of solving complex puzzles.",
+      "The hot dog was topped with mustard, ketchup, and relish.",
+      "They relished the moments of laughter and camaraderie."
+    ]
+  },
+  {
+    "word": "liaise with",
+    "definitions": [
+      "To establish and maintain communication and cooperation between different groups or individuals.",
+      "To collaborate, interact, or work together with others, often to exchange information or coordinate efforts.",
+      "To serve as a connection or intermediary between different parties."
+    ],
+    "examples": [
+      "The project manager liaised with various departments to ensure smooth workflow.",
+      "The marketing team liaised with the design team to create a cohesive campaign.",
+      "She liaised with the suppliers to secure the necessary materials.",
+      "The ambassador liaised with foreign governments to strengthen diplomatic ties."
+    ]
+  },
+  {
+    "word": "do utmost",
+    "definitions": [
+      "To make the greatest effort or exert the maximum possible energy.",
+      "To strive to the fullest extent to accomplish a task or goal.",
+      "To put forth one's best and most determined attempt."
+    ],
+    "examples": [
+      "He did his utmost to complete the project ahead of the deadline.",
+      "The team members did their utmost to rescue the stranded hikers.",
+      "She promised to do her utmost to support the community during challenging times.",
+      "The athletes did their utmost to achieve their personal best in the competition."
+    ]
+  },
+  {
+    "word": "add-ins",
+    "definitions": [
+      "Extra ingredients or components added to a base substance or mixture.",
+      "Supplementary features or functionalities added to a product or system.",
+      "Customizable options or enhancements that can be incorporated into a standard offering."
+    ],
+    "examples": [
+      "The chef offers a variety of add-ins for the pasta dish, such as vegetables and proteins.",
+      "The software program allows users to install different add-ins to expand its capabilities.",
+      "The car manufacturer offers various add-ins for upgraded technology and comfort.",
+      "The ice cream shop offers a range of add-ins, from nuts to candies."
+    ]
+  },
+  {
+    "word": "temper",
+    "definitions": [
+      "To moderate or adjust the quality, strength, or behavior of something.",
+      "To strengthen or toughen a material through controlled heating and cooling.",
+      "To restrain or control one's emotions or reactions."
+    ],
+    "examples": [
+      "She used spices to temper the intense flavor of the dish.",
+      "The metal was tempered to increase its durability and hardness.",
+      "He needed to temper his frustration with patience.",
+      "The coach tempered the team's excitement with a reminder of the challenges ahead."
+    ]
+  },
+  {
+    "word": "ground-up",
+    "definitions": [
+      "Built or developed from the very beginning or basic components.",
+      "Starting with the fundamental elements and gradually progressing to a complete state.",
+      "Comprehensive and all-encompassing; considering every aspect or detail."
+    ],
+    "examples": [
+      "The company was built from the ground-up by a group of innovative entrepreneurs.",
+      "The ground-up approach ensured that the project met all the specific requirements.",
+      "The ground-up design of the software allowed for customization at every level.",
+      "The architect took a ground-up approach to create a sustainable and functional building."
+    ]
+  },
+  {
+    "word": "ground-up materials",
+    "definitions": [
+      "Raw components or substances that form the basis for creating something new.",
+      "Basic elements used to construct or develop a product or structure from the foundation.",
+      "Fundamental materials that are used as the starting point for a manufacturing process."
+    ],
+    "examples": [
+      "The artist used ground-up materials to create unique textures in the artwork.",
+      "The builder sourced ground-up materials to construct the eco-friendly house.",
+      "The bakery used high-quality ground-up materials to craft artisanal bread.",
+      "The scientist combined ground-up materials to develop a groundbreaking composite."
+    ]
+  },
+  {
+    "word": "furnace",
+    "definitions": [
+      "A device used for heating a space or producing high temperatures, especially for industrial purposes.",
+      "An enclosed structure where heat is generated for various processes, such as melting metals.",
+      "A chamber or container designed for controlled heating or combustion."
+    ],
+    "examples": [
+      "The furnace provided warmth to the entire house during the cold winter.",
+      "The steel mill used a blast furnace to melt and shape metal.",
+      "The laboratory furnace was used to conduct experiments at extreme temperatures.",
+      "The glassblower used a furnace to melt and shape the glass into intricate designs."
+    ]
+  },
+  {
+    "word": "limestone",
+    "definitions": [
+      "A sedimentary rock composed primarily of calcium carbonate.",
+      "A natural stone commonly used in construction and as a raw material in various industries.",
+      "A versatile material that can be shaped and carved for architectural and artistic purposes."
+    ],
+    "examples": [
+      "The ancient cathedral was built using limestone blocks.",
+      "Limestone is often used as a key ingredient in cement production.",
+      "The sculptor chose limestone for its smooth texture and workability.",
+      "The archaeological site contains limestone formations formed over millions of years."
+    ]
+  },
+  {
+    "word": "fly ash",
+    "definitions": [
+      "Fine particles of ash and dust that are carried into the air by combustion processes.",
+      "Residue generated from burning coal or other materials, often used as a construction material.",
+      "A by-product of coal-fired power plants that can be recycled for various applications."
+    ],
+    "examples": [
+      "The volcanic eruption released clouds of fly ash into the atmosphere.",
+      "Fly ash is commonly mixed with concrete to enhance its strength and durability.",
+      "The construction industry finds innovative uses for fly ash in sustainable building materials.",
+      "The researchers investigated the potential environmental impacts of fly ash disposal."
+    ]
+  },
+  {
+    "word": "by-product of something",
+    "definitions": [
+      "A secondary or incidental result or substance produced during a main process or activity.",
+      "A substance, material, or item that is created as a consequence of another process.",
+      "Something that is generated or obtained as an unintended outcome."
+    ],
+    "examples": [
+      "Carbon dioxide is a by-product of combustion.",
+      "The chemical reaction yielded hydrogen gas as a by-product.",
+      "The company developed a method to utilize waste heat as a valuable by-product.",
+      "The research led to the discovery of a new material as a by-product of the experiment."
+    ]
+  },
+  {
+    "word": "coal-fuelled",
+    "definitions": [
+      "Powered or operated by the combustion of coal.",
+      "Using coal as the primary source of fuel to generate energy.",
+      "Reliant on the burning of coal to produce heat or power."
+    ],
+    "examples": [
+      "The coal-fuelled power plant supplied electricity to the entire city.",
+      "The locomotive was a coal-fuelled engine that powered the train.",
+      "The factory relied on coal-fuelled machinery for its manufacturing processes.",
+      "The government is exploring alternatives to reduce the reliance on coal-fuelled energy."
+    ]
+  },
+  {
+    "word": "cost-efficient",
+    "definitions": [
+      "Achieving maximum productivity or benefit with minimal expenses or waste.",
+      "Providing value or results in relation to the cost incurred.",
+      "Economical or frugal in terms of resources, time, or money."
+    ],
+    "examples": [
+      "The new production process proved to be highly cost-efficient, reducing manufacturing expenses.",
+      "Using energy-efficient appliances can lead to long-term cost savings.",
+      "The cost-efficient design of the building incorporated sustainable materials and practices.",
+      "The company implemented cost-efficient strategies to streamline its operations."
+    ]
+  },
+  {
+    "word": "fatbergs",
+    "definitions": [
+      "Large masses or congealed accumulations of fat, grease, and non-biodegradable materials in sewer systems.",
+      "Blockages in sewage pipes caused by the accumulation of fats, oils, and solid waste.",
+      "Clusters of solidified waste and debris found in sewage networks, often causing plumbing issues."
+    ],
+    "examples": [
+      "The city faced a major issue with fatbergs clogging its sewer infrastructure.",
+      "Proper waste disposal is crucial to prevent the formation of fatbergs in the sewage system.",
+      "The maintenance crew worked to remove fatbergs that were causing backups in the pipes.",
+      "The restaurant's improper disposal of grease contributed to the formation of fatbergs."
+    ]
+  },
+  {
+    "word": "behemoth",
+    "definitions": [
+      "An enormous, powerful, and often unwieldy or difficult-to-control entity.",
+      "A massive and formidable creature or organization.",
+      "A term used to describe something of great size, scale, or influence."
+    ],
+    "examples": [
+      "The multinational corporation had become a behemoth in the industry.",
+      "The ship was a technological behemoth, equipped with advanced navigation systems.",
+      "The construction project was a logistical behemoth, requiring extensive coordination.",
+      "The financial institution was considered a behemoth due to its extensive reach."
+    ]
+  },
+  {
+    "word": "lump",
+    "definitions": [
+      "A small, solid mass or piece of matter.",
+      "A compact or undifferentiated group or collection of things.",
+      "To group or treat different elements as a single unit."
+    ],
+    "examples": [
+      "She found a lump of clay to use for sculpting.",
+      "The invoice included a lump sum payment for services rendered.",
+      "The data was presented in a lump format, making it difficult to analyze individually.",
+      "The costs were lumped together for a comprehensive budget overview."
+    ]
+  },
+  {
+    "word": "wip lurk",
+    "definitions": [
+      "A term used in online communities to indicate a work-in-progress (WIP) that is being observed or monitored.",
+      "To remain hidden or concealed while observing or awaiting an opportunity.",
+      "To stay out of sight or remain unnoticed while keeping watch."
+    ],
+    "examples": [
+      "The artist shared a sneak peek of their wip lurk with the online art community.",
+      "The detective decided to wip lurk in the shadows to gather more information.",
+      "The photographer wip lurked in the background to capture candid moments.",
+      "The spy wip lurked at the meeting, gathering valuable intel."
+    ]
+  },
+  {
+    "word": "threatening",
+    "definitions": [
+      "Expressing or conveying a potential danger, harm, or menace.",
+      "Presenting a perceived risk or harm to someone or something.",
+      "Portraying a menacing or intimidating demeanor."
+    ],
+    "examples": [
+      "The dark clouds and thunder were signs of an impending threatening storm.",
+      "The suspect's threatening behavior caused concern among the witnesses.",
+      "The letter contained threatening language and demands.",
+      "The threatening presence of wild animals deterred hikers from entering the forest."
+    ]
+  },
+  {
+    "word": "put someone off",
+    "definitions": [
+      "To discourage, dissuade, or cause someone to lose interest or enthusiasm.",
+      "To delay or postpone an event, plan, or activity.",
+      "To interrupt or disturb someone's concentration or focus."
+    ],
+    "examples": [
+      "The negative reviews put her off from watching the movie.",
+      "The unexpected rain put off the outdoor picnic.",
+      "The constant noise put him off while he was trying to read.",
+      "The challenging task initially put her off, but she eventually tackled it."
+    ]
+  },
+  {
+    "word": "monstrosity",
+    "definitions": [
+      "An extremely ugly or distorted object or creature.",
+      "A thing that is outrageously or offensively wrong, cruel, or inhumane.",
+      "A structure or creation that is unusually large, complex, or difficult to manage."
+    ],
+    "examples": [
+      "The abandoned building had become a crumbling monstrosity.",
+      "The dictator's actions were deemed a monstrosity by the international community.",
+      "The proposed development was criticized as an architectural monstrosity.",
+      "The experimental dish turned out to be a culinary monstrosity."
+    ]
+  },
+  {
+    "word": "rivalling",
+    "definitions": [
+      "Competing or vying with someone or something for superiority or success.",
+      "Attempting to outdo or surpass a competitor in a particular area.",
+      "Engaging in rivalry or contention with another entity."
+    ],
+    "examples": [
+      "The two companies were rivalling for dominance in the market.",
+      "The athletes were rivalling each other for the championship title.",
+      "The sibling rivalry led to constant rivalling over trivial matters.",
+      "The teams were rivalling fiercely to secure the prestigious contract."
+    ]
+  },
+  {
+    "word": "whopping",
+    "definitions": [
+      "Extremely large or impressive in size, amount, or extent.",
+      "Remarkably high or significant in magnitude.",
+      "Used to emphasize the surprising or astonishing nature of something."
+    ],
+    "examples": [
+      "The company reported a whopping increase in profits this quarter.",
+      "He received a whopping scholarship to fund his education.",
+      "The research grant provided a whopping amount of funding for the project.",
+      "The recipe called for a whopping six cups of flour."
+    ]
+  },
+  {
+    "word": "modest",
+    "definitions": [
+      "Having a humble or unpretentious manner; not boastful or overly proud.",
+      "Having a moderate or reasonable amount, size, or level.",
+      "Simple or plain in style or appearance."
+    ],
+    "examples": [
+      "She remained modest despite her remarkable achievements.",
+      "The price of the product was quite modest, making it affordable for many.",
+      "The house had a modest design, blending in with the surrounding landscape.",
+      "He expressed modest goals for the upcoming project."
+    ]
+  },
+  {
+    "word": "blockage",
+    "definitions": [
+      "An obstruction or barrier that prevents the flow, movement, or passage of something.",
+      "A condition where a passage, pipe, or vessel is clogged or congested.",
+      "The state of being closed off or impeded."
+    ],
+    "examples": [
+      "The fallen tree caused a blockage on the road, halting traffic.",
+      "A blockage in the sink led to slow drainage of water.",
+      "The doctor explained that the chest pain was caused by a blockage in the artery.",
+      "The sewage system experienced a severe blockage due to foreign objects."
+    ]
+  },
+  {
+    "word": "rise to prominence",
+    "definitions": [
+      "To become well-known, influential, or recognized, especially in a particular field or area.",
+      "To achieve a position of prominence, significance, or popularity.",
+      "To gain attention and respect due to notable achievements or contributions."
+    ],
+    "examples": [
+      "The artist rose to prominence with a series of groundbreaking exhibitions.",
+      "Her dedication and talent helped her rise to prominence in the music industry.",
+      "The scientist's discoveries allowed him to rise to prominence in the field of physics.",
+      "The company's innovative products helped it rise to prominence within the tech sector."
+    ]
+  },
+  {
+    "word": "utility",
+    "definitions": [
+      "The state or quality of being useful or beneficial.",
+      "A public service, such as electricity, water, or gas, provided to the community.",
+      "A tool, machine, or system designed to perform a specific function or task."
+    ],
+    "examples": [
+      "The new app offers great utility for managing daily tasks.",
+      "The utility company is responsible for providing electricity and water to households.",
+      "The utility knife is versatile and can be used for various cutting tasks.",
+      "The park's utilities were shut off temporarily for maintenance."
+    ]
+  },
+  {
+    "word": "portmanteau",
+    "definitions": [
+      "A word formed by blending or combining parts of two separate words.",
+      "A suitcase with two compartments that fold together.",
+      "A combination of two or more elements, ideas, or concepts."
+    ],
+    "examples": [
+      "Brunch is a portmanteau of 'breakfast' and 'lunch'.",
+      "She packed her clothes neatly into the portmanteau.",
+      "The term 'smog' is a portmanteau of 'smoke' and 'fog'.",
+      "The new word is a portmanteau that captures the essence of both ideas."
+    ]
+  },
+  {
+    "word": "flush",
+    "definitions": [
+      "To cleanse or rinse by flooding with a fluid, typically water.",
+      "To become red or rosy in the face, often due to embarrassment or exertion.",
+      "To eliminate or expel waste materials from the body.",
+      "A sudden rush or surge of a fluid."
+    ],
+    "examples": [
+      "She used water to flush dirt from the surface.",
+      "He flushed with embarrassment when he realized his mistake.",
+      "Drinking plenty of water helps to flush toxins from the body.",
+      "The toilet's flush was strong and efficient."
+    ]
+  },
+  {
+    "word": "grease",
+    "definitions": [
+      "A thick, oily substance used to lubricate moving parts or reduce friction.",
+      "Fat or oil that has melted and solidified, often as a residue.",
+      "To apply grease to a surface for lubrication or protection."
+    ],
+    "examples": [
+      "The mechanic applied grease to the gears to ensure smooth operation.",
+      "The pan was coated with a layer of grease after cooking the bacon.",
+      "The door hinges need to be greased regularly to prevent squeaking.",
+      "She used a rag to wipe away the grease from the engine."
+    ]
+  },
+  {
+    "word": "congealed",
+    "definitions": [
+      "Solidified or thickened as a result of cooling or freezing.",
+      "To change from a liquid to a solid state; to become thick or viscous.",
+      "To coagulate or clot, forming a semisolid mass."
+    ],
+    "examples": [
+      "The gravy congealed as it cooled on the plate.",
+      "The melted chocolate congealed into a solid block in the refrigerator.",
+      "The blood congealed around the wound, forming a protective layer.",
+      "The soup congealed in the pot after it had been left out for too long."
+    ]
+  },
+  {
+    "word": "grease congealed",
+    "definitions": [
+      "Solidified or thickened grease that has cooled.",
+      "Grease or fat that has hardened and become viscous due to temperature changes."
+    ],
+    "examples": [
+      "The leftover cooking grease congealed in the pan.",
+      "The grease congealed in the drain pipes, causing a blockage.",
+      "She scraped off the grease congealed on top of the soup.",
+      "The mechanic removed the grease congealed on the machinery."
+    ]
+  },
+  {
+    "word": "flush down",
+    "definitions": [
+      "To rinse or wash away something by using a flowing liquid.",
+      "To dispose of waste materials by allowing them to flow down through a drain or toilet.",
+      "To eliminate or expel waste substances from the body using a flushing action."
+    ],
+    "examples": [
+      "She used water to flush down the dirt from the driveway.",
+      "Avoid flushing down items that can clog the plumbing.",
+      "Drinking water helps to flush down toxins from the body.",
+      "The janitor used a hose to flush down the spilled chemicals."
+    ]
+  },
+  {
+    "word": "condom",
+    "definitions": [
+      "A sheath or covering worn over the penis during sexual intercourse to prevent pregnancy and sexually transmitted infections.",
+      "A contraceptive device made of latex, polyurethane, or other materials.",
+      "A barrier method used to provide a physical barrier between sexual partners."
+    ],
+    "examples": [
+      "Using a condom is an effective method of preventing unwanted pregnancies.",
+      "He made sure to always have a condom in his wallet.",
+      "The doctor recommended using a condom to reduce the risk of STIs.",
+      "The couple discussed using a condom as part of their safe sex practices."
+    ]
+  },
+  {
+    "word": "gravy",
+    "definitions": [
+      "A sauce made from meat juices and thickened with flour, served with meat or vegetables.",
+      "A flavorful liquid that results from cooking meat or poultry.",
+      "A rich, savory sauce used to enhance the flavor of food."
+    ],
+    "examples": [
+      "The roasted turkey was served with a generous amount of gravy.",
+      "The meatloaf was drenched in delicious homemade gravy.",
+      "The chef prepared a mushroom gravy to accompany the steak.",
+      "He poured the gravy over his mashed potatoes."
+    ]
+  },
+  {
+    "word": "tip down",
+    "definitions": [
+      "To pour, empty, or release the contents of a container by tilting it downward.",
+      "To move downward or descend from an elevated position.",
+      "To fall or hang over the edge of something."
+    ],
+    "examples": [
+      "She tipped down the water bottle to refill her glass.",
+      "The plane started to tip down as it descended for landing.",
+      "The flowerpot tipped down and spilled soil on the floor.",
+      "The branches of the tree tipped down after heavy rainfall."
+    ]
+  },
+  {
+    "word": "rinse off",
+    "definitions": [
+      "To remove dirt, soap, or other substances from a surface by using water.",
+      "To clean or wash something by applying water and then removing it.",
+      "To eliminate residue or impurities by flushing with water."
+    ],
+    "examples": [
+      "After gardening, she used a hose to rinse off the dirt from her hands.",
+      "The dog jumped into the lake to rinse off the mud.",
+      "He rinsed off the dishes before loading them into the dishwasher.",
+      "The soap should be rinsed off thoroughly to avoid skin irritation."
+    ]
+  },
+  {
+    "word": "end up in",
+    "definitions": [
+      "To eventually arrive or reach a specific place or situation.",
+      "To result in or conclude in a particular state or condition.",
+      "To find oneself in a particular location, situation, or circumstance."
+    ],
+    "examples": [
+      "After taking a wrong turn, they ended up in a charming little village.",
+      "His careless actions could end up in serious consequences.",
+      "She never thought she would end up in such a challenging situation.",
+      "If you keep procrastinating, you might end up in a time crunch."
+    ]
+  },
+  {
+    "word": "culpable",
+    "definitions": [
+      "Deserving blame, responsibility, or condemnation for a wrongdoing.",
+      "Being at fault or accountable for a negative action or outcome.",
+      "Having committed an offense or acted in a blameworthy manner."
+    ],
+    "examples": [
+      "The investigation determined that he was culpable for the financial fraud.",
+      "The company was held culpable for the environmental damage caused by its activities.",
+      "The court found the defendant culpable of the crime and issued a sentence.",
+      "Her negligence made her partially culpable for the accident."
+    ]
+  },
+  {
+    "word": "barista",
+    "definitions": [
+      "A person who prepares and serves coffee and espresso-based drinks in a coffee shop.",
+      "An individual with expertise in making and presenting specialty coffee beverages.",
+      "A skilled coffee professional who creates artful designs on the surface of drinks."
+    ],
+    "examples": [
+      "She works as a barista at the local café, crafting delicious cappuccinos.",
+      "The barista skillfully crafted a latte with an intricate foam design.",
+      "He trained as a barista to perfect his coffee-making techniques.",
+      "The coffee shop is known for its friendly and talented baristas."
+    ]
+  },
+  {
+    "word": "swill away",
+    "definitions": [
+      "To wash or rinse away by using a flowing liquid.",
+      "To dispose of waste liquids or substances by pouring them out.",
+      "To clean or clear a surface by flooding it with water or another liquid."
+    ],
+    "examples": [
+      "He used a hose to swill away the dirt from the driveway.",
+      "The dishwasher swill away the leftover food particles.",
+      "The janitor swill away the spilled chemicals to prevent contamination.",
+      "The rain helped to swill away the grime from the windows."
+    ]
+  },
+  {
+    "word": "saponification",
+    "definitions": [
+      "The process of making soap from fats or oils by reacting them with an alkali.",
+      "The chemical reaction that converts fats into soap and glycerol.",
+      "The transformation of substances into soap-like compounds."
+    ],
+    "examples": [
+      "Saponification is an essential step in soap-making.",
+      "The scientist explained the saponification process in detail.",
+      "The process of saponification results in the production of cleansing agents.",
+      "The chemical reaction of saponification is used in various industries."
+    ]
+  },
+  {
+    "word": "break into",
+    "definitions": [
+      "To enter a building or property illegally or by force.",
+      "To begin a new activity or field of interest, especially unexpectedly.",
+      "To interrupt or interject during a conversation or discussion."
+    ],
+    "examples": [
+      "The burglars attempted to break into the jewelry store.",
+      "She decided to break into the world of entrepreneurship.",
+      "He didn't want to break into their private conversation.",
+      "The comedian would often break into spontaneous laughter."
+    ]
+  },
+  {
+    "word": "water-insoluble",
+    "definitions": [
+      "Not capable of being dissolved or mixed with water.",
+      "Resistant to reacting or forming a solution with water.",
+      "Unsolvable or not easily broken down in water."
+    ],
+    "examples": [
+      "Oil is a water-insoluble substance that forms a separate layer.",
+      "The compound proved to be water-insoluble, making it challenging to use in aqueous solutions.",
+      "The plastic used for the container is water-insoluble and provides a protective barrier.",
+      "The researcher conducted tests to determine the water-insoluble properties of the material."
+    ]
+  },
+  {
+    "word": "cultivated",
+    "definitions": [
+      "Prepared and used for growing crops or plants.",
+      "Fostered or developed through deliberate effort, education, or training.",
+      "Cared for and improved to enhance growth or quality."
+    ],
+    "examples": [
+      "The cultivated fields yielded a bountiful harvest.",
+      "He had a cultivated taste for fine art and classical music.",
+      "The well-cultivated garden showcased a variety of vibrant flowers.",
+      "The cultivated vineyard produced high-quality grapes for winemaking."
+    ]
+  },
+  {
+    "word": "let something off",
+    "definitions": [
+      "To release, emit, or discharge something, such as a substance or energy.",
+      "To forgive, excuse, or grant leniency to someone.",
+      "To detonate or ignite something, such as fireworks or explosives."
+    ],
+    "examples": [
+      "The car's exhaust system let off a burst of steam.",
+      "She decided to let her friend off for being late.",
+      "The children eagerly awaited the moment to let off the fireworks.",
+      "He accidentally let off a loud laugh during the serious meeting."
+    ]
+  },
+  {
+    "word": "food outlet",
+    "definitions": [
+      "A place, establishment, or facility where food is sold, served, or provided to customers.",
+      "A business or location that offers a variety of food options for consumption.",
+      "An eatery, restaurant, cafe, or similar venue."
+    ],
+    "examples": [
+      "The mall has a diverse range of food outlets, from fast food to gourmet restaurants.",
+      "The food outlet is known for its delicious pastries and freshly brewed coffee.",
+      "She decided to try a new food outlet that specializes in vegan cuisine.",
+      "The food outlet offers a convenient way to grab a quick meal during lunch breaks."
+    ]
+  },
+  {
+    "word": "outlet",
+    "definitions": [
+      "A point of sale or distribution for goods or services.",
+      "A means of release or expression for emotions, creative energy, or resources.",
+      "A device or socket used to connect electrical or electronic devices to a power source.",
+      "A retail store or establishment selling products directly to consumers."
+    ],
+    "examples": [
+      "The company opened a new outlet in the city center.",
+      "Painting became her outlet for dealing with stress.",
+      "The power outlet near the desk was used to charge the laptop.",
+      "The outlet offers a wide range of designer clothing and accessories."
+    ]
+  },
+  {
+    "word": "explicitly",
+    "definitions": [
+      "In a clear and direct manner; leaving no room for confusion or misunderstanding.",
+      "Expressed in a precise and specific way, often with all details openly stated.",
+      "Without ambiguity or vagueness; openly and straightforwardly."
+    ],
+    "examples": [
+      "He explicitly stated his preferences for the project's design.",
+      "The rules of the competition were explicitly outlined in the guidelines.",
+      "She explicitly mentioned the deadline for submitting the report.",
+      "The instructions were written explicitly to guide users through the setup process."
+    ]
+  },
+  {
+    "word": "pour away",
+    "definitions": [
+      "To dispose of or discard a liquid by pouring it out.",
+      "To waste or get rid of something, often a valuable resource.",
+      "To empty a container by pouring its contents."
+    ],
+    "examples": [
+      "She had to pour away the spoiled milk from the refrigerator.",
+      "Don't pour away the opportunity to learn from your mistakes.",
+      "He accidentally knocked over the cup, causing the coffee to pour away.",
+      "The company decided to pour away excess inventory to make room for new products."
+    ]
+  },
+  {
+    "word": "wording",
+    "definitions": [
+      "The choice and arrangement of words in a sentence, document, or piece of writing.",
+      "The specific phrasing or language used to convey a message or information.",
+      "The manner in which written or spoken content is expressed."
+    ],
+    "examples": [
+      "The lawyer carefully reviewed the contract's wording to ensure accuracy.",
+      "The wording of the advertisement was intended to appeal to a younger audience.",
+      "He clarified the meaning by rephrasing the wording of the statement.",
+      "The document's wording left room for interpretation, leading to confusion."
+    ]
+  },
+  {
+    "word": "legislation",
+    "definitions": [
+      "Laws, rules, or regulations enacted and enforced by a governing body or authority.",
+      "The process of making or enacting laws through a legislative body.",
+      "The body of laws that have been officially established within a jurisdiction."
+    ],
+    "examples": [
+      "The new legislation aimed to address environmental concerns.",
+      "The government introduced legislation to promote equal rights.",
+      "She was involved in drafting and advocating for important legislation.",
+      "The company complied with the latest safety legislation in its operations."
+    ]
+  },
+  {
+    "word": "clear-cut",
+    "definitions": [
+      "Easily understandable; leaving no room for doubt or ambiguity.",
+      "Completely obvious or evident, often without the need for further explanation.",
+      "To remove all the trees or vegetation from a specific area, leaving it bare."
+    ],
+    "examples": [
+      "The instructions were presented in a clear-cut manner.",
+      "The evidence against the suspect was clear-cut and convincing.",
+      "The developer planned to clear-cut the forest for a new housing project.",
+      "The clear-cut decision was reached after thorough deliberation."
+    ]
+  },
+  {
+    "word": "exceed",
+    "definitions": [
+      "To go beyond a certain limit, boundary, or threshold.",
+      "To surpass or outperform in quantity, quality, degree, or importance.",
+      "To be greater or more than what is expected or required."
+    ],
+    "examples": [
+      "Her dedication and hard work allowed her to exceed her goals.",
+      "The project's costs exceeded the initial budget estimates.",
+      "The company's performance exceeded expectations for the quarter.",
+      "The excitement of the event far exceeded what we had anticipated."
+    ]
+  },
+  {
+    "word": "manual",
+    "definitions": [
+      "A book, guide, or instruction booklet containing information and directions for use.",
+      "Involving or requiring physical effort, skill, or direct human control.",
+      "Done by hand or with physical labor, rather than through automation."
+    ],
+    "examples": [
+      "The manual provides step-by-step instructions for assembling the furniture.",
+      "The process required manual labor to complete the intricate details.",
+      "He prefers manual control over automated systems for greater precision.",
+      "The technician followed the manual to troubleshoot the equipment."
+    ]
+  },
+  {
+    "word": "sampling",
+    "definitions": [
+      "The act of selecting and analyzing a representative portion of a larger whole.",
+      "The process of collecting small amounts of material for examination or testing.",
+      "A technique used in research to gather data from a subset of a population."
+    ],
+    "examples": [
+      "The survey involved sampling a diverse group of participants.",
+      "The biologist conducted water sampling to assess pollution levels.",
+      "Sampling revealed variations in product quality across different batches.",
+      "The researcher used random sampling to ensure unbiased data collection."
+    ]
+  },
+  {
+    "word": "let something out",
+    "definitions": [
+      "To release, allow to escape, or set free.",
+      "To reveal or disclose a secret, information, or emotions.",
+      "To make a sound, noise, or cry."
+    ],
+    "examples": [
+      "He accidentally let the air out of the balloon.",
+      "She decided to let out the truth about her identity.",
+      "The cat let out a loud meow when it saw a mouse.",
+      "He didn't mean to let out his frustrations on his colleagues."
+    ]
+  },
+  {
+    "word": "run a survey",
+    "definitions": [
+      "To conduct an organized and structured inquiry or investigation to gather information.",
+      "To administer a set of questions to a group of people in order to collect data and opinions.",
+      "To carry out a systematic study to understand opinions, behaviors, or trends."
+    ],
+    "examples": [
+      "The company decided to run a survey to gather customer feedback.",
+      "She was tasked with running a survey to assess employee satisfaction.",
+      "The research team plans to run a survey to analyze consumer preferences.",
+      "They will run a survey to gauge public opinion on the proposed changes."
+    ]
+  },
+  {
+    "word": "downstream",
+    "definitions": [
+      "In the direction in which a river or stream flows.",
+      "Relating to or situated in areas that are located farther from the source.",
+      "Following in sequence; occurring later in a process or supply chain."
+    ],
+    "examples": [
+      "The pollution from the factory affected the downstream water quality.",
+      "The fishing village was located downstream from the dam.",
+      "The downstream impacts of the policy changes were carefully considered.",
+      "The company focused on optimizing efficiency downstream in its production."
+    ]
+  },
+  {
+    "word": "first-hand",
+    "definitions": [
+      "Directly experienced or observed by the person speaking.",
+      "Obtained or learned directly from personal involvement or experience.",
+      "Relating to information that comes directly from the original source."
+    ],
+    "examples": [
+      "She had first-hand experience with the challenges of running a small business.",
+      "The journalist provided a first-hand account of the event.",
+      "He conducted first-hand research by participating in the experiment.",
+      "The book offers insights from first-hand witnesses of historical events."
+    ]
+  },
+  {
+    "word": "first-hand experience",
+    "definitions": [
+      "Personal knowledge or understanding gained directly from being involved in a situation.",
+      "Information or insights obtained through direct observation, participation, or interaction.",
+      "Direct involvement in an event, activity, or process, leading to personal familiarity."
+    ],
+    "examples": [
+      "Her first-hand experience as a nurse influenced her approach to patient care.",
+      "The documentary captured the soldiers' first-hand experiences on the battlefield.",
+      "The workshop provides participants with a chance to gain first-hand experience in woodworking.",
+      "His first-hand experience with adversity taught him valuable life lessons."
+    ]
+  }
+
+
+]
+
+          ,
         },
         {
           day: 12,
