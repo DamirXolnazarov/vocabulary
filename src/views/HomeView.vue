@@ -5785,7 +5785,7 @@ export default {
           [
   {
     "word": "ill adapted",
-    "definitions": [
+    "definition": [
       "Not suited or well-suited for a particular purpose or situation.",
       "Poorly adjusted or poorly fitted.",
       "Lacking compatibility with a specific context or environment.",
@@ -5800,7 +5800,7 @@ export default {
   },
   {
     "word": "soar",
-    "definitions": [
+    "definition": [
       "To fly or glide high in the air.",
       "To rise or increase rapidly and dramatically.",
       "To experience a feeling of elation or triumph.",
@@ -5815,7 +5815,7 @@ export default {
   },
   {
     "word": "push number degree C",
-    "definitions": [
+    "definition": [
       "To increase the temperature to a specified level.",
       "To raise the temperature by a certain number of degrees Celsius.",
       "To adjust a setting to achieve a desired temperature.",
@@ -5830,7 +5830,7 @@ export default {
   },
   {
     "word": "derision",
-    "definitions": [
+    "definition": [
       "Contemptuous ridicule or mockery.",
       "Mocking or scornful laughter.",
       "The act of expressing disdain or scornful amusement.",
@@ -5845,7 +5845,7 @@ export default {
   },
   {
     "word": "gear up",
-    "definitions": [
+    "definition": [
       "To prepare or get ready for a specific activity or event.",
       "To make necessary adjustments or modifications.",
       "To equip or outfit with the necessary tools or gear.",
@@ -5860,7 +5860,7 @@ export default {
   },
   {
     "word": "breach",
-    "definitions": [
+    "definition": [
       "A violation or breaking of a law, contract, or agreement.",
       "An opening or gap, especially in a wall, defense, or security.",
       "A disruption or failure in maintaining a standard or expectation.",
@@ -5875,7 +5875,7 @@ export default {
   },
   {
     "word": "further action",
-    "definitions": [
+    "definition": [
       "Additional steps or measures taken to address a situation.",
       "Continuation of efforts or activities beyond the current stage.",
       "A sequence of actions or decisions that follow an initial step.",
@@ -5890,7 +5890,7 @@ export default {
   },
   {
     "word": "outcry",
-    "definitions": [
+    "definition": [
       "A loud expression of strong disapproval or anger.",
       "A public display of strong emotion, often in protest or criticism.",
       "A vocal and widespread reaction to a particular event or issue.",
@@ -5905,7 +5905,7 @@ export default {
   },
   {
     "word": "scandal",
-    "definitions": [
+    "definition": [
       "An action or event that causes public outrage or shock.",
       "A situation or behavior that is considered morally or legally wrong.",
       "A controversy or issue that is widely discussed and criticized.",
@@ -5920,7 +5920,7 @@ export default {
   },
   {
     "word": "tackle the problem/issue",
-    "definitions": [
+    "definition": [
       "To confront or deal with a problem or issue directly.",
       "To take on the challenge of addressing a difficult situation.",
       "To engage in efforts to resolve or mitigate a particular concern.",
@@ -5935,7 +5935,7 @@ export default {
   },
   {
     "word": "high-latitude",
-    "definitions": [
+    "definition": [
       "Referring to or situated in regions far from the equator.",
       "Relating to areas characterized by cold climates and polar conditions.",
       "Pertaining to locations on Earth with high degrees of latitude.",
@@ -5950,7 +5950,7 @@ export default {
   },
   {
     "word": "modify",
-    "definitions": [
+    "definition": [
       "To make partial or minor changes to something.",
       "To alter or adjust a particular element or characteristic.",
       "To amend or revise a plan, concept, or object.",
@@ -5965,7 +5965,7 @@ export default {
   },
   {
     "word": "in mind",
-    "definitions": [
+    "definition": [
       "With consideration of a particular thought, intention, or purpose.",
       "Taking into account a specific idea or goal.",
       "Having a particular concept or notion as a reference.",
@@ -5980,7 +5980,7 @@ export default {
   },
   {
     "word": "feeble-minded",
-    "definitions": [
+    "definition": [
       "Intellectually weak or lacking in mental capacity.",
       "Having limited cognitive abilities or intellectual functioning.",
       "Not possessing normal mental faculties or cognitive skills.",
@@ -5995,7 +5995,7 @@ export default {
   },
   {
     "word": "like-minded",
-    "definitions": [
+    "definition": [
       "Having similar opinions, beliefs, or interests.",
       "In agreement or alignment with another person's viewpoints.",
       "Sharing common values, goals, or attitudes with others.",
@@ -6010,7 +6010,7 @@ export default {
   },
   {
     "word": "open-minded",
-    "definitions": [
+    "definition": [
       "Willing to consider new ideas, opinions, or perspectives.",
       "Receptive to diverse viewpoints and willing to challenge one's own beliefs.",
       "Unbiased and nonjudgmental in assessing different possibilities.",
@@ -6025,7 +6025,7 @@ export default {
   },
   {
     "word": "top of mind",
-    "definitions": [
+    "definition": [
       "Being the first thing one thinks of or remembers.",
       "Occupying a prominent position in one's thoughts or awareness.",
       "Affecting one's decisions or perceptions due to immediate relevance.",
@@ -6040,7 +6040,7 @@ export default {
   },
   {
     "word": "excess",
-    "definitions": [
+    "definition": [
       "An amount that is greater than what is considered reasonable or necessary.",
       "The state of surpassing a limit or norm, often in quantity.",
       "The availability or presence of more than what is required.",
@@ -6055,7 +6055,7 @@ export default {
   },
   {
     "word": "needless to say",
-    "definitions": [
+    "definition": [
       "Obviously or without the need for further explanation.",
       "A phrase used to introduce something that is already known or self-evident.",
       "Certainly and unquestionably understood without needing to be stated.",
@@ -6070,7 +6070,7 @@ export default {
   },
   {
     "word": "prevention is better than cure",
-    "definitions": [
+    "definition": [
       "It is wiser to avoid a problem from occurring than to deal with it afterward.",
       "A proverb emphasizing the importance of taking precautions to avoid trouble.",
       "It is more effective to prevent an issue than to have to address its consequences."
@@ -6084,7 +6084,7 @@ export default {
   },
   {
     "word": "craze",
-    "definitions": [
+    "definition": [
       "A sudden and widespread enthusiasm or obsession for something.",
       "A fad or trend that gains significant popularity for a period of time.",
       "A strong but short-lived interest or excitement about a particular activity or object.",
@@ -6099,7 +6099,7 @@ export default {
   },
   {
     "word": "unbearably",
-    "definitions": [
+    "definition": [
       "To an extent that is intolerable or excessively painful.",
       "In a manner that is extremely difficult to endure or withstand.",
       "To a degree that causes extreme discomfort, distress, or agony."
@@ -6113,7 +6113,7 @@ export default {
   },
   {
     "word": "roaf",
-    "definitions": [
+    "": [
       "A typographical error or misspelling of the word 'road'.",
       "A mistake in writing or typing that results in the wrong word being used.",
       "A term used humorously to refer to a comical or accidental misspelling of 'road'."
@@ -6127,7 +6127,7 @@ export default {
   },
   {
     "word": "in relation to",
-    "definitions": [
+    "definition": [
       "Concerning or with regard to a particular topic or subject.",
       "Regarding the connection or association between two or more things.",
       "In connection with or pertaining to a specific context or situation.",
@@ -6142,7 +6142,7 @@ export default {
   },
   {
     "word": "eave",
-    "definitions": [
+    "definition": [
       "The part of a roof that overhangs or extends beyond the exterior wall.",
       "The lower edge or border of a roof that overhangs the wall.",
       "The projection of a roof beyond the supporting structure."
@@ -6155,7 +6155,7 @@ export default {
   },
   {
     "word": "compromise",
-    "definitions": [
+    "definition": [
       "An agreement or settlement reached through mutual concessions.",
       "A resolution of a dispute by finding middle ground or making concessions.",
       "To make concessions or come to an agreement by meeting in the middle.",
@@ -6170,7 +6170,7 @@ export default {
   },
   {
     "word": "ceiling",
-    "definitions": [
+    "definition": [
       "The upper interior surface of a room that covers the overhead structure.",
       "A limit or maximum value set for a particular quantity or parameter.",
       "The highest point or level that something can reach.",
@@ -6185,7 +6185,7 @@ export default {
   },
   {
     "word": "sealed",
-    "definitions": [
+    "definition": [
       "Closed or fastened in a way that prevents air, liquid, or other substances from entering or escaping.",
       "Made airtight or watertight by closing tightly or securely.",
       "Blocked or covered to prevent access or tampering.",
@@ -6200,7 +6200,7 @@ export default {
   },
   {
     "word": "sealed windows",
-    "definitions": [
+    "": [
       "Windows that have been made airtight or watertight by closing them securely.",
       "Windows that are tightly closed to prevent air, dust, or moisture from entering.",
       "Windows that are covered or blocked to prevent access or unwanted elements."
@@ -6214,7 +6214,7 @@ export default {
   },
   {
     "word": "soak something up",
-    "definitions": [
+    "definition": [
       "To absorb a liquid or substance by taking it in through pores or openings.",
       "To take in or absorb something readily, such as knowledge or information.",
       "To enjoy and appreciate something to the fullest extent.",
@@ -6229,7 +6229,7 @@ export default {
   },
   {
     "word": "no-brainer",
-    "definitions": [
+    "definition": [
       "An action or decision that is very easy to make due to being obvious or simple.",
       "A choice or option that requires minimal thought or consideration.",
       "A situation in which the correct course of action is clear and straightforward.",
@@ -6244,7 +6244,7 @@ export default {
   },
   {
     "word": "matter of something",
-    "definitions": [
+    "": [
       "A topic or issue that concerns or involves a particular subject.",
       "A situation that involves a certain aspect or element.",
       "An essential or significant factor that contributes to a situation.",
@@ -6259,7 +6259,7 @@ export default {
   },
   {
     "word": "hail",
-    "definitions": [
+    "definition": [
       "Frozen raindrops that fall from the sky during a hailstorm.",
       "To call out to someone in a loud and enthusiastic manner.",
       "To greet or acclaim someone with enthusiasm or approval.",
@@ -6274,7 +6274,7 @@ export default {
   },
   {
     "word": "scope",
-    "definitions": [
+    "": [
       "The extent or range of something's application, effect, or influence.",
       "The opportunity or possibility to accomplish something.",
       "A device used for viewing or examining distant objects.",
@@ -6289,7 +6289,7 @@ export default {
   },
   {
     "word": "insulate",
-    "definitions": [
+    "definition": [
       "To protect or shield from the transfer of heat, electricity, or sound.",
       "To prevent the passage of heat, energy, or noise through a material.",
       "To isolate or separate from external influences or disturbances.",
@@ -6304,7 +6304,7 @@ export default {
   },
   {
     "word": "abandoned",
-    "definitions": [
+    "definition": [
       "Left behind or deserted, often due to neglect or lack of use.",
       "No longer in use, occupied, or maintained.",
       "Forsaken or discarded with no intention of returning or recovering.",
@@ -6319,7 +6319,7 @@ export default {
   },
   {
     "word": "draw curtain",
-    "definitions": [
+    "definition": [
       "To close or pull the curtain across a window or opening.",
       "To use a curtain to block or obscure the view from outside.",
       "To create privacy or shade by covering a window or doorway with a curtain.",
@@ -6334,7 +6334,7 @@ export default {
   },
   {
     "word": "shutter",
-    "definitions": [
+    "definition": [
       "A movable cover for a window or opening, usually consisting of slats or panels.",
       "To close or cover a window or opening with a shutter.",
       "A device or mechanism used to regulate the amount of light entering a camera.",
@@ -6349,7 +6349,7 @@ export default {
   },
   {
     "word": "awning",
-    "definitions": [
+    "definition": [
       "A sheet of canvas or fabric stretched over a frame to provide shade or shelter.",
       "A roof-like cover that extends from a building's exterior to offer protection.",
       "A canopy or overhang that offers shade or protection from the elements.",
@@ -6364,7 +6364,7 @@ export default {
   },
   {
     "word": "pergola",
-    "definitions": [
+    "definition": [
       "An outdoor structure consisting of vertical posts or pillars supporting crossbeams and an open lattice, often used to support climbing plants.",
       "A shaded walkway or seating area created by a pergola.",
       "A garden feature designed to provide shade, privacy, or a decorative element.",
@@ -6379,7 +6379,7 @@ export default {
   },
   {
     "word": "somewhere-wide",
-    "definitions": [
+    "definition": [
       "Covering or spanning a considerable or unspecified area or distance.",
       "Extending across a wide or extensive space, often with an unspecified location.",
       "A term used humorously to describe something that is vaguely or broadly defined in terms of location."
@@ -6393,7 +6393,7 @@ export default {
   },
   {
     "word": "city-wide",
-    "definitions": [
+    "definition": [
       "Covering or affecting the entire city or urban area.",
       "Extending across various neighborhoods or districts within a city.",
       "Involving or pertaining to all residents or aspects of city life.",
@@ -6408,7 +6408,7 @@ export default {
   },
   {
     "word": "greener",
-    "definitions": [
+    "definition": [
       "More environmentally friendly or ecologically sustainable.",
       "Posessing qualities that promote a healthier environment or reduced ecological impact.",
       "Characterized by practices, products, or behaviors that have a lower carbon footprint.",
@@ -6423,7 +6423,7 @@ export default {
   },
   {
     "word": "pay the price",
-    "definitions": [
+    "definition": [
       "To experience negative consequences or face the results of one's actions.",
       "To endure hardships, challenges, or penalties as a result of decisions.",
       "To suffer the effects or outcomes of a particular choice, often regrettable.",
@@ -6438,7 +6438,7 @@ export default {
   },
   {
     "word": "wake up and smell the coffins",
-    "definitions": [
+    "definition": [
       "A phrase used to advise someone to recognize the reality or seriousness of a situation.",
       "An expression urging someone to become aware of a pressing issue or impending danger.",
       "To acknowledge the gravity of a matter and take appropriate action."
@@ -6452,7 +6452,7 @@ export default {
   },
   {
     "word": "coffin",
-    "definitions": [
+    "definition": [
       "A box or case in which a deceased person's body is placed for burial or cremation.",
       "A burial container typically made of wood, metal, or other materials.",
       "A symbolic representation of death, often used in idiomatic expressions.",
@@ -6467,7 +6467,7 @@ export default {
   },
   {
     "word": "human-friendly",
-    "definitions": [
+    "definition": [
       "Designed or developed to be easily understood, operated, or used by humans.",
       "Posessing characteristics that are favorable, safe, or accommodating to human needs.",
       "User-centered or tailored to enhance the experience and interaction for humans.",
@@ -6482,7 +6482,7 @@ export default {
   },
   {
     "word": "child-friendly",
-    "definitions": [
+    "definition": [
       "Designed or adapted to be suitable, safe, and engaging for children.",
       "Posessing qualities or features that cater to the needs and interests of children.",
       "Creating an environment or atmosphere that is welcoming and comfortable for young individuals.",
@@ -6497,7 +6497,7 @@ export default {
   },
   {
     "word": "eco-friendly",
-    "definitions": [
+    "definition": [
       "Posessing characteristics that are not harmful to the environment.",
       "Designed or produced in a way that has minimal impact on the ecosystem.",
       "Contributing to the conservation of natural resources and the reduction of pollution.",
@@ -6512,7 +6512,7 @@ export default {
   },
   {
     "word": "diplomatic",
-    "definitions": [
+    "definition": [
       "Relating to the practice of conducting negotiations and relations between countries.",
       "Exhibiting skillful tact, sensitivity, and discretion in dealing with others.",
       "Characterized by a balanced and careful approach to resolving conflicts or disagreements.",
@@ -6527,7 +6527,7 @@ export default {
   },
   {
     "word": "easy-to-reach workspaces",
-    "definitions": [
+    "": [
       "Work areas that are conveniently accessible and within reach.",
       "Workspaces designed to minimize physical strain and effort.",
       "Areas where tools, equipment, or materials can be easily accessed and used."
@@ -6540,7 +6540,7 @@ export default {
   },
   {
     "word": "sewerage",
-    "definitions": [
+    "definition": [
       "The system of pipes and infrastructure used for the collection and disposal of sewage.",
       "The process of managing wastewater and sewage from households and industries.",
       "The network of drains, pipes, and treatment facilities that handle sewage and wastewater."
@@ -6553,7 +6553,7 @@ export default {
   },
   {
     "word": "emblematic",
-    "definitions": [
+    "definition": [
       "Representative or symbolic of a particular quality, idea, or characteristic.",
       "Serving as a recognizable symbol that represents a group, concept, or identity.",
       "Characteristic or distinctive of a specific place, culture, or period."
@@ -6566,7 +6566,7 @@ export default {
   },
   {
     "word": "at the heart of something",
-    "definitions": [
+    "definition": [
       "Central or fundamental to a particular idea, issue, or situation.",
       "Located in the core or central part of a place or concept.",
       "Essential or pivotal to the understanding or functioning of something."
@@ -6579,7 +6579,7 @@ export default {
   },
   {
     "word": "proverbial",
-    "definitions": [
+    "definition": [
       "Referring to a well-known proverb or saying.",
       "Famous or widely recognized, often with a slightly ironic or humorous connotation.",
       "Commonly referred to or mentioned, especially in a clichéd or expected manner."
@@ -6592,7 +6592,7 @@ export default {
   },
   {
     "word": "settlements",
-    "definitions": [
+    "definition": [
       "Communities or places where people live, often established in a specific area.",
       "Legal agreements or resolutions reached between parties to resolve disputes.",
       "Compensation or payments made to resolve legal claims or debts."
@@ -6605,7 +6605,7 @@ export default {
   },
   {
     "word": "slim",
-    "definitions": [
+    "definition": [
       "Having a slender or thin shape.",
       "Small in width or thickness.",
       "Slight or negligible in amount, degree, or chance.",
@@ -6620,7 +6620,7 @@ export default {
   },
   {
     "word": "admixture",
-    "definitions": [
+    "definition": [
       "A mixture or blend of different elements or substances.",
       "The process of mixing or combining different components.",
       "The presence of diverse elements within a single entity or system."
@@ -6633,7 +6633,7 @@ export default {
   },
   {
     "word": "array",
-    "definitions": [
+    "definition": [
       "An impressive or varied display or collection of things.",
       "An arrangement or alignment of items in a particular order or pattern.",
       "To organize or display things in an ordered or systematic manner."
@@ -6647,7 +6647,7 @@ export default {
   },
   {
     "word": "workable lifetime",
-    "definitions": [
+    "definition": [
       "The period during which something remains functional or usable.",
       "The duration over which an object, system, or product can perform its intended purpose.",
       "The reasonable or practical amount of time that something can be expected to work effectively."
@@ -6660,7 +6660,7 @@ export default {
   },
   {
     "word": "workability",
-    "definitions": [
+    "definition": [
       "The extent to which a substance or material can be worked or shaped.",
       "The ease with which a process, plan, or idea can be executed or implemented.",
       "The quality of being suitable or manageable for a specific purpose."
@@ -6674,7 +6674,7 @@ export default {
   },
   {
     "word": "rheology",
-    "definitions": [
+    "definition": [
       "The branch of physics or engineering that deals with the flow and deformation of matter.",
       "The study of how materials, such as fluids and soft solids, respond to applied forces.",
       "The science that examines the behavior of complex materials under various conditions."
@@ -6688,7 +6688,7 @@ export default {
   },
   {
     "word": "spray onto",
-    "definitions": [
+    "definition": [
       "To disperse liquid particles in a fine mist onto a surface.",
       "To apply a coating, paint, or substance by using a spraying mechanism.",
       "The act of releasing a liquid in tiny droplets onto a target area."
@@ -6702,7 +6702,7 @@ export default {
   },
   {
     "word": "excavate",
-    "definitions": [
+    "definition": [
       "To dig or remove earth, rocks, or debris from a site, typically for construction or research.",
       "To uncover or expose by digging or removing material from the ground.",
       "To unearth artifacts, fossils, or historical remains through systematic digging."
@@ -6716,7 +6716,7 @@ export default {
   },
   {
     "word": "nozzle",
-    "definitions": [
+    "definition": [
       "A projecting spout or pipe through which a fluid, gas, or other substance is released.",
       "A device that controls the direction and flow of a substance as it exits a container.",
       "The part of a tool or apparatus where a fluid or gas is expelled."
@@ -6730,7 +6730,7 @@ export default {
   },
   {
     "word": "newfound",
-    "definitions": [
+    "": [
       "Recently discovered or acquired; not previously known or experienced.",
       "Characterized by a recent sense of awareness, understanding, or possession."
     ],
@@ -6743,7 +6743,7 @@ export default {
   },
   {
     "word": "snarl up",
-    "definitions": [
+    "definition": [
       "To become entangled, twisted, or knotted.",
       "To cause a traffic jam or congestion due to blockage or accidents.",
       "To complicate or muddle a situation, plan, or process."
@@ -6757,7 +6757,7 @@ export default {
   },
   {
     "word": "pump up",
-    "definitions": [
+    "definition": [
       "To inflate or fill something with air or gas using a pump.",
       "To increase the volume, intensity, or level of something.",
       "To motivate, encourage, or energize someone or a group."
@@ -6771,7 +6771,7 @@ export default {
   },
   {
     "word": "bind",
-    "definitions": [
+    "definition": [
       "To fasten, secure, or tie something with a cord, rope, or other fastening material.",
       "To join together or unite closely; to form a strong bond or connection.",
       "To impose a legal or moral obligation on someone.",
@@ -6786,7 +6786,7 @@ export default {
   },
   {
     "word": "keep something/someone apart",
-    "definitions": [
+    "definition": [
       "To maintain a physical distance or separation between things or people.",
       "To prevent two or more things or individuals from being close or in contact.",
       "To ensure that different elements or groups do not mix or come together."
@@ -6800,7 +6800,7 @@ export default {
   },
   {
     "word": "relish",
-    "definitions": [
+    "definition": [
       "To take great pleasure or delight in something.",
       "To enjoy or savor a particular experience or activity.",
       "A condiment or topping added to food to enhance its flavor."
@@ -6814,7 +6814,7 @@ export default {
   },
   {
     "word": "liaise with",
-    "definitions": [
+    "definition": [
       "To establish and maintain communication and cooperation between different groups or individuals.",
       "To collaborate, interact, or work together with others, often to exchange information or coordinate efforts.",
       "To serve as a connection or intermediary between different parties."
@@ -6828,7 +6828,7 @@ export default {
   },
   {
     "word": "do utmost",
-    "definitions": [
+    "definition": [
       "To make the greatest effort or exert the maximum possible energy.",
       "To strive to the fullest extent to accomplish a task or goal.",
       "To put forth one's best and most determined attempt."
@@ -6842,7 +6842,7 @@ export default {
   },
   {
     "word": "add-ins",
-    "definitions": [
+    "definition": [
       "Extra ingredients or components added to a base substance or mixture.",
       "Supplementary features or functionalities added to a product or system.",
       "Customizable options or enhancements that can be incorporated into a standard offering."
@@ -6856,7 +6856,7 @@ export default {
   },
   {
     "word": "temper",
-    "definitions": [
+    "": [
       "To moderate or adjust the quality, strength, or behavior of something.",
       "To strengthen or toughen a material through controlled heating and cooling.",
       "To restrain or control one's emotions or reactions."
@@ -6870,7 +6870,7 @@ export default {
   },
   {
     "word": "ground-up",
-    "definitions": [
+    "definition": [
       "Built or developed from the very beginning or basic components.",
       "Starting with the fundamental elements and gradually progressing to a complete state.",
       "Comprehensive and all-encompassing; considering every aspect or detail."
@@ -6884,7 +6884,7 @@ export default {
   },
   {
     "word": "ground-up materials",
-    "definitions": [
+    "": [
       "Raw components or substances that form the basis for creating something new.",
       "Basic elements used to construct or develop a product or structure from the foundation.",
       "Fundamental materials that are used as the starting point for a manufacturing process."
@@ -6898,7 +6898,7 @@ export default {
   },
   {
     "word": "furnace",
-    "definitions": [
+    "definition": [
       "A device used for heating a space or producing high temperatures, especially for industrial purposes.",
       "An enclosed structure where heat is generated for various processes, such as melting metals.",
       "A chamber or container designed for controlled heating or combustion."
@@ -6912,7 +6912,7 @@ export default {
   },
   {
     "word": "limestone",
-    "definitions": [
+    "definition": [
       "A sedimentary rock composed primarily of calcium carbonate.",
       "A natural stone commonly used in construction and as a raw material in various industries.",
       "A versatile material that can be shaped and carved for architectural and artistic purposes."
@@ -6926,7 +6926,7 @@ export default {
   },
   {
     "word": "fly ash",
-    "definitions": [
+    "": [
       "Fine particles of ash and dust that are carried into the air by combustion processes.",
       "Residue generated from burning coal or other materials, often used as a construction material.",
       "A by-product of coal-fired power plants that can be recycled for various applications."
@@ -6940,7 +6940,7 @@ export default {
   },
   {
     "word": "by-product of something",
-    "definitions": [
+    "definition": [
       "A secondary or incidental result or substance produced during a main process or activity.",
       "A substance, material, or item that is created as a consequence of another process.",
       "Something that is generated or obtained as an unintended outcome."
@@ -6954,7 +6954,7 @@ export default {
   },
   {
     "word": "coal-fuelled",
-    "definitions": [
+    "definition": [
       "Powered or operated by the combustion of coal.",
       "Using coal as the primary source of fuel to generate energy.",
       "Reliant on the burning of coal to produce heat or power."
@@ -6968,7 +6968,7 @@ export default {
   },
   {
     "word": "cost-efficient",
-    "definitions": [
+    "definition": [
       "Achieving maximum productivity or benefit with minimal expenses or waste.",
       "Providing value or results in relation to the cost incurred.",
       "Economical or frugal in terms of resources, time, or money."
@@ -6982,7 +6982,7 @@ export default {
   },
   {
     "word": "fatbergs",
-    "definitions": [
+    "definition": [
       "Large masses or congealed accumulations of fat, grease, and non-biodegradable materials in sewer systems.",
       "Blockages in sewage pipes caused by the accumulation of fats, oils, and solid waste.",
       "Clusters of solidified waste and debris found in sewage networks, often causing plumbing issues."
@@ -6996,7 +6996,7 @@ export default {
   },
   {
     "word": "behemoth",
-    "definitions": [
+    "": [
       "An enormous, powerful, and often unwieldy or difficult-to-control entity.",
       "A massive and formidable creature or organization.",
       "A term used to describe something of great size, scale, or influence."
@@ -7010,7 +7010,7 @@ export default {
   },
   {
     "word": "lump",
-    "definitions": [
+    "definition": [
       "A small, solid mass or piece of matter.",
       "A compact or undifferentiated group or collection of things.",
       "To group or treat different elements as a single unit."
@@ -7024,7 +7024,7 @@ export default {
   },
   {
     "word": "wip lurk",
-    "definitions": [
+    "definition": [
       "A term used in online communities to indicate a work-in-progress (WIP) that is being observed or monitored.",
       "To remain hidden or concealed while observing or awaiting an opportunity.",
       "To stay out of sight or remain unnoticed while keeping watch."
@@ -7038,7 +7038,7 @@ export default {
   },
   {
     "word": "threatening",
-    "definitions": [
+    "definition": [
       "Expressing or conveying a potential danger, harm, or menace.",
       "Presenting a perceived risk or harm to someone or something.",
       "Portraying a menacing or intimidating demeanor."
@@ -7052,7 +7052,7 @@ export default {
   },
   {
     "word": "put someone off",
-    "definitions": [
+    "definition": [
       "To discourage, dissuade, or cause someone to lose interest or enthusiasm.",
       "To delay or postpone an event, plan, or activity.",
       "To interrupt or disturb someone's concentration or focus."
@@ -7066,7 +7066,7 @@ export default {
   },
   {
     "word": "monstrosity",
-    "definitions": [
+    "definition": [
       "An extremely ugly or distorted object or creature.",
       "A thing that is outrageously or offensively wrong, cruel, or inhumane.",
       "A structure or creation that is unusually large, complex, or difficult to manage."
@@ -7080,7 +7080,7 @@ export default {
   },
   {
     "word": "rivalling",
-    "definitions": [
+    "definition": [
       "Competing or vying with someone or something for superiority or success.",
       "Attempting to outdo or surpass a competitor in a particular area.",
       "Engaging in rivalry or contention with another entity."
@@ -7094,7 +7094,7 @@ export default {
   },
   {
     "word": "whopping",
-    "definitions": [
+    "definition": [
       "Extremely large or impressive in size, amount, or extent.",
       "Remarkably high or significant in magnitude.",
       "Used to emphasize the surprising or astonishing nature of something."
@@ -7108,7 +7108,7 @@ export default {
   },
   {
     "word": "modest",
-    "definitions": [
+    "definition": [
       "Having a humble or unpretentious manner; not boastful or overly proud.",
       "Having a moderate or reasonable amount, size, or level.",
       "Simple or plain in style or appearance."
@@ -7122,7 +7122,7 @@ export default {
   },
   {
     "word": "blockage",
-    "definitions": [
+    "definition": [
       "An obstruction or barrier that prevents the flow, movement, or passage of something.",
       "A condition where a passage, pipe, or vessel is clogged or congested.",
       "The state of being closed off or impeded."
@@ -7136,7 +7136,7 @@ export default {
   },
   {
     "word": "rise to prominence",
-    "definitions": [
+    "definition": [
       "To become well-known, influential, or recognized, especially in a particular field or area.",
       "To achieve a position of prominence, significance, or popularity.",
       "To gain attention and respect due to notable achievements or contributions."
@@ -7150,7 +7150,7 @@ export default {
   },
   {
     "word": "utility",
-    "definitions": [
+    "definition": [
       "The state or quality of being useful or beneficial.",
       "A public service, such as electricity, water, or gas, provided to the community.",
       "A tool, machine, or system designed to perform a specific function or task."
@@ -7164,7 +7164,7 @@ export default {
   },
   {
     "word": "portmanteau",
-    "definitions": [
+    "definition": [
       "A word formed by blending or combining parts of two separate words.",
       "A suitcase with two compartments that fold together.",
       "A combination of two or more elements, ideas, or concepts."
@@ -7178,7 +7178,7 @@ export default {
   },
   {
     "word": "flush",
-    "definitions": [
+    "definition": [
       "To cleanse or rinse by flooding with a fluid, typically water.",
       "To become red or rosy in the face, often due to embarrassment or exertion.",
       "To eliminate or expel waste materials from the body.",
@@ -7193,7 +7193,7 @@ export default {
   },
   {
     "word": "grease",
-    "definitions": [
+    "definition": [
       "A thick, oily substance used to lubricate moving parts or reduce friction.",
       "Fat or oil that has melted and solidified, often as a residue.",
       "To apply grease to a surface for lubrication or protection."
@@ -7207,7 +7207,7 @@ export default {
   },
   {
     "word": "congealed",
-    "definitions": [
+    "definition": [
       "Solidified or thickened as a result of cooling or freezing.",
       "To change from a liquid to a solid state; to become thick or viscous.",
       "To coagulate or clot, forming a semisolid mass."
@@ -7221,7 +7221,7 @@ export default {
   },
   {
     "word": "grease congealed",
-    "definitions": [
+    "definition": [
       "Solidified or thickened grease that has cooled.",
       "Grease or fat that has hardened and become viscous due to temperature changes."
     ],
@@ -7234,7 +7234,7 @@ export default {
   },
   {
     "word": "flush down",
-    "definitions": [
+    "definition": [
       "To rinse or wash away something by using a flowing liquid.",
       "To dispose of waste materials by allowing them to flow down through a drain or toilet.",
       "To eliminate or expel waste substances from the body using a flushing action."
@@ -7248,7 +7248,7 @@ export default {
   },
   {
     "word": "condom",
-    "definitions": [
+    "definition": [
       "A sheath or covering worn over the penis during sexual intercourse to prevent pregnancy and sexually transmitted infections.",
       "A contraceptive device made of latex, polyurethane, or other materials.",
       "A barrier method used to provide a physical barrier between sexual partners."
@@ -7262,7 +7262,7 @@ export default {
   },
   {
     "word": "gravy",
-    "definitions": [
+    "definition": [
       "A sauce made from meat juices and thickened with flour, served with meat or vegetables.",
       "A flavorful liquid that results from cooking meat or poultry.",
       "A rich, savory sauce used to enhance the flavor of food."
@@ -7276,7 +7276,7 @@ export default {
   },
   {
     "word": "tip down",
-    "definitions": [
+    "definition": [
       "To pour, empty, or release the contents of a container by tilting it downward.",
       "To move downward or descend from an elevated position.",
       "To fall or hang over the edge of something."
@@ -7290,7 +7290,7 @@ export default {
   },
   {
     "word": "rinse off",
-    "definitions": [
+    "definition": [
       "To remove dirt, soap, or other substances from a surface by using water.",
       "To clean or wash something by applying water and then removing it.",
       "To eliminate residue or impurities by flushing with water."
@@ -7304,7 +7304,7 @@ export default {
   },
   {
     "word": "end up in",
-    "definitions": [
+    "definition": [
       "To eventually arrive or reach a specific place or situation.",
       "To result in or conclude in a particular state or condition.",
       "To find oneself in a particular location, situation, or circumstance."
@@ -7318,7 +7318,7 @@ export default {
   },
   {
     "word": "culpable",
-    "definitions": [
+    "definition": [
       "Deserving blame, responsibility, or condemnation for a wrongdoing.",
       "Being at fault or accountable for a negative action or outcome.",
       "Having committed an offense or acted in a blameworthy manner."
@@ -7332,7 +7332,7 @@ export default {
   },
   {
     "word": "barista",
-    "definitions": [
+    "definition": [
       "A person who prepares and serves coffee and espresso-based drinks in a coffee shop.",
       "An individual with expertise in making and presenting specialty coffee beverages.",
       "A skilled coffee professional who creates artful designs on the surface of drinks."
@@ -7346,7 +7346,7 @@ export default {
   },
   {
     "word": "swill away",
-    "definitions": [
+    "definition": [
       "To wash or rinse away by using a flowing liquid.",
       "To dispose of waste liquids or substances by pouring them out.",
       "To clean or clear a surface by flooding it with water or another liquid."
@@ -7360,7 +7360,7 @@ export default {
   },
   {
     "word": "saponification",
-    "definitions": [
+    "definition": [
       "The process of making soap from fats or oils by reacting them with an alkali.",
       "The chemical reaction that converts fats into soap and glycerol.",
       "The transformation of substances into soap-like compounds."
@@ -7374,7 +7374,7 @@ export default {
   },
   {
     "word": "break into",
-    "definitions": [
+    "definition": [
       "To enter a building or property illegally or by force.",
       "To begin a new activity or field of interest, especially unexpectedly.",
       "To interrupt or interject during a conversation or discussion."
@@ -7388,7 +7388,7 @@ export default {
   },
   {
     "word": "water-insoluble",
-    "definitions": [
+    "definition": [
       "Not capable of being dissolved or mixed with water.",
       "Resistant to reacting or forming a solution with water.",
       "Unsolvable or not easily broken down in water."
@@ -7402,7 +7402,7 @@ export default {
   },
   {
     "word": "cultivated",
-    "definitions": [
+    "definition": [
       "Prepared and used for growing crops or plants.",
       "Fostered or developed through deliberate effort, education, or training.",
       "Cared for and improved to enhance growth or quality."
@@ -7416,7 +7416,7 @@ export default {
   },
   {
     "word": "let something off",
-    "definitions": [
+    "definition": [
       "To release, emit, or discharge something, such as a substance or energy.",
       "To forgive, excuse, or grant leniency to someone.",
       "To detonate or ignite something, such as fireworks or explosives."
@@ -7430,7 +7430,7 @@ export default {
   },
   {
     "word": "food outlet",
-    "definitions": [
+    "definition": [
       "A place, establishment, or facility where food is sold, served, or provided to customers.",
       "A business or location that offers a variety of food options for consumption.",
       "An eatery, restaurant, cafe, or similar venue."
@@ -7444,7 +7444,7 @@ export default {
   },
   {
     "word": "outlet",
-    "definitions": [
+    "definition": [
       "A point of sale or distribution for goods or services.",
       "A means of release or expression for emotions, creative energy, or resources.",
       "A device or socket used to connect electrical or electronic devices to a power source.",
@@ -7459,7 +7459,7 @@ export default {
   },
   {
     "word": "explicitly",
-    "definitions": [
+    "definition": [
       "In a clear and direct manner; leaving no room for confusion or misunderstanding.",
       "Expressed in a precise and specific way, often with all details openly stated.",
       "Without ambiguity or vagueness; openly and straightforwardly."
@@ -7473,7 +7473,7 @@ export default {
   },
   {
     "word": "pour away",
-    "definitions": [
+    "definition": [
       "To dispose of or discard a liquid by pouring it out.",
       "To waste or get rid of something, often a valuable resource.",
       "To empty a container by pouring its contents."
@@ -7487,7 +7487,7 @@ export default {
   },
   {
     "word": "wording",
-    "definitions": [
+    "definition": [
       "The choice and arrangement of words in a sentence, document, or piece of writing.",
       "The specific phrasing or language used to convey a message or information.",
       "The manner in which written or spoken content is expressed."
@@ -7501,7 +7501,7 @@ export default {
   },
   {
     "word": "legislation",
-    "definitions": [
+    "definition": [
       "Laws, rules, or regulations enacted and enforced by a governing body or authority.",
       "The process of making or enacting laws through a legislative body.",
       "The body of laws that have been officially established within a jurisdiction."
@@ -7515,7 +7515,7 @@ export default {
   },
   {
     "word": "clear-cut",
-    "definitions": [
+    "definition": [
       "Easily understandable; leaving no room for doubt or ambiguity.",
       "Completely obvious or evident, often without the need for further explanation.",
       "To remove all the trees or vegetation from a specific area, leaving it bare."
@@ -7529,7 +7529,7 @@ export default {
   },
   {
     "word": "exceed",
-    "definitions": [
+    "definition": [
       "To go beyond a certain limit, boundary, or threshold.",
       "To surpass or outperform in quantity, quality, degree, or importance.",
       "To be greater or more than what is expected or required."
@@ -7543,7 +7543,7 @@ export default {
   },
   {
     "word": "manual",
-    "definitions": [
+    "definition": [
       "A book, guide, or instruction booklet containing information and directions for use.",
       "Involving or requiring physical effort, skill, or direct human control.",
       "Done by hand or with physical labor, rather than through automation."
@@ -7557,7 +7557,7 @@ export default {
   },
   {
     "word": "sampling",
-    "definitions": [
+    "definition": [
       "The act of selecting and analyzing a representative portion of a larger whole.",
       "The process of collecting small amounts of material for examination or testing.",
       "A technique used in research to gather data from a subset of a population."
@@ -7571,7 +7571,7 @@ export default {
   },
   {
     "word": "let something out",
-    "definitions": [
+    "definition": [
       "To release, allow to escape, or set free.",
       "To reveal or disclose a secret, information, or emotions.",
       "To make a sound, noise, or cry."
@@ -7585,7 +7585,7 @@ export default {
   },
   {
     "word": "run a survey",
-    "definitions": [
+    "definition": [
       "To conduct an organized and structured inquiry or investigation to gather information.",
       "To administer a set of questions to a group of people in order to collect data and opinions.",
       "To carry out a systematic study to understand opinions, behaviors, or trends."
@@ -7599,7 +7599,7 @@ export default {
   },
   {
     "word": "downstream",
-    "definitions": [
+    "definition": [
       "In the direction in which a river or stream flows.",
       "Relating to or situated in areas that are located farther from the source.",
       "Following in sequence; occurring later in a process or supply chain."
@@ -7613,7 +7613,7 @@ export default {
   },
   {
     "word": "first-hand",
-    "definitions": [
+    "definition": [
       "Directly experienced or observed by the person speaking.",
       "Obtained or learned directly from personal involvement or experience.",
       "Relating to information that comes directly from the original source."
@@ -7627,7 +7627,7 @@ export default {
   },
   {
     "word": "first-hand experience",
-    "definitions": [
+    "definition": [
       "Personal knowledge or understanding gained directly from being involved in a situation.",
       "Information or insights obtained through direct observation, participation, or interaction.",
       "Direct involvement in an event, activity, or process, leading to personal familiarity."
