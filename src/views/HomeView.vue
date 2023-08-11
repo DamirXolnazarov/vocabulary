@@ -7635,8 +7635,198 @@ export default {
           ],
         },
         {
-          day: 12,
-          words: [],
+          day: 'Socialising',
+          words: [
+            {
+              word: "housewarming",
+              definition: [
+                "a party to celebrate moving to a new house or flat"
+              ],
+              examples: [
+                "My uncle bought new home, so now they are having their housewarming"
+              ]
+            },
+            {
+              word: "stag party",
+              definition: [
+                "a party before a wedding for the future husband and his male friends"
+              ],
+              examples: [
+                "My brothers stag party is today, his weeding day is tomorrow."
+              ]
+            },
+            {
+              word: "hen night",
+              definition: [
+                "a party night out before a wedding for the future wife and her female friends"
+              ],
+              examples: [
+                "I saw many girls in my sisters hen night."
+              ]
+            },
+            {
+              word: " fancy dress",
+              definition: [
+                "everyone dresses up in costume "
+              ],
+              examples: [
+                "There was fancy dress. Hence everyone wore costume"
+              ]
+            },
+            {
+              word: " wedding party",
+              definition: [
+                "the main group of close family and friends at a wedding, rather than to the reception aft er the wedding"
+              ],
+              examples: [
+                "In the wedding party, there will be your all close relatives"
+              ]
+            },
+            {
+              word: "reception",
+              definition: [
+                "a formal party, e.g. aft er a wedding or to meet an important visitor"
+              ],
+              examples: [
+                "There was a reception by the uncle of the women"
+              ]
+            },
+            {
+              word: "black-tie",
+              definition: [
+                "formal event at which men have to wear dinner jackets and black bow ties and women wear evening dresses "
+              ],
+              examples: [
+                "We had our black-tie in the night in the resturant calles 'Oq qush'"
+              ]
+            },
+            {
+              word: "launch party",
+              definition: [
+                "a party to celebrate the publication of a new book or product "
+              ],
+              examples: [
+                "Bobur Bobomurod had a launch party, I went there and had a great time"
+              ]
+            },
+            {
+              word: "girls’ night out",
+              definition: [
+                "an evening out just for female friends"
+              ],
+              examples: [
+                "My teacher had a  girls' night out ,so she wasn't able to hold a lesson"
+              ]
+            },
+            {
+              word: "leaving do",
+              definition: [
+                "a party to celebrate somebody leaving a job or institution (do is an informal noun)"
+              ],
+              examples: [
+                "He leaving the job, so we will have a leaving do."
+              ]
+            },
+            {
+              word: "Do luch",
+              definition: [
+                "have lunch"
+              ],
+              examples: [
+                "I did my lunch when I was at school"
+              ]
+            },
+            {
+              word: "hobnob with somebody",
+              definition: [
+                "be friendly with someone who is important or famous, sometimes with negative associations"
+              ],
+              examples: [
+                "I hobnob with Elon Musk for money"
+              ]
+            },
+            {
+              word: "rub shoulders with",
+              definition: [
+                "mix socially with people; informal"
+              ],
+              examples: [
+                "I really rub my shoulders with wrong people."
+              ]
+            },
+            {
+              word: "be proactive",
+              definition: [
+                "taking action yourself rather than waiting for something to happen"
+              ],
+              examples: [
+                "Be proactive, don't wait for the best moment. It never comes you should create it on your own"
+              ]
+            },
+            {
+              word: "hangs out with / knocks around with",
+              definition: [
+                "spends social time with; informal"
+              ],
+              examples: [
+                "I hang out/knock around with my friends."
+              ]
+            },
+            {
+              word: "outstaying sb's welcome.",
+              definition: [
+                "staying too long"
+              ],
+              examples: [
+                "The guest said that he is not outstaying his welcome"
+              ]
+            },
+            {
+              word: "party animal",
+              definition: [
+                "someone who loves going to parties"
+              ],
+              examples: [
+                "I am a party animal ,that's why I had a lot aof parties"
+              ]
+            },
+            {
+              word: "cliquey",
+              definition: [
+                "a clique is a disapproving word for a small group of people who spend time together and do not allow others to join them"
+              ],
+              examples: [
+                "Some people in Tashkent are very cliquey"
+              ]
+            },
+            {
+              word: "crowd",
+              definition: [
+                "somebody group of friends / the people somebody socialises with; informal"
+              ],
+              examples: [
+                "My crowd is very good at talking"
+              ]
+            },
+            {
+              word: "an item",
+              definition: [
+                "having a romantic relationship; informal"
+              ],
+              examples: [
+                "Don't be an item. Just be friends."
+              ]
+            },
+            {
+              word: "stood somebody up",
+              definition: [
+                "didn’t arrive for a date they had made"
+              ],
+              examples: [
+                "He stood me up, so now I am no longer friend with him"
+              ]
+            },
+          ],
         },
         {
           day: 13,
