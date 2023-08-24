@@ -9156,145 +9156,144 @@ export default {
             },
             {
               "word": "impetuous",
-              "meaning": "Acts on a sudden idea without thinking first (often negative).",
-              "example": "She’s so impetuous; I wish she would consider things before acting."
+              "definition": ["Acts on a sudden idea without thinking first (often negative)."],
+              "examples": ["She’s so impetuous; I wish she would consider things before acting."]
             },
             {
               "word": "impulsive",
-              "meaning": "Similar to impetuous, but can be used in a more positive way.",
-              "example": "His impulsive generosity led him to give money to anyone who asked for help."
+              "definition": ["Similar to impetuous, but can be used in a more positive way."],
+              "examples": ["His impulsive generosity led him to give money to anyone who asked for help."]
             },
             {
               "word": "effusive",
-              "meaning": "Gives exaggerated expression of pleasure, praise or gratitude.",
-              "example": "She always gives me such an effusive welcome when I visit her."
+              "definition": ["Gives exaggerated expression of pleasure, praise or gratitude."],
+              "examples": ["She always gives me such an effusive welcome when I visit her."]
             },
             {
               "word": "excitable",
-              "meaning": "Easily excited by things.",
-              "example": "He’s a very excitable child; he needs to calm down."
+              "definition": ["Easily excited by things."],
+              "examples": ["He’s a very excitable child; he needs to calm down."]
             },
             {
               "word": "pushy",
-              "meaning": "Always selfishly promoting your own position or interests; informal.",
-              "example": "She’s so pushy; it’s typical of her to demand a pay rise for herself and not care about the rest of us."
+              "definition": ["Always selfishly promoting your own position or interests; informal."],
+              "examples": ["She’s so pushy; it’s typical of her to demand a pay rise for herself and not care about the rest of us."]
             },
             {
               "word": "self-conscious",
-              "meaning": "Nervous or uncomfortable because you know what people think about you or your actions.",
-              "example": "Freddie seemed self-conscious and uncomfortable when he had to make the announcement at the party."
+              "definition": ["Nervous or uncomfortable because you know what people think about you or your actions."],
+              "examples": ["Freddie seemed self-conscious and uncomfortable when he had to make the announcement at the party."]
             },
             {
               "word": "well-balanced",
-              "meaning": "Calm and reasonable and showing good judgement.",
-              "example": "The teacher said Maddy was a well-balanced child who got on well at school."
+              "definition": ["Calm and reasonable and showing good judgement."],
+              "examples": ["The teacher said Maddy was a well-balanced child who got on well at school."]
             },
             {
               "word": "taciturn",
-              "meaning": "Reserved or says very little (generally negative).",
-              "example": "He was a bit taciturn when I first met him. He hardly said a word."
+              "definition": ["Reserved or says very little (generally negative)."],
+              "examples": ["He was a bit taciturn when I first met him. He hardly said a word."]
             },
             {
               "word": "introvert",
-              "meaning": "Inward-looking and quiet.",
-              "example": "Chloe’s such an introvert. She prefers spending time alone."
+              "definition": ["Inward-looking and quiet."],
+              "examples": ["Chloe’s such an introvert. She prefers spending time alone."]
             },
             {
               "word": "outgoing",
-              "meaning": "Energetic and friendly, finds it easy to be with others.",
-              "example": "Her brother Mark is so outgoing and is such an extrovert. He loves socializing."
+              "definition": ["Energetic and friendly, finds it easy to be with others."],
+              "examples": ["Her brother Mark is so outgoing and is such an extrovert. He loves socializing."]
             },
             {
               "word": "extrovert",
-              "meaning": "Outward-looking, energetic and sociable.",
-              "example": "Her brother Mark is so outgoing and is such an extrovert. He thrives in social situations."
+              "definition": ["Outward-looking, energetic and sociable."],
+              "examples": ["Her brother Mark is so outgoing and is such an extrovert. He thrives in social situations."]
             },
             {
               "word": "diffident",
-              "meaning": "Lacks confidence.",
-              "example": "Mr Rogers is such a diffident man. He seems to have quite low self-esteem."
+              "definition": ["Lacks confidence."],
+              "examples": ["Mr Rogers is such a diffident man. He seems to have quite low self-esteem."]
             },
             {
               "word": "reserved",
-              "meaning": "Not immediately sociable.",
-              "example": "English people are traditionally thought of as rather reserved."
+              "definition": ["Not immediately sociable."],
+              "examples": ["English people are traditionally thought of as rather reserved."]
             },
             {
               "word": "aloof",
-              "meaning": "Unfriendly and not sociable.",
-              "example": "Eva tends to be rather aloof. I don’t know if she’s just shy."
+              "definition": ["Unfriendly and not sociable."],
+              "examples": ["Eva tends to be rather aloof. I don’t know if she’s just shy."]
             },
             {
               "word": "haughty",
-              "meaning": "Unfriendly and thinks herself better than others.",
-              "example": "My aunt Annie can be very haughty and disdainful at times, but she’s lovely really."
+              "definition": ["Unfriendly and thinks herself better than others."],
+              "examples": ["My aunt Annie can be very haughty and disdainful at times, but she’s lovely really."]
             },
             {
               "word": "disdainful",
-              "meaning": "Does not believe others deserve respect.",
-              "example": "My aunt Annie can be very haughty and disdainful at times, but she’s lovely really."
+              "definition": ["Does not believe others deserve respect."],
+              "examples": ["My aunt Annie can be very haughty and disdainful at times, but she’s lovely really."]
             },
             {
               "word": "unapproachable",
-              "meaning": "Not easy to be sociable with or start a conversation with.",
-              "example": "I’ve always found Professor Mactoft very unapproachable, but his colleague Dr O’Daly is very approachable."
+              "definition": ["Not easy to be sociable with or start a conversation with."],
+              "examples": ["I’ve always found Professor Mactoft very unapproachable, but his colleague Dr O’Daly is very approachable."]
             },
             {
               "word": "approachable",
-              "meaning": "The opposite of unapproachable.",
-              "example": "I’ve always found Professor Mactoft very unapproachable, but his colleague Dr O’Daly is very approachable."
+              "definition": ["The opposite of unapproachable."],
+              "examples": ["I’ve always found Professor Mactoft very unapproachable, but his colleague Dr O’Daly is very approachable."]
             },
             {
               "word": "conceited",
-              "meaning": "Thinks herself wonderful.",
-              "example": "Natasha is very conceited and self-important, but Rachel is such a modest person."
+              "definition": ["Thinks herself wonderful."],
+              "examples": ["Natasha is very conceited and self-important, but Rachel is such a modest person."]
             },
             {
               "word": "self-important",
-              "meaning": "Has an exaggerated sense of her importance.",
-              "example": "Natasha is very conceited and self-important, but Rachel is such a modest person."
+              "definition": ["Has an exaggerated sense of her importance."],
+              "examples": ["Natasha is very conceited and self-important, but Rachel is such a modest person."]
             },
             {
               "word": "modest",
-              "meaning": "Prefers not to exaggerate her own qualities.",
-              "example": "Natasha is very conceited and self-important, but Rachel is such a modest person."
+              "definition": ["Prefers not to exaggerate her own qualities."],
+              "examples": ["Natasha is very conceited and self-important, but Rachel is such a modest person."]
             },
             {
               "word": "respectful",
-              "meaning": "Treating someone well and politely, often with admiration.",
-              "example": "Joe is always so polite and respectful. I wish he would be more informal and just treat me as his equal."
+              "definition": ["Treating someone well and politely, often with admiration."],
+              "examples": ["Joe is always so polite and respectful. I wish he would be more informal and just treat me as his equal."]
             },
             {
               "word": "naive",
-              "meaning": "Willing to believe simple things, perhaps because of inexperience.",
-              "example": "Arjen is a somewhat naive person; he thinks love can solve all the world’s problems."
+              "definition": ["Willing to believe simple things, perhaps because of inexperience."],
+              "examples": ["Arjen is a somewhat naive person; he thinks love can solve all the world’s problems."]
             },
             {
               "word": "gullible",
-              "meaning": "Easily deceived.",
-              "example": "Telephone salespeople often take advantage of gullible people."
+              "definition": ["Easily deceived."],
+              "examples": ["Telephone salespeople often take advantage of gullible people."]
             },
             {
               "word": "conscientious",
-              "meaning": "Always took his work very seriously.",
-              "example": "My father was a very conscientious man; he never took time off work unless he was really sick."
+              "definition": ["Always took his work very seriously."],
+              "examples": ["My father was a very conscientious man; he never took time off work unless he was really sick."]
             },
             {
               "word": "restless",
-              "meaning": "Not satisfied with what she is doing now and wanting something new.",
-              "example": "She’s a restless individual. I don’t think she’ll ever settle down in a job."
+              "definition": ["Not satisfied with what she is doing now and wanting something new."],
+              "examples": ["She’s a restless individual. I don’t think she’ll ever settle down in a job."]
             },
             {
               "word": "obstinate",
-              "meaning": "Unwilling to change, despite persuasion.",
-              "example": "You are so obstinate and pig-headed! Why don’t you listen when people give you advice?"
+              "definition": ["Unwilling to change, despite persuasion."],
+              "examples": ["You are so obstinate and pig-headed! Why don’t you listen when people give you advice?"]
             },
             {
               "word": "pig-headed",
-              "meaning": "Similar to obstinate but stronger; informal.",
-              "example": "You are so obstinate and pig-headed! Why don’t you listen when people give you advice?"
+              "definition": ["Similar to obstinate but stronger; informal."],
+              "examples": ["You are so obstinate and pig-headed! Why don’t you listen when people give you advice?"]
             }
-
           ],
         },
         {
