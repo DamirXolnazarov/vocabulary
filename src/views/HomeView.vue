@@ -9298,8 +9298,209 @@ export default {
           ],
         },
         {
-          day: 14,
-          words: [],
+          day: 'Academic',
+          words: [
+            {
+              "word": "discipline (everyday use)",
+              "definition": ["Ability to control yourself or other people."],
+              "examples": ["Standards of discipline in schools have declined."]
+            },
+            {
+              "word": "discipline (academic use)",
+              "definition": ["Area of study."],
+              "examples": ["Nanotechnology is a relatively new discipline."]
+            },
+            {
+              "word": "underline (everyday use)",
+              "definition": ["Draw a line under it."],
+              "examples": ["Underline your family name on the form."]
+            },
+            {
+              "word": "underlines (academic use)",
+              "definition": ["Gives emphasis to."],
+              "examples": ["The research underlines the value of case studies."]
+            },
+            {
+              "word": "solid (everyday use)",
+              "definition": ["Not liquid or gas."],
+              "examples": ["The lake was frozen solid."]
+            },
+            {
+              "word": "solid (academic use)",
+              "definition": ["Certain or safe; of a good standard."],
+              "examples": ["We have no solid evidence that radiation has caused the problem."]
+            },
+            {
+              "word": "in short (neutral)",
+              "definition": ["To sum up."],
+              "examples": ["In short, schools cannot be held responsible for failures of government policy."]
+            },
+            {
+              "word": "briefly (neutral)",
+              "definition": ["To sum up."],
+              "examples": ["Briefly, schools cannot be held responsible for failures of government policy."]
+            },
+            {
+              "word": "basically (neutral)",
+              "definition": ["To sum up."],
+              "examples": ["Basically, schools cannot be held responsible for failures of government policy."]
+            },
+            {
+              "word": "in sum (neutral)",
+              "definition": ["To sum up."],
+              "examples": ["In sum, schools cannot be held responsible for failures of government policy."]
+            },
+            {
+              "word": "fundamentally (neutral)",
+              "definition": ["To sum up."],
+              "examples": ["Fundamentally, schools cannot be held responsible for failures of government policy."]
+            },
+            {
+              "word": "try (everyday use)",
+              "definition": ["Attempt."],
+              "examples": ["OK. Have a shot at doing task number 3."]
+            },
+            {
+              "word": "attempt (academic use)",
+              "definition": ["Try."],
+              "examples": ["There’s no way schools can be held responsible for failures of government policy."]
+            },
+            {
+              "word": "only (neutral)",
+              "definition": ["Sole(ly)."],
+              "examples": ["There's no way schools can be held responsible for failures of government policy."]
+            },
+            {
+              "word": "solely (neutral)",
+              "definition": ["Only."],
+              "examples": ["There's no way schools can be held responsible for failures of government policy."]
+            },
+            {
+              "word": "mainly (neutral)",
+              "definition": ["Mostly."],
+              "examples": ["The group’s primary concern is to protect human rights."]
+            },
+            {
+              "word": "mostly (neutral)",
+              "definition": ["Mainly."],
+              "examples": ["The group’s primary concern is to protect human rights."]
+            },
+            {
+              "word": "virtually (neutral)",
+              "definition": ["Almost, more or less."],
+              "examples": ["We have no solid evidence that radiation has caused the problem."]
+            },
+            {
+              "word": "typical of (neutral)",
+              "definition": ["Characteristic of."],
+              "examples": ["My aunt Annie can be very haughty and disdainful at times."]
+            },
+            {
+              "word": "there's no way (neutral)",
+              "definition": ["More formal expression of disagreement."],
+              "examples": ["There's no way schools can be held responsible for failures of government policy."]
+            },
+            {
+              "word": "prime (neutral)",
+              "definition": ["Excellent in quality or value."],
+              "examples": ["The building is a prime example of 1920s architecture."]
+            },
+            {
+              "word": "primary (neutral)",
+              "definition": ["Main; most important."],
+              "examples": ["The group’s primary concern is to protect human rights."]
+            },
+            {
+              "word": "subject",
+              "definition": ["Thing which is being discussed, considered or studied."],
+              "examples": ["She wrote an article on the subject of class."]
+            },
+            {
+              "word": "theme",
+              "definition": ["Main subject of a talk, book, etc."],
+              "examples": ["The theme of the poem is emigration."]
+            },
+            {
+              "word": "topics",
+              "definition": ["Specific subjects that someone discusses or writes about."],
+              "examples": ["The students were given a list of essay topics."]
+            },
+            {
+              "word": "issue",
+              "definition": ["Important subject or problem."],
+              "examples": ["There was a lively debate on the issue of globalisation."]
+            },
+            {
+              "word": "theory",
+              "definition": ["Statement of the rules on which a subject of study is based or, more generally, an opinion or explanation."],
+              "examples": ["Political theory is a popular undergraduate subject.", "Einstein’s theory of gravitation has been questioned recently."]
+            },
+            {
+              "word": "model",
+              "definition": ["Description of a system or process which explains how it works."],
+              "examples": ["The model of climate change presented in the Stern Review seems to be becoming a reality."]
+            },
+            {
+              "word": "Nature",
+              "definition": ["Basic character of something."],
+              "examples": ["The book is called ‘The Nature of Intelligence’."]
+            },
+            {
+              "word": "principle",
+              "definition": ["Basic idea or rule that explains how something happens or works."],
+              "examples": ["Human behaviour is based on the principle of least effort."]
+            },
+            {
+              "word": "aspect",
+              "definition": ["One individual part of a situation, problem, subject, etc."],
+              "examples": ["Repetition is an important aspect of speech development in children."]
+            },
+            {
+              "word": "feature",
+              "definition": ["A typical quality that something has."],
+              "examples": ["Automatic backup is a feature of the new software."]
+            },
+            {
+              "word": "scope",
+              "definition": ["Range of a subject covered by a book, discussion, class, etc."],
+              "examples": ["The political motives for the government’s actions are beyond the scope of this essay."]
+            },
+            {
+              "word": "pattern",
+              "definition": ["A regularly repeated arrangement."],
+              "examples": ["The study revealed a pattern of results."]
+            },
+            {
+              "word": "number",
+              "definition": ["Amount or level."],
+              "examples": ["During 2005, the number of violent attacks increased to an alarming degree."]
+            },
+            {
+              "word": "significance",
+              "definition": ["Importance"],
+              "examples": ["Micro-organisms in water: their significance."]
+            },
+            {
+              "word": "identification",
+              "definition": ["Ability to establish the identity of something."],
+              "examples": ["Micro-organisms in water: their identification."]
+            },
+            {
+              "word": "assessment",
+              "definition": ["Judgement of the amount, quality or importance of something."],
+              "examples": ["Renewable energy: a critical assessment of recent research."]
+            },
+            {
+              "word": "Approach",
+              "definition": ["Way of considering something."],
+              "examples": ["Towards a New Approach: Rethinking Teacher Education."]
+            },
+            {
+              "word": "methodology",
+              "definition": ["Set of methods used when studying something."],
+              "examples": ["Epidemiological research into asthma and allergic disease: establishing a standardised methodology."]
+            }
+          ],
         },
         {
           day: 15,
