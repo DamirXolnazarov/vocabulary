@@ -25,18 +25,10 @@ let check = document.querySelector('.d')
 learn.style.opacity = '100%'
   check.style.opacity = '60%'
 },
-add1(){
-  let learn = document.querySelector('.s')
-let check = document.querySelector('.d')
-  learn.style.opacity = '60%'
-  check.style.opacity = '100%';
-  let a = prompt('Enter a password')
-if(a == '12345'){
-  alert('Welcome MS.Gulnoza')
-}else{
-  window.location.pathname = '/'
-}
   
+},
+created(){
+  alert('You have visited the site of Damir_dev')
 }
 } 
     // },
@@ -45,7 +37,6 @@ if(a == '12345'){
   //     learn.style.opacity = '60%'
   //   }
   //  }
-}
     
 </script>
 
