@@ -7829,8 +7829,1473 @@ export default {
           ],
         },
         {
-          day: 13,
-          words: [],
+          day: 'AdvancedV',
+          words: [
+            {
+              word: 'cram',
+              definition: ['study in a very concentrated way for a short time'],
+              examples: ['I have been cramming for entering the university for 3 months'],
+            },
+            {
+              word: 'genius',
+              definition: ['an exceptionally clever person'],
+              examples: ['My uncle is genius person, because he knows everything'],
+            },
+            {
+              word: 'do some revision',
+              definition: ['revise'],
+              examples: ['I did some revision for passing the mock test with flying colours'],
+            },
+            {
+              word: 'past papers',
+              definition: ['exam papers from previous years'],
+              examples: ['I checked out my past papers in order not to do same mistakes.'],
+            },
+            {
+              word: 'memorised',
+              definition: ['learnt (off) by heart'],
+              examples: ['I learnt off 100 words by heart in one day.'],
+            },
+            {
+              word: 'rote-learning',
+              definition: ['learning purely by repetition'],
+              examples: ['I did some rote-learning, which has become far more boring a later'],
+            },
+            {
+              word: 'mnemonics',
+              definition: ['tricks that help you remember something, for example: ‘i’ before ‘e’ except after ‘c’ is a mnemonic for English spelling'],
+              examples: ['I attended to the mnemonics course and I became a person who have got the best memory'],
+            },
+            {
+              word: 'bury yourself in your books',
+              definition: ['to be undersnowed with books'],
+              examples: ['I was undersnowed with my studies, when I was in the Samarakand.'],
+            },
+            {
+              word: 'intensively',
+              definition: ['in a very focused way'],
+              examples: ['Learning intensively can help people to learn efficiently and in a fast way.'],
+            },
+            {
+              word: 'know the subject inside out',
+              definition: ['know it completely'],
+              examples: ['I know this street inside out'],
+            },
+            {
+              word: 'composition',
+              definition: ['could be just 50–100 words, oft en used for school work'],
+              examples: [''],
+            },
+            {
+              word: 'essay',
+              definition: ['longer than a composition, more serious, hundreds or thousands of words'],
+              examples: [''],
+            },
+            {
+              word: 'assignment',
+              definition: ['a long essay, oft en part of a course, usually thousands of words'],
+              examples: [''],
+            },
+            {
+              word: 'project',
+              definition: ['like an assignment, but emphasis on student’s own material and topic'],
+              examples: [''],
+            },
+            {
+              word: 'portfolio',
+              definition: ['a collection of individual pieces of work; may include drawings and other examples of creative work as well as writing'],
+              examples: [''],
+            },
+            {
+              word: 'dissertation',
+              definition: ['a long, research-based work, perhaps 10–15,000 words, for a degree or diploma'],
+              examples: [''],
+            },
+            {
+              word: 'thesis',
+              definition: ['a very long, original, research-based work, perhaps 80–100,000 words, for a higher degree (e.g. PhD)'],
+              examples: [''],
+            },
+            {
+              word: 'mind map',
+              definition: ['diagram that lays out ideas for a topic and how they are connected to one another'],
+              examples: ['Before starting your work, please make a mind map'],
+            },
+            {
+              word: 'first draft',
+              definition: ['first, rough version'],
+              examples: ['Firstly, I make a first draft, and then, I write full essay.'],
+            },
+            {
+              word: 'writing up',
+              definition: ['writing completely'],
+              examples: ['You should make first draft, before writing up.'],
+            },
+            {
+              word: 'plagiarism',
+              definition: ['using other people’s work as if it was yours'],
+              examples: ['Plagiarism is coomon problem for tests of school'],
+            },
+            {
+              word: 'plagiarism form',
+              definition: ['a form to confirm to say I don"t copy or ackowledgements of used sources'],
+              examples: ['I signed a plagiarism form in order to ensure my teacher that I am not plagiarist'],
+            },
+            {
+              word: 'acknowledge',
+              definition: ['give details of'],
+              examples: ['I acknowledged my sources, mainly sites, on my plagiarism form'],
+            },
+            {
+              word: 'deadline',
+              definition: ['date by which you must hand in the work'],
+              examples: ['I have deadline in my IT project'],
+            },
+            {
+              word: 'submitted',
+              definition: ['handed in; formal'],
+              examples: ['My essay was submitted after I on the verge of doing some predictions about it.'],
+            },
+            {
+              word: 'assessed',
+              definition: ['evaluated and given a grade'],
+              examples: ['My tutor teacher assessed my essay according to the each IELTS writing criterias.'],
+            },
+            {
+              word: 'feedback',
+              definition: ['comments from the teacher/tutor'],
+              examples: ['Having assessed the essay, I got feedback from my teacher'],
+            },
+            {
+              word: 'carry out research',
+              definition: ['do research'],
+              examples: ['I carried out research about being kind'],
+            },
+            {
+              word: ' academic journals',
+              definition: [' magazines with academic articles (we do not use the word magazine to talk about this kind of academic publication)'],
+              examples: ['I published few academic journals which are about the mysteries of chemistry'],
+            },
+            {
+              word: 'access it online',
+              definition: ['get hold of (it) on the internet'],
+              examples: ['I access the writing band 9 samples essays online'],
+            },
+            {
+              word: 'inter-library loan',
+              definition: ['system where libraries exchange books/journals with one another'],
+              examples: ['Because of the inter-library loan, there is a comfortability to have a book that doesn"t exist in particular one'],
+            },
+            {
+              word: 'open educational resources',
+              definition: ['online materials that can be freely used by teachers and students anywhere'],
+              examples: ['It is open educational resource, by just clicking the screen you can get this book'],
+            },
+            {
+              word: 'drop out',
+              definition: ['leave the course before the end'],
+              examples: ['He dropped out of the universtiy, because of his bad behaivor'],
+            },
+            {
+              word: 'finals',
+              definition: ['last exams before the end of a college or university course'],
+              examples: ['There is no finals in the colleges in Uzbekistan'],
+            },
+            {
+              word: 'well-qualified',
+              definition: ['with the right formal qualifications'],
+              examples: ['I am well-qualified programmer , because I passed all of my exams with flying colors and have a great skill.'],
+            },
+            {
+              word: 'equality of opportunity',
+              definition: ['when everyone has the same chances'],
+              examples: ['There was no equality of opportunity to enter the university for both poor and unknlowdgeable families'],
+            },
+            {
+              word: 'selective',
+              definition: [' pupils are chosen for entry, usually for academic reasons, though, in the case of some private schools, parents’ ability to pay school fees may be a factor in selection'],
+              examples: ['I think the benefits of increasing number of the selective schooling is far more advantageous.'],
+            },
+            {
+              word: 'comprehensive',
+              definition: ['everyone enters without exams and education is free, paid for by the government'],
+              examples: ['I study in a comprehensive school, which is very bad and has no control over students'],
+            },
+            {
+              word: 'schooling',
+              definition: ['education received at school'],
+              examples: ['Schooling is very crucial, because without it, we can"t do something conciously'],
+            },
+            {
+              word: 'elitism',
+              definition: ['when you favour a small, privileged group'],
+              examples: ['Nowadays, elitism is growing in popularity.'],
+            },
+            {
+              word: 'inherent in',
+              definition: ['existing as a basic part of something'],
+              examples: ['Our new teaching method, is now, inherent in all our branches.'],
+            },
+            {
+              word: 'League tables',
+              definition: [' lists of schools or colleges, from the best down to the worst, based on exam results and, sometimes, other criteria'],
+              examples: ['In fact, schools help students to have a great mark in the exam, in order to be at the top of leauge tables'],
+            },
+            {
+              word: 'perpetuate',
+              definition: ['make something continue'],
+              examples: ['I think, schools are perpetuating the method of rote-learning'],
+            },
+            {
+              word: 'perceives',
+              definition: ['sees, considers'],
+              examples: ['I perceive that the moon is black'],
+            },
+            {
+              word: 'two-tier system',
+              definition: ['a system with two separate levels, one of which is better than the other'],
+              examples: ['I know, there are two-tier system in the schools of Uzbekistan, it is that the best students always appreciated, while lazy ones are no in the public eye.'],
+            },
+            {
+              word: 'better-off',
+              definition: ['richer'],
+              examples: ['Some better-off people would like to have private plane.'],
+            },
+            {
+              word: 'well-endowed',
+              definition: ['receiving a lot of money in grants, gifts from rich people, etc. [= endowments]'],
+              examples: ['Well-endowed school"s students are rewarded for their hard work'],
+            },
+            {
+              word: 'depressing ',
+              definition: ['reducing'],
+              examples: ['While some unknowledgeable students are depressing their opportunity of having promising future, others are trying to earn money.'],
+            },
+            {
+              word: 'less well-off',
+              definition: ['poorer'],
+              examples: ['Some of my neighbours are less well-off, because they don"t work'],
+            },
+            {
+              word: 'excel',
+              definition: ['achieve an excellent standard'],
+              examples: ['I am excelled in terms of being the richest man of the earth'],
+            },
+            {
+              word: 'scholarships',
+              definition: ['money given to pay for studies, usually provided on the basis of academic merit'],
+              examples: ['I got my scholarship, when I needed to pay the fee'],
+            },
+            {
+              word: 'bursaries',
+              definition: ['money given to pay for studies, usually provided on the basis of need'],
+              examples: ['Bursaires make underprivileged students afford it.'],
+            },
+            {
+              word: 'tertiary',
+              definition: ['education at university or college level'],
+              examples: ['Tertiary education is the first suitable and the highest leveled'],
+            },
+            {
+              word: 'Student loans',
+              definition: ['money that students can borrow from a bank while studying and then pay back once they are in work'],
+              examples: ['I received the my student loan, because I neede it for buying some goods'],
+            },
+            {
+              word: 'undergraduates',
+              definition: [' students doing a first degree [postgraduates = students doing a further degree'],
+              examples: ['Undergraduates are always so excited, when they first come to the university'],
+            },
+            {
+              word: 'tuition fees',
+              definition: ['money paid to receive teaching'],
+              examples: ['The tuition fees of private universities are very high.'],
+            },
+            {
+              word: 'the three Rs',
+              definition: ['[reading, writing and arithmetic'],
+              examples: ['Possessing the three Rs is one of the main requirments of university'],
+            },
+            {
+              word: 'Literacy',
+              definition: ['the ability to read'],
+              examples: ['Literacy is easy to have'],
+            },
+            {
+              word: 'numeracy',
+              definition: ['the ability to count / do basic maths'],
+              examples: ['Literacy and numeracy are taught in the early school classes'],
+            },
+            {
+              word: 'Curriculum reform',
+              definition: ['changes to what is covered in the national syllabus = plan of what is to be studied'],
+              examples: ['I uptade my curriculum reform every night so as to prepare for the coming subjects'],
+            },
+            {
+              word: 'lifelong/continuing education',
+              definition: ['education for all ages'],
+              examples: ['Lifelong education is not comfotable, because there will be huge gap between the ages of students'],
+            },
+            {
+              word: 'mature students',
+              definition: ['adult students older than the average student'],
+              examples: ['Mature students know how to study efficiently'],
+            },
+            {
+              word: 'special needs education',
+              definition: ['education for children who cannot learn in the normal way, because they have some disability'],
+              examples: ['Thomas Editson studied in the special need educaiton'],
+            },
+            {
+              word: 'one-to-one',
+              definition: ['one teacher and one pupil, not a group'],
+              examples: ['In my opinion, studying on-to-one is not interesting as studying in a group'],
+            },
+            {
+              word: 'bullying',
+              definition: ['threatening behaviour'],
+              examples: ['Bullying is the most common problem in the school'],
+            },
+            {
+              word: 'guidelines',
+              definition: ['advice (often official) on how something should be done'],
+              examples: ['Guidelines are the best way to achieve higher'],
+            },
+            {
+              word: 'distraction',
+              definition: ['takes attention away'],
+              examples: ['It is better to study in the room, with no distraction'],
+            },
+            {
+              "word": "Communication Skills",
+              "definition": ["The ability to effectively convey information, ideas, and thoughts to others through various forms of communication, such as speaking, writing, or nonverbal cues."],
+              "examples": ["My strong communication skills enable me to interact confidently with clients and colleagues."]
+            },
+            {
+              "word": "Passion For",
+              "definition": ["If you have a passion for something, you like it very much."],
+              "examples": ["I have a passion for customer service, which drives me to provide exceptional assistance."]
+            },
+            {
+              "word": "Challenging",
+              "definition": ["A positive word for something which is exciting and difficult."],
+              "examples": ["I am seeking a challenging role that allows me to push my limits and grow professionally."]
+            },
+            {
+              "word": "Fast-Paced",
+              "definition": ["If an environment is fast-paced, things happen quickly there."],
+              "examples": ["I excel in fast-paced work environments, where I can thrive on high-energy tasks."]
+            },
+            {
+              "word": "Openings",
+              "definition": ["Available jobs."],
+              "examples": ["The company currently has multiple job openings for candidates with diverse skill sets."]
+            },
+            {
+              "word": "Reporting to",
+              "definition": ["If you report to someone, he/she is your boss."],
+              "examples": ["In this role, you will be reporting to the Sales Director and collaborating with the marketing team."]
+            },
+            {
+              "word": "Previous Experience",
+              "definition": ["Experience of this type of job from before."],
+              "examples": ["My previous experience in project management equips me with valuable insights into leading successful teams."]
+            },
+            {
+              "word": "Full Training",
+              "definition": ["All the training you need."],
+              "examples": ["New hires will undergo full training to ensure they are well-prepared for their roles."]
+            },
+            {
+              "word": "Post",
+              "definition": ["Job."],
+              "examples": ["I am excited to apply for the Marketing Manager post and contribute to strategic campaigns."]
+            },
+            {
+              "word": "Career Prospects",
+              "definition": ["Opportunities for promotion and career development."],
+              "examples": ["This position offers promising career prospects, including opportunities for leadership roles and skill enhancement."]
+            },
+            {
+              "word": "Leadership Qualities",
+              "definition": ["The ability to lead a group."],
+              "examples": ["My leadership qualities have been honed through successfully leading cross-functional teams."]
+            },
+            {
+              "word": "Competitive Salary",
+              "definition": ["As good as, or better than, other salaries for similar jobs."],
+              "examples": ["We are pleased to offer a competitive salary that reflects the value of your expertise and contributions."]
+            },
+            {
+              "word": "Benefits Package",
+              "definition": ["All the extra benefits that a company offers (as well as a salary)."],
+              "examples": ["Our benefits package includes health insurance, retirement plans, and professional development opportunities."]
+            },
+            {
+              "word": "Healthcare Plan",
+              "definition": ["Partly paid for by the company."],
+              "examples": ["Our comprehensive healthcare plan ensures that you and your family have access to quality medical care."]
+            },
+            {
+              "word": "Subsidised",
+              "definition": ["Partly paid for by the company."],
+              "examples": ["Employees can enjoy subsidized meals at the company cafeteria, making lunches affordable and convenient."]
+            },
+            {
+              "word": "Online Application",
+              "definition": ["The process of submitting a job application electronically."],
+              "examples": ["Please complete the online application form to be considered for the available position."]
+            },
+            {
+              "word": "Salary Expectations",
+              "definition": ["The amount of remuneration a candidate anticipates receiving for the job."],
+              "examples": ["I would like to discuss my salary expectations during the interview phase to ensure a mutual fit."]
+            },
+            {
+              "word": "Stand Out",
+              "definition": ["To differentiate yourself positively and be better than others."],
+              "examples": ["My innovative approach to problem-solving allows me to stand out as a valuable team member."]
+            },
+            {
+              "word": "Cover Letter",
+              "definition": ["A letter sent with a job application."],
+              "examples": ["I have attached my cover letter, which outlines my relevant experiences and enthusiasm for the role."]
+            },
+            {
+              "word": "Sir or Madam",
+              "definition": ["How you start a letter when you do not know the name of the person you are writing to."],
+              "examples": ["Dear Sir or Madam, I am writing to express my interest in the available position."]
+            },
+            {
+              "word": "in support of",
+              "definition": ["Indicating that something is provided to help or strengthen a particular aspect or purpose."],
+              "examples": ["Please find attached my resume in support of my application for the Sales Associate position."]
+            },
+            {
+              "word": "position",
+              "definition": ["The specific job or role within an organization that an individual is applying for."],
+              "examples": ["I am excited to apply for the Marketing Coordinator position at your esteemed company."]
+            },
+            {
+              "word": "hands-on",
+              "definition": ["Practical, direct (not theoretical)."],
+              "examples": ["I am looking for a hands-on role where I can contribute my expertise in project management."]
+            },
+            {
+              "word": "field",
+              "definition": ["The area of business or activity that a job or position is related to."],
+              "examples": ["I have a strong background in the technology field and am enthusiastic about the latest advancements."]
+            },
+            {
+              "word": "customer-facing",
+              "definition": ["Dealing directly with customers."],
+              "examples": ["My experience in customer-facing roles has allowed me to develop exceptional interpersonal skills."]
+            },
+            {
+              "word": "team player",
+              "definition": ["A person who is good at working collaboratively with others to achieve common goals."],
+              "examples": ["I consider myself a dedicated team player who thrives in collaborative environments."]
+            },
+            {
+              "word": "managerial experience",
+              "definition": ["Experience of managing other people."],
+              "examples": ["My previous managerial experience has provided me with the skills to lead and guide teams effectively."]
+            },
+            {
+              "word": "Yours faithfully",
+              "definition": ["How you finish a letter when you do not know the name of the person you are writing to."],
+              "examples": ["Thank you for considering my application. Yours faithfully, John Smith"]
+            },
+            {
+              "word": "recruiting",
+              "definition": ["Hiring (new staff)."],
+              "examples": ["The company is currently recruiting for several open positions in the sales department."]
+            },
+            {
+              "word": "criteria",
+              "definition": ["Requirements you use to make a decision."],
+              "examples": ["The selection criteria for this role include a bachelor’s degree and a minimum of two years of experience."]
+            },
+            {
+              "word": "shortlisted",
+              "definition": ["Selected from a larger group."],
+              "examples": ["Out of the many applicants, only a few were shortlisted for the second round of interviews."]
+            },
+            {
+              "word": "do your homework",
+              "definition": ["Research and gather information."],
+              "examples": ["Before the interview, make sure to do your homework on the company and its products."]
+            },
+            {
+              "word": "trial run",
+              "definition": ["A practice of something new."],
+              "examples": ["Consider doing a trial run of your presentation with a colleague to ensure everything goes smoothly."]
+            },
+            {
+              "word": "boost",
+              "definition": ["Improve or increase."],
+              "examples": ["Practicing your interview answers can help boost your confidence during the actual interview."]
+            },
+            {
+              "word": "boost your confidence",
+              "definition": ["Increase your self-assurance."],
+              "examples": ["Receiving positive feedback from your supervisor can greatly boost your confidence at work."]
+            },
+            {
+              "word": "panel",
+              "definition": ["A group of people."],
+              "examples": ["The interview was conducted by a panel of senior managers from different departments."]
+            },
+            {
+              "word": "line manager",
+              "definition": ["The person who is directly responsible for your work."],
+              "examples": ["My line manager provides guidance and feedback on my projects and tasks."]
+            },
+            {
+              "word": "make eye contact",
+              "definition": ["Maintain visual connection with someone."],
+              "examples": ["During the interview, make sure to make eye contact with each member of the panel to establish rapport."]
+            },
+            {
+              "word": "firm handshake",
+              "definition": ["A strong and confident grip when shaking hands."],
+              "examples": ["When meeting the interviewer, offer a firm handshake to demonstrate professionalism and confidence."]
+            },
+            {
+              "word": "speak up",
+              "definition": ["Speak (more) loudly and clearly."],
+              "examples": ["If you have any questions, don’t hesitate to speak up and ask for clarification during the interview."]
+            },
+            {
+              "word": "first impression",
+              "definition": ["The initial opinion formed about someone or something."],
+              "examples": ["Making a positive first impression during the interview can set the tone for the rest of the conversation."]
+            },
+            {
+              "word": "outlining",
+              "definition": ["Giving an overview of."],
+              "examples": ["The document is outlining the company’s benefits package and the structure of the reporting hierarchy."]
+            },
+            {
+              "word": "paid leave",
+              "definition": ["Time off you are paid for, such as holiday or parental leave."],
+              "examples": ["The company offers generous paid leave options to ensure employees have a healthy work-life balance."]
+            },
+            {
+              "word": "reporting structure",
+              "definition": ["Company structure and who you report to."],
+              "examples": ["Understanding the reporting structure helps employees know their roles and responsibilities within the organization."]
+            },
+            {
+              "word": "start date",
+              "definition": ["The date when your employment begins."],
+              "examples": ["After signing the offer letter, the HR department will inform you about your official start date with the company."]
+            },
+            {
+              "word": "opposite number",
+              "definition": ["Has the same position / does the same job as me."],
+              "examples": ["Philip is my opposite number in the company’s New York office."]
+            },
+            {
+              "word": "working relationship",
+              "definition": ["Way of communicating and working together."],
+              "examples": ["I have a good working relationship with my colleagues, and we collaborate on a daily basis."]
+            },
+            {
+              "word": "collaboration",
+              "definition": ["Working together to achieve shared goals."],
+              "examples": ["There’s a lot of day-to-day collaboration between our team and the New York office."]
+            },
+            {
+              "word": "counterpart",
+              "definition": ["More formal equivalent of opposite number."],
+              "examples": ["Having a counterpart like Philip in another branch is a great support."]
+            },
+            {
+              "word": "rapport",
+              "definition": ["A friendly and harmonious relationship."],
+              "examples": ["Our new boss quickly established a good rapport with everyone in the team."]
+            },
+            {
+              "word": "take the initiative",
+              "definition": ["Make decisions without being told what to do."],
+              "examples": ["Our boss encourages us to take the initiative and come up with creative solutions."]
+            },
+            {
+              "word": "hierarchical",
+              "definition": ["Has a structure with important and less important people."],
+              "examples": ["The company has a hierarchical structure, with clear levels of authority."]
+            },
+            {
+              "word": "pecking order",
+              "definition": ["A system where some people have the right to get benefits/promotions before others."],
+              "examples": ["In the company, there's a pecking order for promotions and advancement."]
+            },
+            {
+              "word": "job-share",
+              "definition": ["An agreement where two people each share the same job."],
+              "examples": ["I do a job-share with Rose, which allows us both to balance work and childcare."]
+            },
+            {
+              "word": "hot-desking",
+              "definition": ["A policy of sharing desks in an office, so people sit at whichever desk is free on a particular day."],
+              "examples": ["In our office, we use a hot-desking system, so I sit in a different place every day."]
+            },
+            {
+              "word": "workmates",
+              "definition": ["Colleagues you are friendly with (especially in non-professional occupations); informal."],
+              "examples": ["I socialize with my workmates outside of work to build stronger relationships."]
+            },
+            {
+              "word": "talk shop",
+              "definition": ["Talk about work; informal."],
+              "examples": ["When we hang out after work, we try not to talk shop and focus on other topics."]
+            },
+            {
+              "word": "mundane",
+              "definition": ["Ordinary, not interesting."],
+              "examples": ["I usually handle mundane tasks, but occasionally I get more challenging assignments."]
+            },
+            {
+              "word": "meet a deadline",
+              "definition": ["Have something finished by a fixed day or time."],
+              "examples": ["Occasionally I have to work hard to meet a deadline for a project."]
+            },
+            {
+              "word": "volunteer",
+              "definition": ["Offer to do something without being asked or told to do it."],
+              "examples": ["When they needed someone to volunteer for the presentation, I raised my hand."]
+            },
+            {
+              "word": "rewarding",
+              "definition": ["Making you feel satisfied that you have done something important or useful, or done something well."],
+              "examples": ["Completing a challenging project successfully is very rewarding."]
+            },
+            {
+              "word": "stimulating",
+              "definition": ["Encouraging new ideas or new thinking."],
+              "examples": ["I find working on complex problems to be intellectually stimulating."]
+            },
+            {
+              "word": "workload",
+              "definition": ["Amount of work I have to do."],
+              "examples": ["Sometimes I have a heavy workload, but at other times it can be quite light."]
+            },
+            {
+              "word": "day shift",
+              "definition": ["The shift that starts during the daytime."],
+              "examples": ["I start work at my machine at seven o’clock when I’m on the day shift."]
+            },
+            {
+              "word": "mechanical",
+              "definition": ["You don’t have to think about what you are doing."],
+              "examples": ["My job is quite mechanical, and I often follow the same routine tasks."]
+            },
+            {
+              "word": "repetitive",
+              "definition": ["The same thing is repeated every day."],
+              "examples": ["Working on the assembly line can be repetitive as you perform the same tasks repeatedly."]
+            },
+            {
+              "word": "knocking off",
+              "definition": ["Finishing work; informal."],
+              "examples": ["All I ever think about is knocking off at three o’clock."]
+            },
+            {
+              "word": "night shift",
+              "definition": ["The shift that starts during the night."],
+              "examples": ["The night shift can be challenging due to the irregular hours and lack of natural light."]
+            },
+            {
+              "word": "monotonous",
+              "definition": ["Boring because it never changes."],
+              "examples": ["Working on the assembly line can become monotonous over time."]
+            },
+            {
+              "word": "satisfying",
+              "definition": ["(Does not) make me feel pleased by providing what I need or want."],
+              "examples": ["Solving complex problems is satisfying because it challenges my skills."]
+            },
+            {
+              "word": "challenging",
+              "definition": ["Tests my ability or determination."],
+              "examples": ["I'm seeking a more challenging role that will push me to learn and grow."]
+            },
+            {
+              "word": "glamorous",
+              "definition": ["Very exciting, which everyone admires."],
+              "examples": ["Being a pilot might seem glamorous, but it comes with irregular hours and challenges."]
+            },
+            {
+              "word": "irregular",
+              "definition": ["Do not enable one to have a normal social life."],
+              "examples": ["Pilots often have irregular schedules, which can make it difficult to maintain a routine social life."]
+            },
+            {
+              "word": "anti-social",
+              "definition": ["Do not enable one to have a normal social life."],
+              "examples": ["Working night shifts can be anti-social, as it may limit your ability to socialize with friends and family."]
+            },
+            {
+              "word": "stuck behind a desk",
+              "definition": ["Sitting at a desk all day; informal."],
+              "examples": ["Unlike being stuck behind a desk, my job as a pilot allows me to travel and explore different places."]
+            },
+            {
+              "word": "mind-numbing",
+              "definition": ["Extremely boring."],
+              "examples": ["Some tasks can be mind-numbing, especially when they involve repetitive actions."]
+            },
+            {
+              "word": "tight schedules",
+              "definition": ["Very strict or severely limited timetables."],
+              "examples": ["In the aviation industry, flights operate on tight schedules to ensure punctuality."]
+            },
+            {
+              "word": "stuck in a rut",
+              "definition": ["Stuck/trapped in a job they can’t escape from."],
+              "examples": ["I don't want to be stuck in a rut; I'm seeking opportunities for growth and advancement."]
+            },
+            {
+              "word": "dead-end",
+              "definition": ["With no prospects of promotion."],
+              "examples": ["Some people feel frustrated in dead-end jobs that offer little room for career progression."]
+            },
+            {
+              "word": "technician",
+              "definition": ["Person whose job involves practical work with scientific or electrical equipment."],
+              "examples": ["I started off as a technician and later transitioned to software development."]
+            },
+            {
+              "word": "went in with",
+              "definition": ["Formed a business partnership with."],
+              "examples": ["After retraining, I went in with a friend and started our own software company."]
+            },
+            {
+              "word": "start-up",
+              "definition": ["A small business that has just started."],
+              "examples": ["We founded our start-up in 2009 and have been growing steadily since then."]
+            },
+            {
+              "word": "self-employed",
+              "definition": ["Working for oneself and not as an employee of another organization."],
+              "examples": ["After starting a business, I became self-employed and enjoy the flexibility it offers."]
+            },
+            {
+              "word": "freelance",
+              "definition": ["Working for several different companies as and when they need work done."],
+              "examples": ["My husband is a freelance programmer; he takes on projects from various clients."]
+            },
+            {
+              "word": "programmer",
+              "definition": ["Someone who writes computer programs."],
+              "examples": ["My husband is a skilled programmer who creates software solutions for different clients."]
+            },
+
+            {
+              "word": "job satisfaction",
+              "definition": ["A feeling that your job is worth doing and fulfills you."],
+              "examples": ["Job satisfaction is about finding fulfillment and value in the work you do."]
+            },
+            {
+              "word": "workplace",
+              "definition": ["The place where you work."],
+              "examples": ["A comfortable and positive workplace contributes to overall job satisfaction."]
+            },
+            {
+              "word": "run-of-the-mill",
+              "definition": ["Ordinary, not special or exciting."],
+              "examples": ["Even a run-of-the-mill job can become satisfying if it aligns with your interests."]
+            },
+            {
+              "word": "short-term",
+              "definition": ["Immediate; opposite = long-term."],
+              "examples": ["Some individuals prioritize short-term financial rewards over long-term career goals."]
+            },
+            {
+              "word": "financial reward",
+              "definition": ["Money gained as a result of work."],
+              "examples": ["For some, the financial reward is a significant factor in job satisfaction."]
+            },
+            {
+              "word": "morale",
+              "definition": ["Amount of confidence felt by a person or group."],
+              "examples": ["Low morale can lead to decreased job satisfaction and motivation among employees."]
+            },
+            {
+              "word": "teamwork",
+              "definition": ["Working together for a common purpose."],
+              "examples": ["Encouraging teamwork enhances problem-solving and boosts job satisfaction."]
+            },
+            {
+              "word": "job stability",
+              "definition": ["Not likely to change."],
+              "examples": ["Some prioritize job stability over riskier, high-reward careers due to personal circumstances."]
+            },
+            {
+              "word": "fast-moving",
+              "definition": ["Developing or changing very quickly."],
+              "examples": ["In the fast-moving tech industry, adaptability is essential for job satisfaction."]
+            },
+            {
+              "word": "work–life balance",
+              "definition": ["The amount of time spent working compared to the amount of time spent doing things you enjoy."],
+              "examples": ["Many professionals seek a better work–life balance to enhance their overall satisfaction."]
+            },
+            {
+              "word": "dynamic",
+              "definition": ["Continuously developing."],
+              "examples": ["Daniel's dynamic job provides continuous challenges and excitement."]
+            },
+            {
+              "word": "demotivated",
+              "definition": ["Feeling less enthusiastic about work."],
+              "examples": ["Recent changes in the company have left Chloe feeling demotivated and seeking a more creative career."]
+            },
+            {
+              "word": "looking to work in / seeking a career in",
+              "definition": ["Considering or planning to work in a specific field."],
+              "examples": ["Chloe is looking to work in a more creative field like marketing for better job satisfaction."]
+            },
+            {
+              "word": "maternity leave",
+              "definition": ["Time away from work to prepare for and look after a new baby."],
+              "examples": ["Maternity leave is provided to new mothers to care for their babies after childbirth."]
+            },
+            {
+              "word": "paternity leave",
+              "definition": ["Time away from work for fathers after having a baby."],
+              "examples": ["Modern workplaces offer paternity leave to support fathers in their parenting responsibilities."]
+            },
+            {
+              "word": "adoption leave",
+              "definition": ["Time away from work for adoptive parents after welcoming a new child."],
+              "examples": ["Adoption leave allows parents to bond with their newly adopted child."]
+            },
+            {
+              "word": "perks",
+              "definition": ["Informal term for extra benefits apart from salary."],
+              "examples": ["Companies offer various perks, such as gym memberships and health insurance."]
+            },
+            {
+              "word": "holiday entitlement",
+              "definition": ["Number of days you have the right to take as holiday."],
+              "examples": ["What is your holiday entitlement? I get four weeks off per year."]
+            },
+            {
+              "word": "increments",
+              "definition": ["Increases or rises in salary, usually on a regular basis."],
+              "examples": ["Regular salary increments reward employees for their dedication and performance."]
+            },
+            {
+              "word": "performance-related",
+              "definition": ["Dependent on how well you do your job."],
+              "examples": ["Performance-related pay reflects employees' effectiveness and contributions."]
+            },
+            {
+              "word": "annual bonus?",
+              "definition": ["Extra money paid once a year, usually based on good performance."],
+              "examples": ["An annual bonus serves as a motivational reward for achieving goals."]
+            },
+            {
+              "word": "overworked and underpaid",
+              "definition": ["Informal, humorous fixed expression for feeling like you're working too much for too little."],
+              "examples": ["Many feel overworked and underpaid, emphasizing the challenges they face."]
+            },
+            {
+              "word": "voluntary/compulsory redundancies",
+              "definition": ["People losing their jobs, by offering to do so / having no choice."],
+              "examples": ["The company's financial difficulties led to voluntary and compulsory redundancies."]
+            },
+            {
+              "word": "skeleton staff",
+              "definition": ["The minimum number of workers needed to keep operating."],
+              "examples": ["During holidays, the office runs with a skeleton staff to maintain basic operations."]
+            },
+            {
+              "word": "interview panel",
+              "definition": ["The group of people interviewing someone for a job."],
+              "examples": ["The interview panel's friendliness can impact the candidate's level of nervousness."]
+            },
+            {
+              "word": "telesales",
+              "definition": ["Selling or marketing goods and services by phone."],
+              "examples": ["Carl's first job was in telesales, where he learned the art of selling over the phone."]
+            },
+            {
+              "word": "telemarketing",
+              "definition": ["Selling or marketing goods and services by phone."],
+              "examples": ["At first, Carl thought telemarketing sounded glamorous, but he soon realized its challenges."]
+            },
+            {
+              "word": "cold calling",
+              "definition": ["Phoning people who have not requested a call to try to sell them something."],
+              "examples": ["Carl faced difficulties with cold calling, as many people he phoned disliked unsolicited sales calls."]
+            },
+            {
+              "word": "hard sell",
+              "definition": ["Attempt to sell something by being very forceful or persuasive."],
+              "examples": ["Carl learned that a hard sell approach often turned customers away instead of convincing them."]
+            },
+            {
+              "word": "part with their money",
+              "definition": ["Spend money."],
+              "examples": ["Carl became skilled at persuading customers to part with their money during his sales career."]
+            },
+            {
+              "word": "TV shopping channel",
+              "definition": ["A TV channel devoted to selling products."],
+              "examples": ["Carl's job on a TV shopping channel involved showcasing and selling various products."]
+            },
+            {
+              "word": "merchandise",
+              "definition": ["Products that are bought and sold."],
+              "examples": ["Carl specialized in selling merchandise related to the leisure market on the TV shopping channel."]
+            },
+            {
+              "word": "hasn’t looked back",
+              "definition": ["Has moved forward successfully."],
+              "examples": ["Carl set up his own sportswear company and hasn't looked back since."]
+            },
+            {
+              "word": "purchasing power",
+              "definition": ["The ability to buy goods, i.e., the amount of money available."],
+              "examples": ["Understanding your purchasing power is essential for making informed buying decisions."]
+            },
+            {
+              "word": "shop around",
+              "definition": ["To try different companies or shops to find the best value."],
+              "examples": ["Before making a purchase, it's wise to shop around and compare prices."]
+            },
+            {
+              "word": "stocks",
+              "definition": ["Keeps a supply of something."],
+              "examples": ["To buy what you want, you need to find a shop that stocks the items you're looking for."]
+            },
+            {
+              "word": "trade something up",
+              "definition": ["To buy something of higher value than what you had before."],
+              "examples": ["People often trade their old cars for new ones by trading up."]
+            },
+            {
+              "word": "brand loyalty",
+              "definition": ["Confidence in a particular brand and a tendency to choose it consistently."],
+              "examples": ["Many consumers make purchasing decisions based on brand loyalty."]
+            },
+            {
+              "word": "loss leader",
+              "definition": ["An item sold at a low price to attract customers who will also buy profitable items."],
+              "examples": ["Supermarkets offer loss leaders to draw customers into the store and increase overall sales."]
+            },
+            {
+              "word": "price",
+              "definition": ["To give a specific cost to products or services."],
+              "examples": ["Companies must carefully price their products to ensure profitability and competitiveness."]
+            },
+            {
+              "word": "niche market",
+              "definition": ["A specialized group of customers with particular interests that a company can serve."],
+              "examples": ["Finding a niche market allows a company to cater to unique customer needs."]
+            },
+            {
+              "word": "come/go under the hammer",
+              "definition": ["To be sold at an auction."],
+              "examples": ["Rare collectibles often come under the hammer at exclusive auctions."]
+            },
+            {
+              "word": "lucrative",
+              "definition": ["Producing a lot of money."],
+              "examples": ["Tina's software development business turned out to be very lucrative."]
+            },
+            {
+              "word": "red tape",
+              "definition": ["Bureaucracy (negative)."],
+              "examples": ["Tina grew increasingly frustrated with the red tape involved in business administration."]
+            },
+            {
+              "word": "administration",
+              "definition": ["Organization and arrangement of operations."],
+              "examples": ["Dealing with business administration involves managing various operational tasks."]
+            },
+            {
+              "word": "proposition",
+              "definition": ["Formal offer."],
+              "examples": ["Tina received a proposition from a larger company interested in a possible takeover."]
+            },
+            {
+              "word": "takeover",
+              "definition": ["Agreement in which one company takes control of another one."],
+              "examples": ["The larger company proposed a takeover of Tina's business for mutual benefits."]
+            },
+            {
+              "word": "reach a compromise",
+              "definition": ["Come to an agreement in which both sides reduce their demands a little."],
+              "examples": ["After negotiations, the companies managed to reach a compromise that satisfied both parties."]
+            },
+            {
+              "word": "hammer out a deal",
+              "definition": ["Talk in detail until a business agreement is made."],
+              "examples": ["Through intensive discussions, the companies were able to hammer out a mutually beneficial deal."]
+            },
+            {
+              "word": "swallowed up",
+              "definition": ["Taken over by a larger company."],
+              "examples": ["Although Tina's company was swallowed up by a larger one, she used the opportunity to invest in a new venture."]
+            },
+            {
+              "word": "capital assets",
+              "definition": ["Buildings and machines owned by a company."],
+              "examples": ["The sale of her capital assets provided Tina with the funds to explore new business opportunities."]
+            },
+            {
+              "word": "invest in",
+              "definition": ["To put money into."],
+              "examples": ["Tina wisely decided to invest in an online holiday property letting agency."]
+            },
+            {
+              "word": "start-up",
+              "definition": ["A new company."],
+              "examples": ["Tina's investment allowed her to launch a start-up focused on holiday property rentals."]
+            },
+            {
+              "word": "holiday property letting agency",
+              "definition": ["A business organizing the rental of holiday houses and flats."],
+              "examples": ["Tina's new venture involves running an online holiday property letting agency."]
+            },
+            {
+              "word": "merger",
+              "definition": ["The joining together of two companies to become one."],
+              "examples": ["A merger between companies often aims to create synergies and expand market reach."]
+            },
+            {
+              "word": "opportunistic",
+              "positive": true,
+              "negative": false,
+              "definition": ["Using situations for own benefit."],
+              "examples": ["Carl's opportunistic nature helped him make the most of various business opportunities."]
+            },
+            {
+              "word": "methodical",
+              "positive": true,
+              "negative": false,
+              "definition": ["Systematic, careful."],
+              "examples": ["Tina's methodical approach to problem-solving ensured efficient results."]
+            },
+            {
+              "word": "chauvinistic",
+              "positive": false,
+              "negative": true,
+              "definition": ["Too patriotic."],
+              "examples": ["His chauvinistic views often clashed with those who believed in global unity."]
+            },
+            {
+              "word": "get carried away",
+              "positive": false,
+              "negative": true,
+              "definition": ["Become too excited and lose control."],
+              "examples": ["Sometimes, enthusiasm can cause us to get carried away and overlook important details."]
+            },
+            {
+              "word": "obliging",
+              "positive": true,
+              "negative": false,
+              "definition": ["Ready to help."],
+              "examples": ["Tina was always obliging and willing to assist her colleagues whenever needed."]
+            },
+            {
+              "word": "superficial",
+              "positive": false,
+              "negative": true,
+              "definition": ["Not caring about serious things."],
+              "examples": ["His superficial attitude made it difficult to engage in meaningful discussions."]
+            },
+            {
+              "word": "insecure",
+              "positive": false,
+              "negative": true,
+              "definition": ["Not confident, uncertain about your own abilities."],
+              "examples": ["Her constant self-doubt made her feel insecure about her skills."]
+            },
+            {
+              "word": "perfectionist",
+              "positive": true,
+              "negative": false,
+              "definition": ["Someone who is not satisfied if things are not 100% perfect."],
+              "examples": ["Daniel's perfectionist tendencies drove him to achieve outstanding results in his work."]
+            },
+            {
+              "word": "tactless",
+              "positive": false,
+              "negative": true,
+              "definition": ["Inclined to say things that upset or offend people."],
+              "examples": ["His tactless remarks often strained relationships with his colleagues."]
+            },
+            {
+              "word": "intuitive",
+              "positive": true,
+              "negative": false,
+              "definition": ["Understanding instinctively."],
+              "examples": ["Chloe's intuitive decision-making skills helped her navigate complex situations."]
+            },
+            {
+              "word": "diligent",
+              "positive": true,
+              "negative": false,
+              "definition": ["Hard-working."],
+              "examples": ["Tina's diligent work ethic contributed to the success of her business."]
+            },
+            {
+              "word": "placid",
+              "positive": true,
+              "negative": false,
+              "definition": ["Calm, does not easily become excited or angry."],
+              "examples": ["Despite challenges, Carl maintained a placid demeanor that influenced his team."]
+            },
+            {
+              "word": "magnetic personality",
+              "positive": true,
+              "negative": false,
+              "definition": ["Personality that attracts people to you."],
+              "examples": ["Charming and engaging, Sarah had a magnetic personality that drew others to her."]
+            },
+            {
+              "word": "distrustful",
+              "positive": false,
+              "negative": true,
+              "definition": ["Not trusting, suspicious of others."],
+              "examples": ["His past experiences had made him distrustful of people's intentions."]
+            },
+            {
+              "word": "supportive",
+              "positive": true,
+              "negative": false,
+              "definition": ["Gives help or encouragement."],
+              "examples": ["Tina's supportive attitude boosted the morale of her coworkers during tough times."]
+            },
+            {
+              "word": "extravagant",
+              "positive": false,
+              "negative": true,
+              "definition": ["Spends too much money or uses too much of something."],
+              "examples": ["His extravagant spending habits often led to financial difficulties."]
+            },
+            {
+              "word": "down-to-earth",
+              "positive": true,
+              "negative": false,
+              "definition": ["Practical and sensible."],
+              "examples": ["Despite his success, John remained down-to-earth and relatable."]
+            },
+            {
+              "word": "altruistic",
+              "positive": true,
+              "negative": false,
+              "definition": ["Thinking of others rather than yourself."],
+              "examples": ["Her altruistic nature led her to volunteer for various charitable causes."]
+            },
+            {
+              "word": "morose",
+              "positive": false,
+              "negative": true,
+              "definition": ["Gloomy."],
+              "examples": ["His morose outlook often brought down the mood of the group."]
+            },
+            {
+              "word": "sharp-tongued",
+              "positive": false,
+              "negative": true,
+              "definition": ["Inclined to speak in a severe and critical way."],
+              "examples": ["His sharp-tongued comments often hurt others' feelings."]
+            },
+            {
+              "word": "naive",
+              "positive": false,
+              "negative": true,
+              "definition": ["Without enough experience of life, trusting too easily."],
+              "examples": ["Her naive outlook made her vulnerable to manipulation."]
+            },
+            {
+              "word": "slender",
+              "definition": ["Thin in an attractive way."],
+              "examples": ["The model had a slender figure that suited the fashion industry."]
+            },
+            {
+              "word": "scrawny",
+              "definition": ["Unattractively thin and bony-looking."],
+              "examples": ["He appeared scrawny after weeks of illness and lack of appetite."]
+            },
+            {
+              "word": "lanky",
+              "definition": ["Very tall and thin, and usually moving awkwardly."],
+              "examples": ["The lanky teenager struggled to find clothes that fit his long limbs."]
+            },
+            {
+              "word": "gangling/gangly",
+              "definition": ["Tall, with long, thin arms and legs and rather awkward movements; often used of men and boys."],
+              "examples": ["His gangling/gangly frame made him stand out in the crowd."]
+            },
+            {
+              "word": "obese",
+              "definition": ["Very fat, in an unhealthy way."],
+              "examples": ["The doctor advised him to lose weight as he was clinically obese."]
+            },
+            {
+              "word": "stout",
+              "definition": ["With a quite large, solid body; used of men and women."],
+              "examples": ["Despite her stout build, she was surprisingly agile and active."]
+            },
+            {
+              "word": "stocky",
+              "definition": ["Short and with a body that is wide across the shoulders and chest."],
+              "examples": ["The wrestler had a stocky build that provided strength and stability."]
+            },
+            {
+              "word": "bulked up",
+              "definition": ["Increased in body size, especially by gaining more muscle."],
+              "examples": ["After months of rigorous training, he bulked up and became much stronger."]
+            },
+            {
+              "word": "lean",
+              "definition": ["Thin and healthy."],
+              "examples": ["She maintained a lean physique through regular exercise and a balanced diet."]
+            },
+            {
+              "word": "wiry",
+              "definition": ["Thin but strong."],
+              "examples": ["Despite his small frame, he had a wiry strength that surprised many."]
+            },
+            {
+              "word": "unkempt",
+              "definition": ["Untidy, scruffy."],
+              "examples": ["His unkempt appearance suggested that he hadn't slept well the previous night."]
+            },
+            {
+              "word": "never a hair out of place",
+              "definition": ["Always well-dressed, neat and smart-looking."],
+              "examples": ["Even during a long day at work, her impeccable style ensured never a hair out of place."]
+            },
+            {
+              "word": "immaculate",
+              "definition": ["In perfect condition, smart."],
+              "examples": ["The bride looked immaculate in her elegant wedding gown."]
+            },
+            {
+              "word": "swarthy",
+              "definition": ["Having a dark-colored complexion."],
+              "examples": ["His swarthy skin tone was a result of spending time outdoors in the sun."]
+            },
+            {
+              "word": "haggard",
+              "definition": ["His face looked ill and tired."],
+              "examples": ["The stress of the project left her looking haggard and worn out."]
+            },
+            {
+              "word": "grinning",
+              "definition": ["Giving a big smile."],
+              "examples": ["He couldn't help grinning when he saw the surprise his friends had prepared."]
+            },
+            {
+              "word": "pouting",
+              "definition": ["Positioning their lips in an attractive way."],
+              "examples": ["The model was photographed pouting, creating a sultry and alluring expression."]
+            },
+            {
+              "word": "pouts",
+              "definition": ["Positions her lips in a look of annoyance."],
+              "examples": ["Whenever she doesn't get her way, she pouts and makes her displeasure evident."]
+            },
+            {
+              "word": "grimace",
+              "definition": ["Make an expression of pain or strong dislike."],
+              "examples": ["She couldn't help but grimace as she tasted the overly salty soup."]
+            },
+            {
+              "word": "scowled",
+              "definition": ["Gave a bad-tempered, angry look."],
+              "examples": ["He scowled at his friend for interrupting his concentration."]
+            },
+            {
+              "word": "leering",
+              "definition": ["Looking in an unpleasant, sexually interested way."],
+              "examples": ["His leering gaze made her feel uncomfortable and unsafe."]
+            },
+            {
+              "word": "shrugged his shoulders",
+              "definition": ["Lifted his shoulders up and down to show he didn't know or couldn't answer."],
+              "examples": ["When asked about the missing keys, he just shrugged his shoulders in confusion."]
+            },
+            {
+              "word": "folded his arms",
+              "definition": ["Crossed one arm over the other close to his body."],
+              "examples": ["He folded his arms and leaned against the wall while waiting for the bus."]
+            },
+            {
+              "word": "crossed his legs",
+              "definition": ["Crossed one leg over the other while sitting."],
+              "examples": ["She crossed her legs and sat back in the chair, listening attentively."]
+            },
+            {
+              "word": "twitching",
+              "definition": ["Suddenly making small movements."],
+              "examples": ["His nervousness was evident from the constant twitching of his fingers."]
+            },
+            {
+              "word": "bites her nails",
+              "definition": ["Engages in the habit of biting her nails."],
+              "examples": ["Whenever she's stressed, she unconsciously bites her nails."]
+            },
+            {
+              "word": "clenched her fist",
+              "definition": ["Closed her hand tightly because of anger."],
+              "examples": ["She clenched her fist to control her frustration during the argument."]
+            },
+            {
+              "word": "tapping/drumming his fingers",
+              "definition": ["Made quick, light hitting movements."],
+              "examples": ["He was nervous and couldn't stop tapping/drumming his fingers on the table."]
+            },
+            {
+              "word": "impetuous",
+              "meaning": "Acts on a sudden idea without thinking first (often negative).",
+              "example": "She’s so impetuous; I wish she would consider things before acting."
+            },
+            {
+              "word": "impulsive",
+              "meaning": "Similar to impetuous, but can be used in a more positive way.",
+              "example": "His impulsive generosity led him to give money to anyone who asked for help."
+            },
+            {
+              "word": "effusive",
+              "meaning": "Gives exaggerated expression of pleasure, praise or gratitude.",
+              "example": "She always gives me such an effusive welcome when I visit her."
+            },
+            {
+              "word": "excitable",
+              "meaning": "Easily excited by things.",
+              "example": "He’s a very excitable child; he needs to calm down."
+            },
+            {
+              "word": "pushy",
+              "meaning": "Always selfishly promoting your own position or interests; informal.",
+              "example": "She’s so pushy; it’s typical of her to demand a pay rise for herself and not care about the rest of us."
+            },
+            {
+              "word": "self-conscious",
+              "meaning": "Nervous or uncomfortable because you know what people think about you or your actions.",
+              "example": "Freddie seemed self-conscious and uncomfortable when he had to make the announcement at the party."
+            },
+            {
+              "word": "well-balanced",
+              "meaning": "Calm and reasonable and showing good judgement.",
+              "example": "The teacher said Maddy was a well-balanced child who got on well at school."
+            },
+            {
+              "word": "taciturn",
+              "meaning": "Reserved or says very little (generally negative).",
+              "example": "He was a bit taciturn when I first met him. He hardly said a word."
+            },
+            {
+              "word": "introvert",
+              "meaning": "Inward-looking and quiet.",
+              "example": "Chloe’s such an introvert. She prefers spending time alone."
+            },
+            {
+              "word": "outgoing",
+              "meaning": "Energetic and friendly, finds it easy to be with others.",
+              "example": "Her brother Mark is so outgoing and is such an extrovert. He loves socializing."
+            },
+            {
+              "word": "extrovert",
+              "meaning": "Outward-looking, energetic and sociable.",
+              "example": "Her brother Mark is so outgoing and is such an extrovert. He thrives in social situations."
+            },
+            {
+              "word": "diffident",
+              "meaning": "Lacks confidence.",
+              "example": "Mr Rogers is such a diffident man. He seems to have quite low self-esteem."
+            },
+            {
+              "word": "reserved",
+              "meaning": "Not immediately sociable.",
+              "example": "English people are traditionally thought of as rather reserved."
+            },
+            {
+              "word": "aloof",
+              "meaning": "Unfriendly and not sociable.",
+              "example": "Eva tends to be rather aloof. I don’t know if she’s just shy."
+            },
+            {
+              "word": "haughty",
+              "meaning": "Unfriendly and thinks herself better than others.",
+              "example": "My aunt Annie can be very haughty and disdainful at times, but she’s lovely really."
+            },
+            {
+              "word": "disdainful",
+              "meaning": "Does not believe others deserve respect.",
+              "example": "My aunt Annie can be very haughty and disdainful at times, but she’s lovely really."
+            },
+            {
+              "word": "unapproachable",
+              "meaning": "Not easy to be sociable with or start a conversation with.",
+              "example": "I’ve always found Professor Mactoft very unapproachable, but his colleague Dr O’Daly is very approachable."
+            },
+            {
+              "word": "approachable",
+              "meaning": "The opposite of unapproachable.",
+              "example": "I’ve always found Professor Mactoft very unapproachable, but his colleague Dr O’Daly is very approachable."
+            },
+            {
+              "word": "conceited",
+              "meaning": "Thinks herself wonderful.",
+              "example": "Natasha is very conceited and self-important, but Rachel is such a modest person."
+            },
+            {
+              "word": "self-important",
+              "meaning": "Has an exaggerated sense of her importance.",
+              "example": "Natasha is very conceited and self-important, but Rachel is such a modest person."
+            },
+            {
+              "word": "modest",
+              "meaning": "Prefers not to exaggerate her own qualities.",
+              "example": "Natasha is very conceited and self-important, but Rachel is such a modest person."
+            },
+            {
+              "word": "respectful",
+              "meaning": "Treating someone well and politely, often with admiration.",
+              "example": "Joe is always so polite and respectful. I wish he would be more informal and just treat me as his equal."
+            },
+            {
+              "word": "naive",
+              "meaning": "Willing to believe simple things, perhaps because of inexperience.",
+              "example": "Arjen is a somewhat naive person; he thinks love can solve all the world’s problems."
+            },
+            {
+              "word": "gullible",
+              "meaning": "Easily deceived.",
+              "example": "Telephone salespeople often take advantage of gullible people."
+            },
+            {
+              "word": "conscientious",
+              "meaning": "Always took his work very seriously.",
+              "example": "My father was a very conscientious man; he never took time off work unless he was really sick."
+            },
+            {
+              "word": "restless",
+              "meaning": "Not satisfied with what she is doing now and wanting something new.",
+              "example": "She’s a restless individual. I don’t think she’ll ever settle down in a job."
+            },
+            {
+              "word": "obstinate",
+              "meaning": "Unwilling to change, despite persuasion.",
+              "example": "You are so obstinate and pig-headed! Why don’t you listen when people give you advice?"
+            },
+            {
+              "word": "pig-headed",
+              "meaning": "Similar to obstinate but stronger; informal.",
+              "example": "You are so obstinate and pig-headed! Why don’t you listen when people give you advice?"
+            }
+
+          ],
         },
         {
           day: 14,
