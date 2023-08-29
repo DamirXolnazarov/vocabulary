@@ -10717,8 +10717,520 @@ export default {
           ],
         },
         {
-          day: 16,
-          words: [],
+          day: 'Reading 29.08',
+          words: [
+            {
+              "word": "long-haul",
+              "definition": [
+                "Referring to a task, journey, or commitment that requires significant time, effort, or endurance.",
+                "Involving a prolonged and sustained effort or endeavor."
+              ],
+              "examples": [
+                "The project was a long-haul effort that took several years to complete.",
+                "She embarked on a long-haul flight across multiple time zones."
+              ]
+            },
+            {
+              "word": "make up percentage of something",
+              "definition": [
+                "To constitute a portion or share of a whole, often expressed as a percentage."
+              ],
+              "examples": [
+                "Women make up a significant percentage of the company's leadership team.",
+                "Imports make up a large percentage of the country's total trade."
+              ]
+            },
+            {
+              "word": "gross domestic product",
+              "definition": [
+                "The total value of all goods and services produced within a country's borders during a specific period, used as an economic measure."
+              ],
+              "examples": [
+                "The country's gross domestic product grew by 3% this year.",
+                "Economists analyze the gross domestic product to assess the overall economy."
+              ]
+            },
+            {
+              "word": "launch a campaign",
+              "definition": [
+                "To initiate and promote a focused effort to achieve a specific goal, often in marketing or advocacy."
+              ],
+              "examples": [
+                "The company plans to launch a marketing campaign for their new product.",
+                "The nonprofit organization launched a campaign to raise awareness."
+              ]
+            },
+            {
+              "word": "communicate something to the world",
+              "definition": [
+                "To convey or share information, messages, or ideas on a global scale."
+              ],
+              "examples": [
+                "Social media platforms help communicate thoughts and opinions globally.",
+                "The artist's work communicated a powerful message worldwide."
+              ]
+            },
+            {
+              "word": "exhilarating",
+              "definition": [
+                "Causing intense excitement, joy, or a sense of thrill."
+              ],
+              "examples": [
+                "The roller coaster ride was exhilarating with its steep drops and turns.",
+                "Skydiving for the first time was an exhilarating experience."
+              ]
+            },
+            {
+              "word": "web presence",
+              "definition": [
+                "The visibility and representation of an individual, business, or organization online."
+              ],
+              "examples": [
+                "A strong web presence is crucial for attracting online customers.",
+                "The company improved its web presence through a new website and social media."
+              ]
+            },
+            {
+              "word": "as part of this",
+              "definition": [
+                "Indicating inclusion within a specific context or situation."
+              ],
+              "examples": [
+                "As part of this new initiative, employees will receive additional training.",
+                "Students will have access to new resources as part of this program."
+              ]
+            },
+            {
+              "word": "stunning scenery",
+              "definition": [
+                "Breathtaking and visually impressive natural landscapes or views."
+              ],
+              "examples": [
+                "Uzbekistan has its own stunning sceneries.",
+                "The hike offered stunning scenery with panoramic views."
+              ]
+            },
+            {
+              "word": "devise",
+              "definition": [
+                "To plan, invent, or create something through careful thought and effort."
+              ],
+              "examples": [
+                "The team worked together to devise a new marketing campaign.",
+                "Engineers had to devise a solution to improve manufacturing efficiency."
+              ]
+            },
+            {
+              "word": "itinerary",
+              "definition": [
+                "A detailed plan or route of a journey, trip, or tour, including points of travel and destinations."
+              ],
+              "examples": [
+                "The travel itinerary outlined the schedule and activities for the trip.",
+                "Her itinerary included visits to several historical landmarks."
+              ]
+            },
+            {
+              "word": "print something out",
+              "definition": [
+                "To produce a physical copy of a digital document or image using a printer."
+              ],
+              "examples": [
+                "I need to print out the presentation slides for the meeting.",
+                "He printed the directions out before leaving for the road trip."
+              ]
+            },
+            {
+              "word": "take on the something",
+              "definition": [
+                "To assume responsibility, duty, or challenge."
+              ],
+              "examples": [
+                "She decided to take on the leadership role for the project.",
+                "The team was willing to take on the difficult task."
+              ]
+            },
+            {
+              "word": "inclusion",
+              "definition": [
+                "The act of including or the state of being included."
+              ],
+              "examples": [
+                "The company promotes a culture of inclusion and diversity.",
+                "The inclusion of various perspectives enriched the discussion."
+              ]
+            },
+            {
+              "word": "compose mainly of",
+              "definition": [
+                "To form something primarily from specific elements or components."
+              ],
+              "examples": [
+                "The salad is composed mainly of fresh vegetables and herbs.",
+                "The committee is composed mainly of experienced professionals."
+              ]
+            },
+            {
+              "word": "once-in-a-lifetime",
+              "definition": [
+                "A rare and unique opportunity or experience that is unlikely to occur again."
+              ],
+              "examples": [
+                "Swimming with dolphins was a once-in-a-lifetime experience.",
+                "The chance to meet a famous author was truly a once-in-a-lifetime opportunity."
+              ]
+            },
+            {
+              "word": "user-friendly",
+              "definition": [
+                "Easy to use and navigate, especially for individuals who are not experts."
+              ],
+              "examples": [
+                "The new software has a user-friendly interface.",
+                "The app's user-friendly design makes it accessible to people of all ages."
+              ]
+            },
+            {
+              "word": "keep your mind on anything",
+              "definition": [
+                "To focus or concentrate one's thoughts and attention on something."
+              ],
+              "examples": [
+                "During the exam, it's important to keep your mind on the questions.",
+                "She struggled to keep her mind on the lecture due to distractions."
+              ]
+            },
+            {
+              "word": "stretch out",
+              "definition": [
+                "To extend or spread over an area or period of time.",
+                "To recline or extend one's body to its full length."
+              ],
+              "examples": [
+                "She decided to stretch out on the couch and relax.",
+                "The desert seemed to stretch out endlessly before them."
+              ]
+            },
+            {
+              "word": "apathy",
+              "definition": [
+                "Lack of interest, enthusiasm, or concern.",
+                "Indifference or a lack of emotional responsiveness."
+              ],
+              "examples": [
+                "His apathy towards his studies led to poor academic performance.",
+                "The employees' apathy towards company events was concerning to the management."
+              ]
+            },
+            {
+              "word": "indifference",
+              "definition": [
+                "Lack of interest, concern, or sympathy.",
+                "A state of being neutral or not favoring one option over another."
+              ],
+              "examples": [
+                "His indifference to the team's success surprised everyone.",
+                "The public's indifference to the issue hindered progress."
+              ]
+            },
+            {
+              "word": "disgust",
+              "definition": [
+                "A strong feeling of revulsion, repugnance, or aversion.",
+                "To cause intense dislike or nausea."
+              ],
+              "examples": [
+                "The sight of the spoiled food filled her with disgust.",
+                "The film's violent scenes left many viewers feeling disgust."
+              ]
+            },
+            {
+              "word": "calibrating",
+              "definition": [
+                "To adjust or standardize a device or instrument for accurate measurement or function.",
+                "To fine-tune or modify something to achieve optimal performance."
+              ],
+              "examples": [
+                "He spent hours calibrating the microscope for accurate observations.",
+                "The mechanic is calibrating the engine to improve fuel efficiency."
+              ]
+            },
+            {
+              "word": "reactant",
+              "definition": [
+                "A substance that undergoes a chemical reaction with another substance.",
+                "A participant in a chemical reaction that leads to the formation of products."
+              ],
+              "examples": [
+                "In the chemical equation, hydrogen is a reactant.",
+                "The concentration of reactants affects the rate of the reaction."
+              ]
+            },
+            {
+              "word": "arousal",
+              "definition": [
+                "A state of heightened physiological or psychological activity.",
+                "Stimulation or excitation of a person's emotions, senses, or sexual desire."
+              ],
+              "examples": [
+                "The horror movie induced a state of arousal in the audience.",
+                "The teacher used interactive activities to maintain student arousal during the lesson."
+              ]
+            },
+            {
+              "word": "go further",
+              "definition": [
+                "To extend the boundaries or limits of something.",
+                "To advance or progress beyond the current state or level."
+              ],
+              "examples": [
+                "Innovation drives companies to go further in their development.",
+                "His dedication to self-improvement motivated him to go further in his career."
+              ]
+            },
+            {
+              "word": "wander",
+              "definition": [
+                "To walk or move aimlessly without a specific destination or purpose.",
+                "To roam or travel without a fixed course or direction."
+              ],
+              "examples": [
+                "They decided to wander through the city's historic district.",
+                "During their vacation, they often wandered through local markets."
+              ]
+            },
+            {
+              "word": "seek out boredom",
+              "definition": [
+                "To deliberately look for or embrace situations lacking excitement or stimulation.",
+                "To actively engage in activities that are unexciting or monotonous."
+              ],
+              "examples": [
+                "The artist sought out boredom to find inspiration for her work.",
+                "In the age of constant entertainment, some people seek out boredom as a form of mental relaxation."
+              ]
+            },
+            {
+              "word": "fester",
+              "definition": [
+                "To become progressively worse or more intense, typically in terms of a negative emotion or condition.",
+                "To develop and grow, often in a harmful or destructive manner."
+              ],
+              "examples": [
+                "If left unresolved, resentment can fester and damage relationships.",
+                "The wound began to fester, and medical attention was required."
+              ]
+            },
+            {
+              "word": "put somebody's 'attention-system' into gear",
+              "definition": [
+                "To activate or engage someone's focus, awareness, or cognitive processes.",
+                "To prompt someone to pay attention or become mentally alert."
+              ],
+              "examples": [
+                "The teacher's energetic introduction put the students' attention systems into gear.",
+                "The coach's motivating speech put the team's attention systems into gear for the crucial game."
+              ]
+            },
+            {
+              "word": "put something into gear",
+              "definition": [
+                "To initiate or start a process, activity, or plan.",
+                "To begin operating a machine or vehicle by engaging the gears."
+              ],
+              "examples": [
+                "They put the project into gear by assigning tasks to the team members.",
+                "The driver put the car into gear and smoothly accelerated onto the highway."
+              ]
+            },
+            {
+              "word": "threshold",
+              "definition": [
+                "The point at which a certain effect, phenomenon, or change begins to occur.",
+                "The minimum level of intensity, value, or quantity required for a specific response or result."
+              ],
+              "examples": [
+                "The company reached the threshold of profitability after years of investment.",
+                "Her excitement crossed the threshold into pure joy when she received the good news."
+              ]
+            },
+            {
+              "word": "detrimental",
+              "definition": [
+                "Causing harm, damage, or negative effects.",
+                "Having a detrimental impact on something's well-being or success."
+              ],
+              "examples": [
+                "The lack of exercise can have a detrimental effect on one's health.",
+                "Ignoring safety precautions could lead to detrimental consequences."
+              ]
+            },
+            {
+              "word": "put somebody in danger",
+              "definition": [
+                "To expose or subject someone to a risky or unsafe situation.",
+                "To place someone in harm's way or at the risk of potential harm."
+              ],
+              "examples": [
+                "His reckless driving put himself and others in danger.",
+                "Not wearing the appropriate safety gear puts workers in danger."
+              ]
+            },
+            {
+              "word": "sophisticated",
+              "definition": [
+                "Having refined, complex, and advanced features, qualities, or understanding.",
+                "Characterized by a high level of elegance, taste, or knowledge."
+              ],
+              "examples": [
+                "The new smartphone features sophisticated technology for enhanced performance.",
+                "The restaurant's sophisticated decor and cuisine attract discerning patrons."
+              ]
+            },
+            {
+              "word": "trawl (through)",
+              "definition": [
+                "To search through a large quantity of items, information, or data systematically and thoroughly.",
+                "To examine or investigate something in a comprehensive and exhaustive manner."
+              ],
+              "examples": [
+                "She trawled through the online database to find relevant articles for her research.",
+                "The detectives trawled through the evidence to uncover crucial clues."
+              ]
+            },
+            {
+              "word": "fuzzy",
+              "definition": [
+                "Having a blurred, unclear, or indistinct appearance.",
+                "Characterized by a lack of precision or clarity."
+              ],
+              "examples": [
+                "The photograph was fuzzy and difficult to make out.",
+                "His memory of the event was fuzzy, with some details missing."
+              ]
+            },
+            {
+              "word": "glitch",
+              "definition": [
+                "A sudden, temporary malfunction or error in a system or process.",
+                "A minor fault or flaw that disrupts the normal functioning of something."
+              ],
+              "examples": [
+                "The computer program encountered a glitch and crashed.",
+                "The glitch in the software caused the text to appear incorrectly."
+              ]
+            },
+            {
+              "word": "color palette",
+              "definition": [
+                "A range of colors that are used in a specific context, such as in art, design, or fashion.",
+                "The selection of colors that are combined to create a visually pleasing composition."
+              ],
+              "examples": [
+                "The artist carefully chose a color palette that conveyed the mood of the painting.",
+                "The interior designer created a color palette that matched the client's preferences."
+              ]
+            },
+            {
+              "word": "subtle",
+              "definition": [
+                "Not immediately obvious or noticeable, often requiring careful observation.",
+                "Characterized by delicacy or understated quality."
+              ],
+              "examples": [
+                "Her subtle hint at the party's theme intrigued the guests.",
+                "The film used subtle lighting to create an atmospheric mood."
+              ]
+            },
+            {
+              "word": "move to tears",
+              "definition": [
+                "To evoke strong emotions, often causing someone to cry.",
+                "To deeply touch or affect someone's feelings to the point of tears."
+              ],
+              "examples": [
+                "The heartfelt speech moved the audience to tears.",
+                "The touching scene in the movie moved her to tears."
+              ]
+            },
+            {
+              "word": "pseudoscience",
+              "definition": [
+                "Beliefs or practices that are presented as scientific but lack empirical evidence or validity.",
+                "A system of ideas or claims mistakenly regarded as scientific."
+              ],
+              "examples": [
+                "Astrology is often considered a pseudoscience due to its lack of scientific support.",
+                "The book promoted various pseudoscientific theories that were widely debunked."
+              ]
+            },
+            {
+              "word": "vague",
+              "definition": [
+                "Not clearly defined, expressed, or understood.",
+                "Lacking precision or distinctness in description or explanation."
+              ],
+              "examples": [
+                "His instructions were vague and left room for interpretation.",
+                "She had a vague idea of the concept, but needed further explanation."
+              ]
+            },
+            {
+              "word": "punch",
+              "definition": [
+                "A forceful and impactful blow delivered with strength.",
+                "To hit or strike someone or something with force."
+              ],
+              "examples": [
+                "He delivered a powerful punch that knocked his opponent down.",
+                "She punched the bag as part of her boxing training."
+              ]
+            },
+            {
+              "word": "controversy",
+              "definition": [
+                "A dispute, debate, or disagreement, often involving opposing viewpoints.",
+                "An issue or topic that elicits strong opinions and conflicting perspectives."
+              ],
+              "examples": [
+                "The new policy sparked controversy among the employees.",
+                "The controversial article led to heated discussions online."
+              ]
+            },
+            {
+              "word": "recoil",
+              "definition": [
+                "To suddenly spring back or flinch in response to an impact or threat.",
+                "To shrink or retreat in response to fear, shock, or disgust."
+              ],
+              "examples": [
+                "The gun's recoil surprised the novice shooter.",
+                "He recoiled in horror at the sight of the gruesome scene."
+              ]
+            },
+            {
+              "word": "reckon",
+              "definition": [
+                "To calculate, estimate, or consider something.",
+                "To hold an opinion or believe in something."
+              ],
+              "examples": [
+                "She reckoned that the journey would take about two hours.",
+                "Many experts reckon that climate change is a pressing global issue."
+              ]
+            },
+            {
+              "word": "irresistible essence",
+              "definition": [
+                "A compelling and captivating quality that is impossible to resist.",
+                "A characteristic or element that has an extremely strong and alluring effect."
+              ],
+              "examples": [
+                "The irresistible essence of the melody captivated the audience.",
+                "Her charismatic presence had an irresistible essence that drew people to her."
+              ]
+            }
+          ],
         },
         {
           day: 17,
