@@ -11233,8 +11233,517 @@ export default {
           ],
         },
         {
-          day: 17,
-          words: [],
+          day: 'Advanced 11,12,13',
+          words: [
+            {
+              "word": "love at first sight",
+              "definition": [
+                "love began the first time they saw each other"
+              ],
+              "examples": [
+                "When Tom met Lily, it was love at first sight."
+              ]
+            },
+            {
+              "word": "fell head over heels in love",
+              "definition": [
+                "fell deeply and madly in love"
+              ],
+              "examples": [
+                "She fell head over heels in love with him."
+              ]
+            },
+            {
+              "word": "only has eyes for",
+              "definition": [
+                "is only attracted to"
+              ],
+              "examples": [
+                "Nick only has eyes for Sophie; he’s not interested in other girls."
+              ]
+            },
+            {
+              "word": "infatuated with",
+              "definition": [
+                "romantically obsessed with"
+              ],
+              "examples": [
+                "Lauren was more than infatuated with Dave; she was completely besotted with him."
+              ]
+            },
+            {
+              "word": "besotted with",
+              "definition": [
+                "almost stupidly or blindly in love with"
+              ],
+              "examples": [
+                "Lauren was more than infatuated with Dave; she was completely besotted with him."
+              ]
+            },
+            {
+              "word": "platonic relationship",
+              "definition": [
+                "affectionate relationship between people of the opposite sex that is not sexual"
+              ],
+              "examples": [
+                "I’ve often seen Matt and Ellie at the cinema together, but it’s purely a platonic relationship."
+              ]
+            },
+            {
+              "word": "hit it off",
+              "definition": [
+                "liked each other the moment we met"
+              ],
+              "examples": [
+                "Anona and I hit it off immediately; we’re true soulmates."
+              ]
+            },
+            {
+              "word": "soulmates",
+              "definition": [
+                "people who feel close in spirit and understand each other deeply"
+              ],
+              "examples": [
+                "The moment I met Rob, I could see he was a man after my own heart."
+              ]
+            },
+            {
+              "word": "a man after my own heart",
+              "definition": [
+                "someone you admire because they do or think the same as you; also woman after your own heart"
+              ],
+              "examples": [
+                "The moment I met Rob, I could see he was a man after my own heart."
+              ]
+            },
+            {
+              "word": "get on like a house on fire",
+              "definition": [
+                "have a very good, enjoyable relationship"
+              ],
+              "examples": [
+                "Charlie and I get on like a house on fire."
+              ]
+            },
+            {
+              "word": "bosom friends/buddies/pals",
+              "definition": [
+                "very close, good friends"
+              ],
+              "examples": [
+                "Rob and Jamie have been bosom friends/buddies/pals for years."
+              ]
+            },
+            {
+              "word": "inseparable",
+              "definition": [
+                "always want to be together, very close"
+              ],
+              "examples": [
+                "Marta and Carmen are inseparable."
+              ]
+            },
+            {
+              "word": "bond",
+              "definition": [
+                "relationship or feeling of togetherness"
+              ],
+              "examples": [
+                "There’s a close bond between Rushda and her aunt."
+              ]
+            },
+            {
+              "word": "kindred spirits",
+              "definition": [
+                "people who feel close in spirit and understand each other deeply"
+              ],
+              "examples": [
+                "A: You seem to be very similar to Ben – the way you think and look at life."
+              ]
+            },
+            {
+              "word": "well-matched",
+              "definition": [
+                "perfect for each other"
+              ],
+              "examples": [
+                "A: What a nice wedding! Nathan and Amelia seem to be perfect for each other."
+              ]
+            },
+            {
+              "word": "family ties",
+              "definition": [
+                "strong connections within a family"
+              ],
+              "examples": [
+                "B: Yes, well, I think family ties in Spain are much stronger than here."
+              ]
+            },
+            {
+              "word": "mutual acquaintances",
+              "definition": [
+                "people known by multiple individuals"
+              ],
+              "examples": [
+                "B: Yes, she said you have a number of mutual acquaintances."
+              ]
+            },
+            {
+              "word": "holds her in high regard",
+              "definition": [
+                "has a lot of respect for"
+              ],
+              "examples": [
+                "A: Gareth has a lot of respect for Clare."
+              ]
+            },
+            {
+              "word": "as thick as thieves",
+              "definition": [
+                "very close, sharing secrets"
+              ],
+              "examples": [
+                "B: Yes, they’re as thick as thieves."
+              ]
+            },
+            {
+              "word": "adoration",
+              "definition": [
+                "intense love and admiration"
+              ],
+              "examples": [
+                "The parents gazed at their newborn baby with a look of tender adoration."
+              ]
+            },
+            {
+              "word": "affection",
+              "definition": [
+                "a gentle feeling of fondness and care"
+              ],
+              "examples": [
+                "He never shows much affection for his children."
+              ]
+            },
+            {
+              "word": "amiability",
+              "definition": [
+                "a friendly and pleasant manner"
+              ],
+              "examples": [
+                "She always treats us with great amiability."
+              ]
+            },
+            {
+              "word": "consideration",
+              "definition": [
+                "thoughtful concern for others"
+              ],
+              "examples": [
+                "‘Have some consideration for the other students!’ she said angrily."
+              ]
+            },
+            {
+              "word": "faithfulness",
+              "definition": [
+                "being loyal and true"
+              ],
+              "examples": [
+                "Faithfulness is the key to a good marriage."
+              ]
+            },
+            {
+              "word": "fondness",
+              "definition": [
+                "affectionate liking or attachment"
+              ],
+              "examples": [
+                "Over the years she developed a fondness for Mario that went beyond a purely business relationship."
+              ]
+            },
+            {
+              "word": "loyalty",
+              "definition": [
+                "faithful and devoted support"
+              ],
+              "examples": [
+                "He was a great team captain who inspired loyalty in the players."
+              ]
+            },
+            {
+              "word": "casual acquaintances",
+              "definition": ["people you know, but not very well"],
+              "examples": [
+                "I've met him a couple of times at social gatherings, but we're just casual acquaintances."
+              ]
+            },
+            {
+              "word": "True friends",
+              "definition": ["support in good or bad times"],
+              "examples": [
+                "In times of trouble, true friends are the ones who stand by your side."
+              ]
+            },
+            {
+              "word": "behind their backs",
+              "definition": ["when they are not there"],
+              "examples": [
+                "It's not fair to talk about someone behind their backs; you should say it to their face."
+              ]
+            },
+            {
+              "word": "colleagues",
+              "definition": ["people you work with"],
+              "examples": [
+                "She gets along well with her colleagues and enjoys a positive working environment."
+              ]
+            },
+            {
+              "word": "allies",
+              "definition": ["countries or people who join together to fight for a common cause"],
+              "examples": [
+                "During the crisis, several countries became allies to combat the shared threat."
+              ]
+            },
+            {
+              "word": "two-faced towards",
+              "definition": ["insincere; pleasant with someone and then unpleasant about them behind their back"],
+              "examples": [
+                "I thought he was my friend, but he has been two-faced towards me, saying negative things behind my back."
+              ]
+            },
+            {
+              "word": "business partners",
+              "definition": ["people who own a business together"],
+              "examples": [
+                "They started as business partners, but over time, their conflicting visions caused a rift between them."
+              ]
+            },
+            {
+              "word": "bitter/arch rivals",
+              "definition": ["people in competition with each other in a negative, aggressive way"],
+              "examples": [
+                "The two companies have become bitter arch-rivals, constantly trying to outdo each other."
+              ]
+            },
+            {
+              "word": "sworn enemies",
+              "definition": ["people who will always hate each other"],
+              "examples": [
+                "After their public argument, they became sworn enemies, refusing to even be in the same room."
+              ]
+            },
+            {
+              "word": "disloyal to",
+              "definition": ["not loyal to"],
+              "examples": [
+                "She felt hurt when she found out that her best friend had been disloyal to her secrets."
+              ]
+            },
+            {
+              "word": "dishonest with",
+              "definition": ["not honest with"],
+              "examples": [
+                "Although he was dishonest with her, she appreciated his eventual honesty and apology."
+              ]
+            },
+            {
+              "word": "distant towards",
+              "definition": ["not friendly, cold"],
+              "examples": [
+                "Ever since their argument, he has been distant towards her, avoiding conversation."
+              ]
+            },
+            {
+              "word": "scrupulously honest",
+              "definition": ["very honest, with great care"],
+              "examples": [
+                "She maintained a scrupulously honest approach to her work, even in challenging situations."
+              ]
+            },
+            {
+              "word": "complete and unswerving loyalty",
+              "definition": ["full and constant support"],
+              "examples": [
+                "A true friend offers complete and unswerving loyalty, always standing by your side."
+              ]
+            },
+            {
+              "word": "staunchest ally",
+              "definition": ["strongest and most loyal supporter"],
+              "examples": [
+                "In times of difficulty, her sister has been her staunchest ally, providing unwavering support."
+              ]
+            },
+            {
+              "word": "deeply critical of",
+              "definition": ["expressing strong disapproval"],
+              "examples": [
+                "She was deeply critical of his decisions, often pointing out flaws and shortcomings."
+              ]
+            },
+            {
+              "word": "break down",
+              "definition": ["collapse"],
+              "examples": [
+                "The relationship between the two friends began to break down due to misunderstandings and disagreements."
+              ]
+            },
+            {
+              "word": "genuine misunderstandings",
+              "definition": ["real lack of understanding"],
+              "examples": [
+                "Their argument was caused by genuine misunderstandings, as neither of them accurately communicated their intentions."
+              ]
+            },
+            {
+              "word": "rift",
+              "definition": ["serious disagreement that divides people"],
+              "examples": [
+                "A rift started to develop between the siblings when they disagreed about the future of their family business."
+              ]
+            },
+            {
+              "word": "discord",
+              "definition": ["disagreement and discontent"],
+              "examples": [
+                "The constant discord among team members was affecting their ability to collaborate effectively."
+              ]
+            },
+            {
+              "word": "don’t see eye to eye",
+              "definition": ["have different opinions"],
+              "examples": [
+                "They don’t see eye to eye on political matters, leading to heated debates whenever the topic arises."
+              ]
+            },
+            {
+              "word": "been on bad terms",
+              "definition": ["have a poor relationship"],
+              "examples": [
+                "Ever since their argument, they have been on bad terms and avoid interaction whenever possible."
+              ]
+            },
+            {
+              "word": "split up",
+              "definition": ["become separate"],
+              "examples": [
+                "Their long-term relationship eventually split up due to irreconcilable differences."
+              ]
+            },
+            {
+              "word": "has had its ups and downs",
+              "definition": ["experienced good and bad times"],
+              "examples": [
+                "Their marriage has had its ups and downs, but they always manage to work through challenges together."
+              ]
+            },
+            {
+              "word": "bumpy relationship",
+              "definition": ["relationship with many ups and downs"],
+              "examples": [
+                "Their bumpy relationship often alternates between intense arguments and deep affection."
+              ]
+            },
+            {
+              "word": "broken home",
+              "definition": ["family split up by divorce"],
+              "examples": [
+                "Growing up in a broken home had a significant impact on his outlook and behavior."
+              ]
+            },
+            {
+              "word": "family feud",
+              "definition": ["quarrel in a family causing bad feeling for many years"],
+              "examples": [
+                "The family feud between the two branches of the family had been ongoing for generations, causing a lot of tension during family gatherings."
+              ]
+            },
+            {
+              "word": "crave / have a craving for",
+              "definition": ["want very strongly"],
+              "examples": ["Pregnant women crave / have a craving for strange things like tuna and banana pizza!"]
+            },
+            {
+              "word": "thirst / have a thirst for",
+              "definition": ["feel very strongly that you want"],
+              "examples": ["Young children often seem to thirst / have a thirst for knowledge."]
+            },
+            {
+              "word": "yearns to",
+              "definition": ["want something that you do not have and, often, can never have"],
+              "examples": ["Sometimes my cousin just yearns to be on her own with no family responsibilities."]
+            },
+            {
+              "word": "coveted",
+              "definition": ["want to possess it very much"],
+              "examples": ["An Olympic gold medal is probably the most coveted sporting prize."]
+            },
+            {
+              "word": "defuse",
+              "definition": ["make a dangerous or tense situation calmer"],
+              "examples": ["Lottie tried to defuse the tension by changing the subject."]
+            },
+            {
+              "word": "placate",
+              "definition": ["stop someone feeling angry"],
+              "examples": ["Tim was very angry with his daughter and it took her a long time to placate him."]
+            },
+            {
+              "word": "conciliate",
+              "definition": ["end a disagreement between two people or groups by acting in a friendly way towards both sides; formal"],
+              "examples": ["An independent advisor has been brought in to conciliate between the unions and the employer."]
+            },
+            {
+              "word": "appeasing",
+              "definition": ["end a disagreement by giving the other side an advantage that they are demanding (normally used in a disapproving way); formal"],
+              "examples": ["Although appeasing the enemy postponed the war for another year, it did not ultimately prevent it from happening."]
+            },
+            {
+              "word": "exultant",
+              "definition": ["feeling great pleasure and happiness, usually because of a success (more formal than ecstatic)"],
+              "examples": ["Sarah was in an exultant mood / was ecstatic after her great exam results."]
+            },
+            {
+              "word": "to rejoice",
+              "definition": ["be extremely happy; formal"],
+              "examples": ["Everyone rejoiced at the news of her recovery."]
+            },
+            {
+              "word": "jubilant",
+              "definition": ["expressing great happiness, especially at a victory; formal"],
+              "examples": ["There were jubilant shouts as the results of the referendum were announced."]
+            },
+            {
+              "word": "bliss",
+              "definition": ["perfect happiness (often collocates with utter and sheer)"],
+              "examples": ["We had a fabulous holiday on a beautiful island – seven days of utter/sheer bliss."]
+            },
+            {
+              "word": "full of the joys of spring",
+              "definition": ["very happy"],
+              "examples": ["You look full of the joys of spring today. Why are you smiling all the time?"]
+            },
+            {
+              "word": "thrilled to bits",
+              "definition": ["very happy"],
+              "examples": ["My daughter’s just had a baby girl. We’re thrilled to bits at the news."]
+            },
+            {
+              "word": "feel on top of the world",
+              "definition": ["very happy"],
+              "examples": ["I feel on top of the world. It’s great to have a job again."]
+            },
+            {
+              "word": "floating/walking on air",
+              "definition": ["very happy"],
+              "examples": ["I’ve been floating/walking on air ever since I heard I got into drama school."]
+            },
+            {
+              "word": "over the moon",
+              "definition": ["very happy"],
+              "examples": ["A: How did you feel when you scored the winning goal?\nB: I was over the moon."]
+            }
+          ],
         },
         {
           day: 18,
