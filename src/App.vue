@@ -28,7 +28,7 @@ learn.style.opacity = '100%'
   
 },
 created(){
-  alert('You have visited the site of Damirbek Xolnazarov. You can message your gratitude to @D_amir777')
+  alert('You have visited the site of Damirbek Xolnazarov. You can message your gratitude to @D_amir777 via Telegram')
 }
 } 
     // },
