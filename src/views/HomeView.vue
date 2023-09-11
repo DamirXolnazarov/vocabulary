@@ -11746,8 +11746,35 @@ export default {
           ],
         },
         {
-          day: 18,
-          words: [],
+          day: 'Reading 11.09',
+          words: [
+
+            // Shuni ichiga qo'y ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+            {
+              "word": "apologize",
+              "definition": [
+                "To express regret or say sorry for a mistake, offense, or wrongdoing.",
+                "To make an apology or acknowledge one's fault."
+              ],
+              "examples": [
+                "I need to apologize for my behavior at the party last night.",
+                "She decided to apologize to her friend for the misunderstanding."
+              ]
+            },
+            {
+              "word": "help",
+              "definition": [
+                "To assist or aid someone in doing a task or overcoming a problem.",
+                "Support or assistance provided to someone in need."
+              ],
+              "examples": [
+                "Can you help me carry these groceries inside?",
+                "The charity provides help to homeless individuals.",
+                "I'm here to help with any questions you may have."
+              ]
+            }
+
+          ],
         },
         {
           day: 19,
