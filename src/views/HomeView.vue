@@ -11746,35 +11746,931 @@ export default {
           ],
         },
         {
-          day: 'Reading 11.09',
+          day: 'Reading 12.09',
           words: [
-
-            // Shuni ichiga qo'y ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
             {
-              "word": "apologize",
+              "word": "implicit theory",
               "definition": [
-                "To express regret or say sorry for a mistake, offense, or wrongdoing.",
-                "To make an apology or acknowledge one's fault."
+                "A person's subconscious beliefs and assumptions about a particular subject or concept."
               ],
               "examples": [
-                "I need to apologize for my behavior at the party last night.",
-                "She decided to apologize to her friend for the misunderstanding."
+                "Many people hold an implicit theory that success is solely determined by hard work.",
+                "Her implicit theory about relationships influenced her decisions."
               ]
             },
             {
-              "word": "help",
+              "word": "conceptualize",
               "definition": [
-                "To assist or aid someone in doing a task or overcoming a problem.",
-                "Support or assistance provided to someone in need."
+                "To form a clear mental picture or understanding of an abstract idea or concept."
               ],
               "examples": [
-                "Can you help me carry these groceries inside?",
-                "The charity provides help to homeless individuals.",
-                "I'm here to help with any questions you may have."
+                "The artist struggled to conceptualize the emotions she wanted to convey in her painting.",
+                "It's essential to conceptualize the project before starting the design process."
+              ]
+            },
+            {
+              "word": "oppose",
+              "definition": [
+                "To be against or in disagreement with someone or something."
+              ],
+              "examples": [
+                "Many citizens oppose the proposed changes to the city's zoning laws.",
+                "The senator will oppose the bill during the upcoming legislative session."
+              ]
+            },
+            {
+              "word": "on the basis of",
+              "definition": [
+                "Using a particular factor or reason as the foundation or justification for something."
+              ],
+              "examples": [
+                "The decision was made on the basis of financial considerations.",
+                "They chose the location on the basis of its proximity to public transportation."
+              ]
+            },
+            {
+              "word": "framework",
+              "definition": [
+                "A basic structure or set of rules that provides guidance or support for something."
+              ],
+              "examples": [
+                "The framework for the new curriculum was designed to enhance student engagement.",
+                "We need to establish a clear framework for project management."
+              ]
+            },
+            {
+              "word": "the general scope of",
+              "definition": [
+                "The overall range or extent of something."
+              ],
+              "examples": [
+                "The general scope of the research project encompasses various aspects of environmental sustainability.",
+                "We need to consider the general scope of the company's expansion plan."
+              ]
+            },
+            {
+              "word": "correspondence",
+              "definition": [
+                "The exchange of letters, emails, or messages between people or organizations."
+              ],
+              "examples": [
+                "Their correspondence over the years revealed a deep and lasting friendship.",
+                "I maintain regular correspondence with my overseas colleagues."
+              ]
+            },
+            {
+              "word": "take into account",
+              "definition": [
+                "To consider or include something as a relevant factor when making a decision."
+              ],
+              "examples": [
+                "When planning the budget, we need to take into account potential fluctuations in currency exchange rates.",
+                "The committee will take your concerns into account before reaching a decision."
+              ]
+            },
+            {
+              "word": "elucidate",
+              "definition": [
+                "To make something clear or explain it in a way that is easy to understand."
+              ],
+              "examples": [
+                "The professor's lecture helped elucidate the complex topic of quantum mechanics.",
+                "Please elucidate your point further so that everyone can grasp it."
+              ]
+            },
+            {
+              "word": "cross-cultural",
+              "definition": [
+                "Relating to or involving different cultures or cultural groups."
+              ],
+              "examples": [
+                "The company values cross-cultural communication skills in its employees.",
+                "The festival celebrates cross-cultural exchange and understanding."
+              ]
+            },
+            {
+              "word": "loosely",
+              "definition": [
+                "Not tightly or firmly connected or held together."
+              ],
+              "examples": [
+                "The rope was loosely tied to the post, and it came undone easily.",
+                "Their organization is loosely structured, allowing for flexibility in decision-making."
+              ]
+            },
+            {
+              "word": "statesmen",
+              "definition": [
+                "Experienced and skilled political leaders who are respected for their wisdom and diplomacy."
+              ],
+              "examples": [
+                "Throughout history, statesmen have played crucial roles in shaping the destiny of nations.",
+                "The conference brought together statesmen from various countries to discuss global issues."
+              ]
+            },
+            {
+              "word": "platonic view",
+              "definition": [
+                "A perspective that emphasizes non-romantic, intellectual, or philosophical aspects of a relationship."
+              ],
+              "examples": [
+                "Their friendship was purely platonic, and they never pursued a romantic relationship.",
+                "Platonic views on love have been explored by many philosophers throughout history."
+              ]
+            },
+            {
+              "word": "in line",
+              "definition": [
+                "In accordance with or conforming to a particular standard, rule, or expectation."
+              ],
+              "examples": [
+                "The company's policies are in line with industry best practices.",
+                "Her actions were not in line with the ethical standards of the organization."
+              ]
+            },
+            {
+              "word": "cognitive elite",
+              "definition": [
+                "A select group of individuals with exceptional cognitive abilities or intelligence."
+              ],
+              "examples": [
+                "The cognitive elite often excel in academic and professional pursuits.",
+                "Society benefits when the cognitive elite contribute their expertise to solving complex problems."
+              ]
+            },
+            {
+              "word": "non-elite",
+              "definition": [
+                "Referring to individuals or groups who do not belong to the elite or privileged class."
+              ],
+              "examples": [
+                "The program aims to provide educational opportunities to the non-elite members of society.",
+                "The non-elite citizens voiced their concerns about economic inequality."
+              ]
+            },
+            {
+              "word": "chaos",
+              "definition": [
+                "A state of complete disorder and confusion, often lacking any discernible pattern."
+              ],
+              "examples": [
+                "After the earthquake, there was chaos in the streets as people tried to find their loved ones.",
+                "The sudden change in leadership led to organizational chaos within the company."
+              ]
+            },
+            {
+              "word": "rewarded for",
+              "definition": [
+                "Receiving recognition or compensation in return for a specific action or achievement."
+              ],
+              "examples": [
+                "Employees are rewarded for their outstanding performance with bonuses and promotions.",
+                "She was rewarded for her dedication to the community with a prestigious award."
+              ]
+            },
+            {
+              "word": "favor",
+              "definition": [
+                "An act of kindness or assistance provided to someone."
+              ],
+              "examples": [
+                "She asked for a favor in helping her move to a new apartment.",
+                "Doing a small favor for a neighbor can strengthen community bonds."
+              ]
+            },
+            {
+              "word": "foster",
+              "definition": [
+                "To promote the growth or development of something, often referring to nurturing relationships."
+              ],
+              "examples": [
+                "The organization works to foster positive change in the local community.",
+                "They aim to foster a sense of teamwork and collaboration among team members."
+              ]
+            },
+            {
+              "word": "competency",
+              "definition": [
+                "The ability, knowledge, or skill required to perform a particular task or function."
+              ],
+              "examples": [
+                "Job candidates are assessed based on their competency in relevant areas.",
+                "Continuous learning is essential for maintaining professional competency."
+              ]
+            },
+            {
+              "word": "intersubstitutable",
+              "definition": [
+                "Capable of being used or substituted for each other in a particular context."
+              ],
+              "examples": [
+                "In this recipe, olive oil and vegetable oil are intersubstitutable.",
+                "These two software programs are intersubstitutable for most users."
+              ]
+            },
+            {
+              "word": "presupposition",
+              "definition": [
+                "An assumption or belief that is taken for granted or assumed to be true before further discussion."
+              ],
+              "examples": [
+                "The presupposition of trust is crucial in building strong relationships.",
+                "In the debate, both sides had different presuppositions about the role of government."
+              ]
+            },
+            {
+              "word": "towards",
+              "definition": [
+                "In the direction of or with the purpose of reaching or achieving something."
+              ],
+              "examples": [
+                "They walked towards the park to enjoy the sunny weather.",
+                "His efforts are directed towards improving the company's environmental sustainability."
+              ]
+            },
+            {
+              "word": "clarity",
+              "definition": [
+                "The quality of being clear, transparent, or easy to understand."
+              ],
+              "examples": [
+                "The report was praised for its clarity and concise presentation of information.",
+                "She strives to communicate her ideas with clarity in her presentations."
+              ]
+            },
+            {
+              "word": "preferential",
+              "definition": [
+                "Involving the giving of special treatment or advantages to a particular person or group."
+              ],
+              "examples": [
+                "The company offers preferential pricing to long-term customers.",
+                "The university provides preferential admission to students from underprivileged backgrounds."
+              ]
+            },
+            {
+              "word": "derived from",
+              "definition": [
+                "Obtained or originating from a specific source or origin."
+              ],
+              "examples": [
+                "The word 'biology' is derived from the Greek words 'bios' and 'logos.'",
+                "The medicine is derived from natural plant extracts."
+              ]
+            },
+            {
+              "word": "compound",
+              "definition": [
+                "A substance formed by the combination of two or more elements or compounds."
+              ],
+              "examples": [
+                "Water is a compound composed of hydrogen and oxygen atoms.",
+                "The chemist synthesized a new compound for use in pharmaceuticals."
+              ]
+            },
+            {
+              "word": "soothing",
+              "definition": [
+                "Calming or comforting in nature, often reducing stress or anxiety."
+              ],
+              "examples": [
+                "The soothing music helped the patients relax before surgery.",
+                "A warm bath can have a soothing effect on sore muscles."
+              ]
+            },
+            {
+              "word": "curing",
+              "definition": [
+                "The process of treating a disease, ailment, or problem to restore health or functionality."
+              ],
+              "examples": [
+                "The curing of meat involves preserving it through various methods.",
+                "Modern medicine has made significant progress in curing previously incurable diseases."
+              ]
+            },
+            {
+              "word": "cur ailments",
+              "definition": [
+                "Treating and addressing current illnesses or health conditions."
+              ],
+              "examples": [
+                "The clinic specializes in the cur ailments of the elderly population.",
+                "Our research focuses on finding effective treatments for cur ailments."
+              ]
+            },
+            {
+              "word": "toxin-oozing",
+              "definition": [
+                "Releasing harmful substances or toxins."
+              ],
+              "examples": [
+                "The toxin-oozing plant posed a danger to nearby wildlife.",
+                "The scientist studied the effects of the toxin-oozing fungus on human health."
+              ]
+            },
+            {
+              "word": "millipede",
+              "definition": [
+                "A long, segmented arthropod with many legs, belonging to the class Diplopoda."
+              ],
+              "examples": [
+                "The forest floor was crawling with millipedes after the rain.",
+                "Millipedes are known for their numerous legs and slow movement."
+              ]
+            },
+            {
+              "word": "rid",
+              "definition": [
+                "To remove or eliminate something unwanted or bothersome."
+              ],
+              "examples": [
+                "She worked hard to rid her garden of invasive weeds.",
+                "Regular cleaning helps rid your home of dust and allergens."
+              ]
+            },
+            {
+              "word": "build on",
+              "definition": [
+                "To develop or expand upon a foundation or existing knowledge or ideas."
+              ],
+              "examples": [
+                "We should build on the success of our previous projects for future improvements.",
+                "He encouraged students to build on their understanding of basic principles."
+              ]
+            },
+            {
+              "word": "genome",
+              "definition": [
+                "The complete set of genes or genetic material present in an organism."
+              ],
+              "examples": [
+                "Understanding the human genome has led to significant advancements in genetics.",
+                "The genome of the virus was sequenced to study its genetic makeup."
+              ]
+            },
+            {
+              "word": "prompt",
+              "definition": [
+                "To cause or encourage someone to take action or respond quickly."
+              ],
+              "examples": [
+                "His urgent message prompted them to evacuate the building immediately.",
+                "The teacher's feedback prompted the student to revise and improve the essay."
+              ]
+            },
+            {
+              "word": "looming",
+              "definition": [
+                "Approaching or appearing as a threatening or imminent event or situation."
+              ],
+              "examples": [
+                "The looming deadline motivated them to work diligently on the project.",
+                "The storm clouds were looming on the horizon."
+              ]
+            },
+            {
+              "word": "looming health crisis",
+              "definition": [
+                "An impending or imminent situation of significant health-related challenges or issues."
+              ],
+              "examples": [
+                "Experts warn of a looming health crisis due to the aging population.",
+                "The government is taking preventive measures to address the looming health crisis."
+              ]
+            },
+            {
+              "word": "bioprospecting",
+              "definition": [
+                "The exploration and study of biological resources for potential commercial or medicinal use."
+              ],
+              "examples": [
+                "Bioprospecting in the rainforest has led to the discovery of new plant compounds with medical applications.",
+                "The pharmaceutical industry invests in bioprospecting to find new sources of drug candidates."
+              ]
+            },
+            {
+              "word": "indispute",
+              "definition": [
+                "Not subject to debate or dispute; unquestionable."
+              ],
+              "examples": [
+                "His dedication to the cause is indispute; he has worked tirelessly for years.",
+                "The scientific evidence supporting this theory is indispute among experts."
+              ]
+            },
+            {
+              "word": "domain",
+              "definition": [
+                "A specific area of knowledge, activity, or expertise."
+              ],
+              "examples": [
+                "She has expertise in the domain of artificial intelligence.",
+                "The internet has expanded the domain of information accessibility."
+              ]
+            },
+            {
+              "word": "niche",
+              "definition": [
+                "A specialized segment or small, distinct market within a larger industry."
+              ],
+              "examples": [
+                "The company found its niche in providing eco-friendly products.",
+                "His unique skills filled a niche in the job market."
+              ]
+            },
+            {
+              "word": "bewildering",
+              "definition": [
+                "Causing confusion, puzzlement, or a sense of being overwhelmed."
+              ],
+              "examples": [
+                "The instructions for assembling the furniture were bewildering.",
+                "The rapid changes in technology can be bewildering for some older individuals."
+              ]
+            },
+            {
+              "word": "bewildering array",
+              "definition": [
+                "An overwhelming and confusing assortment or variety of something."
+              ],
+              "examples": [
+                "The store offered a bewildering array of options for consumers.",
+                "The menu presented a bewildering array of choices for diners."
+              ]
+            },
+            {
+              "word": "offensive",
+              "definition": [
+                "Causing anger, resentment, or displeasure; often related to something hurtful or disrespectful."
+              ],
+              "examples": [
+                "His comments during the meeting were offensive to many attendees.",
+                "Using offensive language can damage relationships and communication."
+              ]
+            },
+            {
+              "word": "therapeutic",
+              "definition": [
+                "Relating to the treatment or healing of a disease or condition."
+              ],
+              "examples": [
+                "Yoga and meditation are often considered therapeutic practices for stress reduction.",
+                "The therapeutic effects of the new medication are being studied in clinical trials."
+              ]
+            },
+            {
+              "word": "alloferon",
+              "definition": [
+                "A type of protein with antiviral and immunomodulatory properties."
+              ],
+              "examples": [
+                "Alloferon has shown promise in the development of antiviral treatments.",
+                "Researchers are studying the potential therapeutic uses of alloferon."
+              ]
+            },
+            {
+              "word": "antimicrobial",
+              "definition": [
+                "Having the ability to inhibit or kill microorganisms such as bacteria or viruses."
+              ],
+              "examples": [
+                "Hand sanitizers contain antimicrobial agents to reduce the spread of germs.",
+                "Certain fabrics have antimicrobial properties that prevent bacterial growth."
+              ]
+            },
+            {
+              "word": "antiviral",
+              "definition": [
+                "Capable of inhibiting or treating viral infections."
+              ],
+              "examples": [
+                "The development of effective antiviral drugs has been a significant advancement in medicine.",
+                "Antiviral vaccines are essential in preventing the spread of infectious diseases."
+              ]
+            },
+            {
+              "word": "antitumor",
+              "definition": [
+                "Having the ability to inhibit or counteract the growth of tumors."
+              ],
+              "examples": [
+                "Some plants contain antitumor compounds that are being studied for cancer treatment.",
+                "Antitumor therapies aim to stop the proliferation of cancer cells."
+              ]
+            },
+            {
+              "word": "potent",
+              "definition": [
+                "Having strong and effective properties or capabilities."
+              ],
+              "examples": [
+                "The herb is known for its potent healing properties.",
+                "This medication is potent and should be used under medical supervision."
+              ]
+            },
+            {
+              "word": "venom",
+              "definition": [
+                "A toxic substance produced by certain animals, often injected through a bite or sting."
+              ],
+              "examples": [
+                "The snake's venom can be deadly if not treated promptly.",
+                "Some species of spiders deliver venomous bites to immobilize their prey."
+              ]
+            },
+            {
+              "word": "cancer",
+              "definition": [
+                "A group of diseases characterized by uncontrolled cell growth and the potential to invade or spread to other parts of the body."
+              ],
+              "examples": [
+                "Early detection is crucial in treating many forms of cancer.",
+                "Research continues to uncover new treatments for various types of cancer."
+              ]
+            },
+            {
+              "word": "daunting",
+              "definition": [
+                "Intimidating or discouraging due to its difficulty or magnitude."
+              ],
+              "examples": [
+                "The prospect of climbing the mountain seemed daunting to the inexperienced hiker.",
+                "Starting a new business can be a daunting undertaking."
+              ]
+            },
+            {
+              "word": "gland",
+              "definition": [
+                "An organ or tissue that produces and releases substances essential for various bodily functions."
+              ],
+              "examples": [
+                "The salivary gland produces saliva, aiding in digestion.",
+                "The thyroid gland regulates metabolism and energy levels in the body."
+              ]
+            },
+            {
+              "word": "secrete",
+              "definition": [
+                "To produce and release a substance from a gland or cell."
+              ],
+              "examples": [
+                "Certain cells secrete hormones that regulate bodily functions.",
+                "The gland secretes enzymes that aid in digestion."
+              ]
+            },
+            {
+              "word": "subsequent",
+              "definition": [
+                "Occurring or happening after a particular event or time."
+              ],
+              "examples": [
+                "The subsequent chapters of the book delve deeper into the protagonist's journey.",
+                "The initial research findings were published, and subsequent studies confirmed the results."
+              ]
+            },
+            {
+              "word": "ubiquity",
+              "definition": [
+                "The state of being everywhere or being present and widespread across a variety of situations or locations."
+              ],
+              "examples": [
+                "The ubiquity of smartphones has transformed how we communicate and access information.",
+                "The ubiquity of social media platforms has changed the way businesses engage with their customers."
+              ]
+            },
+            {
+              "word": "rear",
+              "definition": [
+                "To raise or bring up children or offspring."
+              ],
+              "examples": [
+                "She worked hard to rear her children as responsible and compassionate individuals.",
+                "The zoo staff rear young animals until they can be released into the wild."
+              ]
+            },
+            {
+              "word": "exploiting",
+              "definition": [
+                "Taking advantage of or making use of something or someone for personal gain or benefit."
+              ],
+              "examples": [
+                "The unethical company was exploiting its workers by paying them extremely low wages.",
+                "Criminals are constantly seeking new ways of exploiting vulnerabilities in computer systems."
+              ]
+            },
+            {
+              "word": "filthy habitat",
+              "definition": [
+                "A living environment that is extremely dirty, unsanitary, or contaminated."
+              ],
+              "examples": [
+                "The conservationists were shocked by the filthy habitat of the endangered species.",
+                "Efforts were made to clean up the filthy habitat of the river and its surroundings."
+              ]
+            },
+            {
+              "word": "faeces",
+              "definition": [
+                "Solid waste material excreted from the body, often referred to as feces or stool."
+              ],
+              "examples": [
+                "The scientist collected samples of animal faeces for analysis.",
+                "Proper sanitation facilities are essential for the disposal of human faeces."
+              ]
+            },
+            {
+              "word": "pathogenic",
+              "definition": [
+                "Capable of causing disease or illness."
+              ],
+              "examples": [
+                "The pathogenic bacteria in the contaminated food led to a widespread illness outbreak.",
+                "Understanding pathogenic agents is crucial for preventing and treating diseases."
+              ]
+            },
+            {
+              "word": "snip out",
+              "definition": [
+                "To cut or remove something quickly and precisely."
+              ],
+              "examples": [
+                "The surgeon had to snip out the damaged tissue during the operation.",
+                "She used scissors to snip out the article from the magazine."
+              ]
+            },
+            {
+              "word": "stretch",
+              "definition": [
+                "To extend or lengthen something beyond its normal limits."
+              ],
+              "examples": [
+                "She had to stretch the truth a bit to make her story more believable.",
+                "The gymnast can stretch her body to incredible lengths."
+              ]
+            },
+            {
+              "word": "fungi",
+              "definition": [
+                "Plural of 'fungus,' referring to a group of microorganisms that includes mushrooms, yeast, and molds."
+              ],
+              "examples": [
+                "Fungi play a crucial role in decomposing organic matter in the ecosystem.",
+                "The study of fungi is known as mycology."
+              ]
+            },
+            {
+              "word": "trench",
+              "definition": [
+                "A long, narrow excavation or ditch dug into the ground, often for purposes such as drainage or protection."
+              ],
+              "examples": [
+                "The soldiers dug a trench to provide cover from enemy fire.",
+                "The construction crew dug a trench to lay underground cables."
+              ]
+            },
+            {
+              "word": "pitfall",
+              "definition": [
+                "A hidden or potential danger or difficulty that is often unforeseen."
+              ],
+              "examples": [
+                "One of the pitfalls of starting a business is the risk of financial instability.",
+                "Avoiding common pitfalls in investing requires careful research and planning."
+              ]
+            },
+            {
+              "word": "insert somebody into",
+              "definition": [
+                "To place or introduce someone into a particular situation or context."
+              ],
+              "examples": [
+                "The coach decided to insert the rookie player into the starting lineup for the championship game.",
+                "The professor often inserts humor into his lectures to keep students engaged."
+              ]
+            },
+            {
+              "word": "precedent",
+              "definition": [
+                "An earlier event or decision that serves as an example or guide for future actions or judgments."
+              ],
+              "examples": [
+                "The court's decision set a precedent for future cases involving similar issues.",
+                "Historical precedents can provide valuable insights into current events."
+              ]
+            },
+            {
+              "word": "recesses",
+              "definition": [
+                "Hidden or remote areas, often referring to interior or concealed parts of something."
+              ],
+              "examples": [
+                "Exploring the recesses of the cave revealed stunning geological formations.",
+                "The recesses of her memory held long-forgotten childhood memories."
+              ]
+            },
+            {
+              "word": "pretending",
+              "definition": [
+                "Behaving in a way that is not genuine or sincere, often to deceive or hide one's true feelings or intentions."
+              ],
+              "examples": [
+                "She was pretending to be asleep when her parents came into her room.",
+                "Pretending to be confident helped him overcome his stage fright."
+              ]
+            },
+            {
+              "word": "component",
+              "definition": [
+                "A part or element of a larger system, structure, or whole."
+              ],
+              "examples": [
+                "The computer consists of several interconnected components, including the CPU and motherboard.",
+                "Each component of the recipe contributes to the overall flavor of the dish."
+              ]
+            },
+            {
+              "word": "expound",
+              "definition": [
+                "To explain or present in detail and systematically."
+              ],
+              "examples": [
+                "The professor began to expound on the theories of quantum physics.",
+                "She was asked to expound upon her research findings during the conference."
+              ]
+            },
+            {
+              "word": "leg up",
+              "definition": [
+                "A helpful advantage or assistance that aids in achieving a goal or overcoming an obstacle."
+              ],
+              "examples": [
+                "Getting a scholarship provided her with a significant leg up in pursuing higher education.",
+                "Networking can give job seekers a leg up in finding employment opportunities."
+              ]
+            },
+            {
+              "word": "flashcards",
+              "definition": [
+                "A set of cards containing information, typically used for studying or memorization."
+              ],
+              "examples": [
+                "She created flashcards to help her memorize vocabulary for the language exam.",
+                "Using flashcards is an effective way to reinforce learning and recall key concepts."
+              ]
+            },
+            {
+              "word": "dichotomy",
+              "definition": [
+                "A division or contrast between two mutually exclusive or opposing concepts or ideas."
+              ],
+              "examples": [
+                "The dichotomy between tradition and innovation is a central theme in the novel.",
+                "The dichotomy of good versus evil is a common element in many epic stories."
+              ]
+            },
+            {
+              "word": "regulate",
+              "definition": [
+                "To control, govern, or adjust according to specific rules, standards, or laws."
+              ],
+              "examples": [
+                "Government agencies regulate the safety of food and drugs for public health.",
+                "Companies must regulate their emissions to comply with environmental regulations."
+              ]
+            },
+            {
+              "word": "negotiation",
+              "definition": [
+                "The process of discussing and reaching an agreement through communication and compromise."
+              ],
+              "examples": [
+                "Successful negotiation requires effective communication and a willingness to find common ground.",
+                "The union and management engaged in negotiations to reach a new labor contract."
+              ]
+            },
+            {
+              "word": "repertoire",
+              "definition": [
+                "A collection or range of skills, techniques, or behaviors that a person possesses or can perform."
+              ],
+              "examples": [
+                "The musician's repertoire includes classical compositions and contemporary pieces.",
+                "Her cooking repertoire features dishes from various international cuisines."
+              ]
+            },
+            {
+              "word": "consensus",
+              "definition": [
+                "A general agreement or harmony among a group of people regarding a particular matter."
+              ],
+              "examples": [
+                "The committee reached a consensus on the proposed changes to the company's policies.",
+                "Consensus among team members is essential for effective decision-making."
+              ]
+            },
+            {
+              "word": "discrete",
+              "definition": [
+                "Distinct, separate, or individual, often referring to separate and non-overlapping components."
+              ],
+              "examples": [
+                "The data points were discrete and did not overlap on the graph.",
+                "The project can be divided into discrete tasks that can be completed independently."
+              ]
+            },
+            {
+              "word": "capture",
+              "definition": [
+                "To catch or seize something, often referring to capturing an image, moment, or concept."
+              ],
+              "examples": [
+                "He tried to capture the beauty of the landscape with his camera.",
+                "The artist aimed to capture the essence of human emotion in her paintings."
+              ]
+            },
+            {
+              "word": "essence",
+              "definition": [
+                "The fundamental or intrinsic nature of something; the most important quality or aspect."
+              ],
+              "examples": [
+                "The essence of the novel lies in its exploration of human relationships.",
+                "The essence of a good friendship is trust and mutual support."
+              ]
+            },
+            {
+              "word": "contemporary",
+              "definition": [
+                "Belonging to the same time period; modern or current in style or design."
+              ],
+              "examples": [
+                "Contemporary art often challenges traditional notions of aesthetics.",
+                "The house features a blend of traditional and contemporary architectural elements."
+              ]
+            },
+            {
+              "word": "spontaneously",
+              "definition": [
+                "Occurring or happening naturally, without external influence or planning."
+              ],
+              "examples": [
+                "Their laughter erupted spontaneously during the comedy show.",
+                "The decision to take a spontaneous road trip was both exciting and liberating."
+              ]
+            },
+            {
+              "word": "continuum",
+              "definition": [
+                "A continuous sequence or range with no clear divisions, often used in the context of a spectrum or scale."
+              ],
+              "examples": [
+                "The spectrum of human emotions forms a continuum from joy to sorrow.",
+                "The concept of time is often seen as a continuum, with past, present, and future interconnected."
+              ]
+            },
+            {
+              "word": "intrinsic",
+              "definition": [
+                "Belonging naturally to something; inherent or essential to its nature."
+              ],
+              "examples": [
+                "Her intrinsic kindness and empathy made her a beloved friend to many.",
+                "The intrinsic value of the artwork lies in its ability to evoke deep emotions in viewers."
+              ]
+            },
+            {
+              "word": "dispositional",
+              "definition": [
+                "Relating to a person's natural tendencies, inclinations, or personality traits."
+              ],
+              "examples": [
+                "Her dispositional optimism helped her maintain a positive outlook during challenging times.",
+                "The study explored the dispositional factors that influence decision-making."
+              ]
+            },
+            {
+              "word": "pleasurable",
+              "definition": [
+                "Causing pleasure or enjoyment; enjoyable."
+              ],
+              "examples": [
+                "The vacation by the beach was a pleasurable experience for the entire family.",
+                "Listening to music can be a pleasurable way to relax and unwind."
+              ]
+            },
+            {
+              "word": "extrinsically",
+              "definition": [
+                "In a manner that is external to the inherent nature of something."
+              ],
+              "examples": [
+                "Some people are motivated extrinsically by rewards and recognition.",
+                "Achieving a sense of purpose can be both intrinsically and extrinsically fulfilling."
               ]
             }
+          ]
 
-          ],
+
         },
         {
           day: 19,
